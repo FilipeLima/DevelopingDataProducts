@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603719382128.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2DF4D1B9",
+    "lastKnownWriteTime" : 1553791832,
+    "last_content_update" : 1553791832,
+    "path" : "C:/Users/Filipe/OneDrive - ufrpe.br/DataScience/Curso Johns Hopkins/DevelopingDataProducts/TestApp/server.R",
+    "project_path" : "TestApp/server.R",
+    "properties" : {
+        "cursorPosition" : "14,35",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
