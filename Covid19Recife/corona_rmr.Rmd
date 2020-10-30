@@ -1,0 +1,39 @@
+---
+title: "corona_rmr"
+author: "Filipe Lima"
+date: "29/10/2020"
+output: html_document
+---
+
+# Covid-19 cases in Recife Health Administrative Region
+
+The data was collected up to October 29th, 2020, from [Wesley Cota Covid19 Github Repository](https://github.com/wcota/covid19br). The circles show how high is the rate of total cases per 100K inhabitants in each city. More information about cases in each marker. The source code is in this [repository](https://github.com/FilipeLima/DevelopingDataProducts/tree/main/Covid19Recife).
+
+
+```{r, echo=FALSE, fig.align='center', warning=FALSE, message=FALSE}
+library(leaflet)
+library(dplyr)
+
+covid <- read.csv("cases-brazil-cities.csv",encoding="UTF-8")
+
+RMR <- covid[covid$name_RegiaoDeSaude=="Recife",]
+
+RMR_cities <- RMR[,c(3,7:10)]
+RMR_cities$city <- gsub("/PE","",RMR_cities$city)
+
+RMR_cities$lat <- c( -7.91014,-7.78852, -8.28744,-8.02044, -8.23255,-8.00152,-3.84036,-8.0024,-7.83437,-7.75, -8.40012,-7.77693,-8.11208,-8.11777, -8.00937,-7.94009, -8.14161,-8.05428,-8.00352,-8.11389)
+RMR_cities$lng <- c(-34.9033,-35.0918,-35.0353,-34.9817,-35.4619,-35.2143,-32.4113,-35.2933,-34.9064,-34.85,-35.0643,-34.8924,-35.0154,-35.0931,-34.8553,-34.8723,-35.3963,-34.8813,-35.0214,-35.2915)
+
+
+popupRMR <- paste(RMR_cities$city," <br> Total Cases: ", 
+                  as.character(RMR_cities$totalCases),
+                  " <br> Total Deaths: ", 
+                  as.character(RMR_cities$deaths),
+                  " <br> Deaths per 100K inhabitants: ", as.character(round(RMR_cities$deaths_per_100k_inhabitants,2)))
+
+
+RMR_cities[,c(6,7)] %>% leaflet() %>% addTiles() %>% 
+        addMarkers(popup=popupRMR) %>%
+        addCircles(weight = 1, radius = sqrt(RMR_cities$totalCases_per_100k_inhabitants )*100)
+```
+
