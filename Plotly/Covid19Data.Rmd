@@ -1,0 +1,77 @@
+---
+title: "Covid19br-RMR"
+author: "Filipe Lima"
+date: "01/11/2020"
+output: ioslides_presentation
+---
+
+
+# Covid19 Evolution in Recife Health Administrative Region
+
+## Introduction
+
+The data was collected up to November 1st, 2020, from [Wesley Cota Covid19 Github Repository](https://github.com/wcota/covid19br). The plots show how Covid-19 evolved in the 20 cities of the Recife Health Administrative Region.  The source code is in this [repository](https://github.com/FilipeLima/DevelopingDataProducts/tree/main/Plotly).
+
+## Total Cases
+
+```{r, echo=FALSE,warning=FALSE,message=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+setwd("C:/Users/Filipe/OneDrive - ufrpe.br/DataScience/Curso Johns Hopkins/DevelopingDataProducts/Plotly")
+covid_time <- read.csv("cases-brazil-cities-time.csv",encoding="UTF-8")
+RMR_time <- covid_time[covid_time$name_RegiaoDeSaude=="Recife",]
+RMR_time$city <- gsub("/PE","",RMR_time$city)
+RMR_time <- RMR_time[,c(2,5,9:12)]
+RMR_time$date <- as.Date(RMR_time$date)
+RMR_time$city <- as.factor(RMR_time$city)
+
+font <- list(
+        family = "Courier New, monospace",
+        size = 18,
+        color = "#7f7f7f"
+)
+x_axis_config <- list(
+        title = "Date",
+        titlefont = font
+)
+y_axis_config <- list(
+        title = "Total Cases",
+        titlefont = font
+)
+
+
+fig <- plot_ly(RMR_time, x = ~date, y = ~totalCases, 
+        color = ~city, type = "scatter", mode = "lines")
+
+fig <- fig %>% layout(title="Covid-19 Cases evolution in Recife Health Administrative Region",
+                      xaxis = x_axis_config, yaxis = y_axis_config)
+fig
+```
+
+## Total Deaths
+
+```{r, echo=FALSE,warning=FALSE,message=FALSE}
+
+font <- list(
+        family = "Courier New, monospace",
+        size = 18,
+        color = "#7f7f7f"
+)
+x_axis_config <- list(
+        title = "Date",
+        titlefont = font
+)
+y_axis_config <- list(
+        title = "Total Deaths",
+        titlefont = font
+)
+
+
+fig2 <- plot_ly(RMR_time, x = ~date, y = ~deaths, 
+        color = ~city, type = "scatter", mode = "lines")
+
+fig2 <- fig2 %>% layout(title="Covid-19 Deaths evolution in Recife Health Administrative Region",
+                      xaxis = x_axis_config, yaxis = y_axis_config)
+fig2
+```
