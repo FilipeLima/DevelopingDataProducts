@@ -1,0 +1,89 @@
+---
+title: "CoViz"
+author: "Filipe Lima"
+output: slidy_presentation
+footer: "Created by Filipe Lima , November 2020"
+widescreen: true
+font-import: https://fonts.googleapis.com/css2?family=Playfair+Display
+font-family: 'Playfair Display'
+keep_md: true
+---
+
+
+## Introduction
+
+
+- The Covid-10 Pandemic arrived in the State of Pernambuco, Brazil, in March, 2020.
+- The Recife Health Administrative Region have 4.1 million inhabitants.
+- This map shows the location of the cities and each circle gives a comparative idea about the spread of cases as of October 29th.
+
+
+```{r, echo=FALSE, fig.align='center', warning=FALSE, message=FALSE}
+library(leaflet)
+library(dplyr)
+covid <- read.csv("data/cases-brazil-cities.csv",encoding="UTF-8")
+
+RMR <- covid[covid$name_RegiaoDeSaude=="Recife",]
+
+RMR_cities <- RMR[,c(3,7:10)]
+RMR_cities$city <- gsub("/PE","",RMR_cities$city)
+
+RMR_cities$lat <- c( -7.91014,-7.78852, -8.28744,-8.02044, -8.23255,-8.00152,-3.84036,-8.0024,-7.83437,-7.75, -8.40012,-7.77693,-8.11208,-8.11777, -8.00937,-7.94009, -8.14161,-8.05428,-8.00352,-8.11389)
+RMR_cities$lng <- c(-34.9033,-35.0918,-35.0353,-34.9817,-35.4619,-35.2143,-32.4113,-35.2933,-34.9064,-34.85,-35.0643,-34.8924,-35.0154,-35.0931,-34.8553,-34.8723,-35.3963,-34.8813,-35.0214,-35.2915)
+
+
+popupRMR <- paste(RMR_cities$city," <br> Total Cases: ", 
+                  as.character(RMR_cities$totalCases),
+                  " <br> Total Deaths: ", 
+                  as.character(RMR_cities$deaths),
+                  " <br> Deaths per 100K inhabitants: ", as.character(round(RMR_cities$deaths_per_100k_inhabitants,2)))
+RMR_cities[,c(6,7)] %>% leaflet() %>% addTiles() %>% 
+        addMarkers(popup=popupRMR) %>%
+        addCircles(weight = 1, radius = sqrt(RMR_cities$totalCases_per_100k_inhabitants )*100)
+```
+
+## App
+
+- There is a need to understand how the disease evoluted in that region.
+- The Covid-19 Visualization App:  [CoViz](https://filipemlima.shinyapps.io/CoViz/) helps to understand the way that ocurred.
+- In the app, you will see a graph like this, in this example is the Total Cases plot, and you will be able to select which city you want to be shown:
+
+```{r, echo=FALSE,warning=FALSE,message=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+
+RMR_time <- read.csv("data/cases-recife.csv",encoding="UTF-8")
+# RMR_time <- covid_time[covid_time$name_RegiaoDeSaude=="Recife",]
+# RMR_time$city <- gsub("/PE","",RMR_time$city)
+# RMR_time <- RMR_time[,c(2,5,9:12)]
+ RMR_time$date <- as.Date(RMR_time$date)
+ RMR_time$city <- as.factor(RMR_time$city)
+
+font <- list(
+        family = "Courier New, monospace",
+        size = 18,
+        color = "#7f7f7f"
+)
+x_axis_config <- list(
+        title = "Date",
+        titlefont = font
+)
+y_axis_config <- list(
+        title = "Total Cases",
+        titlefont = font
+)
+
+
+fig <- plot_ly(RMR_time, x = ~date, y = ~totalCases, 
+        color = ~city, type = "scatter", mode = "lines")
+
+fig <- fig %>% layout(title="Covid-19 Cases evolution in Recife Health Administrative Region",
+                      xaxis = x_axis_config, yaxis = y_axis_config)
+fig
+```
+
+## Final word
+
+- This app and presentation was created by Filipe Lima as the final project for the Developing Data Products course in the Data Science Specialization.
+- The source code for the whole project can be found in this [Github Repository](https://github.com/FilipeLima/DevelopingDataProducts/tree/main/CoViz)

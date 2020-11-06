@@ -1,0 +1,13 @@
+name: CoViz
+title: CoViz
+username:
+account: filipemlima
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3148188
+bundleId: 3813478
+url: https://filipemlima.shinyapps.io/CoViz/
+when: 1604369249.55493
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: rawcode.R|data/cases-recife2.csv

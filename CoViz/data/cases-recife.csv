@@ -1,0 +1,3662 @@
+"date","city","newDeaths","deaths","newCases","totalCases"
+2020-03-12,"Recife",0,0,2,2
+2020-03-13,"Recife",0,0,0,2
+2020-03-14,"Recife",0,0,4,6
+2020-03-15,"Recife",0,0,1,7
+2020-03-16,"Recife",0,0,0,7
+2020-03-17,"Jaboatão dos Guararapes",0,0,2,2
+2020-03-17,"Recife",0,0,6,13
+2020-03-18,"Jaboatão dos Guararapes",0,0,-1,1
+2020-03-18,"Recife",0,0,1,14
+2020-03-19,"Jaboatão dos Guararapes",0,0,0,1
+2020-03-19,"Recife",0,0,0,14
+2020-03-20,"Jaboatão dos Guararapes",0,0,0,1
+2020-03-20,"Recife",0,0,0,14
+2020-03-21,"Jaboatão dos Guararapes",0,0,2,3
+2020-03-21,"Recife",0,0,11,25
+2020-03-22,"Jaboatão dos Guararapes",0,0,0,3
+2020-03-22,"Olinda",0,0,1,1
+2020-03-22,"Recife",0,0,3,28
+2020-03-23,"Jaboatão dos Guararapes",0,0,0,3
+2020-03-23,"Olinda",0,0,1,2
+2020-03-23,"Recife",0,0,2,30
+2020-03-24,"Jaboatão dos Guararapes",0,0,0,3
+2020-03-24,"Olinda",0,0,0,2
+2020-03-24,"Recife",0,0,0,30
+2020-03-25,"Jaboatão dos Guararapes",0,0,0,3
+2020-03-25,"Olinda",0,0,1,3
+2020-03-25,"Recife",1,1,1,31
+2020-03-26,"Jaboatão dos Guararapes",0,0,0,3
+2020-03-26,"Olinda",0,0,0,3
+2020-03-26,"Recife",1,2,2,33
+2020-03-27,"Camaragibe",0,0,1,1
+2020-03-27,"Fernando de Noronha",0,0,1,1
+2020-03-27,"Jaboatão dos Guararapes",0,0,1,4
+2020-03-27,"Olinda",0,0,0,3
+2020-03-27,"Recife",1,3,5,38
+2020-03-28,"Camaragibe",0,0,0,1
+2020-03-28,"Fernando de Noronha",0,0,0,1
+2020-03-28,"Jaboatão dos Guararapes",0,0,1,5
+2020-03-28,"Olinda",0,0,1,4
+2020-03-28,"Recife",1,4,8,46
+2020-03-28,"São Lourenço da Mata",0,0,1,1
+2020-03-29,"Camaragibe",0,0,0,1
+2020-03-29,"Fernando de Noronha",0,0,0,1
+2020-03-29,"Jaboatão dos Guararapes",0,0,1,6
+2020-03-29,"Olinda",0,0,0,4
+2020-03-29,"Recife",0,4,4,50
+2020-03-29,"São Lourenço da Mata",0,0,0,1
+2020-03-30,"Camaragibe",0,0,0,1
+2020-03-30,"Fernando de Noronha",0,0,0,1
+2020-03-30,"Jaboatão dos Guararapes",0,0,0,6
+2020-03-30,"Olinda",0,0,1,5
+2020-03-30,"Recife",0,4,2,52
+2020-03-30,"São Lourenço da Mata",0,0,0,1
+2020-03-31,"Camaragibe",0,0,0,1
+2020-03-31,"Fernando de Noronha",0,0,1,2
+2020-03-31,"Jaboatão dos Guararapes",0,0,0,6
+2020-03-31,"Olinda",0,0,0,5
+2020-03-31,"Recife",0,4,6,58
+2020-03-31,"São Lourenço da Mata",0,0,2,3
+2020-04-01,"Camaragibe",0,0,1,2
+2020-04-01,"Fernando de Noronha",0,0,0,2
+2020-04-01,"Jaboatão dos Guararapes",0,0,0,6
+2020-04-01,"Olinda",1,1,0,5
+2020-04-01,"Recife",1,5,6,64
+2020-04-01,"São Lourenço da Mata",0,0,0,3
+2020-04-02,"Camaragibe",0,0,0,2
+2020-04-02,"Fernando de Noronha",0,0,0,2
+2020-04-02,"Jaboatão dos Guararapes",0,0,1,7
+2020-04-02,"Olinda",0,1,0,5
+2020-04-02,"Recife",1,6,10,74
+2020-04-02,"São Lourenço da Mata",0,0,0,3
+2020-04-03,"Cabo de Santo Agostinho",1,1,2,2
+2020-04-03,"Camaragibe",0,0,2,4
+2020-04-03,"Fernando de Noronha",0,0,3,5
+2020-04-03,"Jaboatão dos Guararapes",0,0,1,8
+2020-04-03,"Olinda",0,1,1,6
+2020-04-03,"Paulista",0,0,3,3
+2020-04-03,"Recife",0,6,18,92
+2020-04-03,"São Lourenço da Mata",0,0,0,3
+2020-04-04,"Cabo de Santo Agostinho",0,1,2,4
+2020-04-04,"Camaragibe",0,0,2,6
+2020-04-04,"Fernando de Noronha",0,0,2,7
+2020-04-04,"Jaboatão dos Guararapes",0,0,3,11
+2020-04-04,"Olinda",0,1,2,8
+2020-04-04,"Paulista",0,0,0,3
+2020-04-04,"Recife",4,10,27,119
+2020-04-04,"São Lourenço da Mata",0,0,0,3
+2020-04-05,"Cabo de Santo Agostinho",0,1,1,5
+2020-04-05,"Camaragibe",0,0,0,6
+2020-04-05,"Fernando de Noronha",0,0,0,7
+2020-04-05,"Jaboatão dos Guararapes",0,0,1,12
+2020-04-05,"Olinda",2,3,1,9
+2020-04-05,"Paulista",0,0,2,5
+2020-04-05,"Recife",4,14,20,139
+2020-04-05,"São Lourenço da Mata",0,0,0,3
+2020-04-06,"Cabo de Santo Agostinho",0,1,0,5
+2020-04-06,"Camaragibe",1,1,1,7
+2020-04-06,"Fernando de Noronha",0,0,0,7
+2020-04-06,"Jaboatão dos Guararapes",1,1,3,15
+2020-04-06,"Olinda",0,3,2,11
+2020-04-06,"Paulista",0,0,0,5
+2020-04-06,"Recife",2,16,7,146
+2020-04-06,"São Lourenço da Mata",3,3,4,7
+2020-04-07,"Cabo de Santo Agostinho",0,1,1,6
+2020-04-07,"Camaragibe",0,1,3,10
+2020-04-07,"Fernando de Noronha",0,0,7,14
+2020-04-07,"Igarassu",0,0,1,1
+2020-04-07,"Jaboatão dos Guararapes",0,1,9,24
+2020-04-07,"Moreno",0,0,2,2
+2020-04-07,"Olinda",0,3,7,18
+2020-04-07,"Paulista",0,0,3,8
+2020-04-07,"Recife",2,18,75,221
+2020-04-07,"São Lourenço da Mata",0,3,7,14
+2020-04-07,"Vitória de Santo Antão",0,0,3,3
+2020-04-08,"Cabo de Santo Agostinho",1,2,2,8
+2020-04-08,"Camaragibe",1,2,3,13
+2020-04-08,"Fernando de Noronha",0,0,0,14
+2020-04-08,"Igarassu",0,0,0,1
+2020-04-08,"Jaboatão dos Guararapes",1,2,2,26
+2020-04-08,"Moreno",0,0,0,2
+2020-04-08,"Olinda",2,5,3,21
+2020-04-08,"Paulista",0,0,1,9
+2020-04-08,"Recife",3,21,33,254
+2020-04-08,"São Lourenço da Mata",2,5,1,15
+2020-04-08,"Vitória de Santo Antão",0,0,0,3
+2020-04-09,"Abreu e Lima",0,0,1,1
+2020-04-09,"Cabo de Santo Agostinho",2,4,4,12
+2020-04-09,"Camaragibe",0,2,7,20
+2020-04-09,"Fernando de Noronha",0,0,0,14
+2020-04-09,"Igarassu",0,0,0,1
+2020-04-09,"Jaboatão dos Guararapes",0,2,9,35
+2020-04-09,"Moreno",0,0,0,2
+2020-04-09,"Olinda",0,5,11,32
+2020-04-09,"Paulista",0,0,14,23
+2020-04-09,"Pombos",0,0,1,1
+2020-04-09,"Recife",6,27,86,340
+2020-04-09,"São Lourenço da Mata",1,6,5,20
+2020-04-09,"Vitória de Santo Antão",0,0,0,3
+2020-04-10,"Abreu e Lima",0,0,0,1
+2020-04-10,"Cabo de Santo Agostinho",0,4,1,13
+2020-04-10,"Camaragibe",1,3,4,24
+2020-04-10,"Fernando de Noronha",0,0,0,14
+2020-04-10,"Igarassu",1,1,1,2
+2020-04-10,"Ipojuca",0,0,1,1
+2020-04-10,"Jaboatão dos Guararapes",0,2,16,51
+2020-04-10,"Moreno",0,0,0,2
+2020-04-10,"Olinda",0,5,12,44
+2020-04-10,"Paulista",0,0,11,34
+2020-04-10,"Pombos",0,0,0,1
+2020-04-10,"Recife",5,32,73,413
+2020-04-10,"São Lourenço da Mata",0,6,1,21
+2020-04-10,"Vitória de Santo Antão",0,0,0,3
+2020-04-11,"Abreu e Lima",0,0,4,5
+2020-04-11,"Cabo de Santo Agostinho",0,4,1,14
+2020-04-11,"Camaragibe",0,3,4,28
+2020-04-11,"Fernando de Noronha",0,0,0,14
+2020-04-11,"Igarassu",0,1,1,3
+2020-04-11,"Ipojuca",0,0,2,3
+2020-04-11,"Jaboatão dos Guararapes",1,3,6,57
+2020-04-11,"Moreno",0,0,0,2
+2020-04-11,"Olinda",1,6,13,57
+2020-04-11,"Paulista",0,0,6,40
+2020-04-11,"Pombos",0,0,0,1
+2020-04-11,"Recife",2,34,73,486
+2020-04-11,"São Lourenço da Mata",1,7,7,28
+2020-04-11,"Vitória de Santo Antão",0,0,1,4
+2020-04-12,"Abreu e Lima",0,0,5,10
+2020-04-12,"Cabo de Santo Agostinho",1,5,1,15
+2020-04-12,"Camaragibe",1,4,5,33
+2020-04-12,"Chã Grande",0,0,1,1
+2020-04-12,"Fernando de Noronha",0,0,10,24
+2020-04-12,"Glória do Goitá",0,0,1,1
+2020-04-12,"Igarassu",0,1,0,3
+2020-04-12,"Ipojuca",0,0,2,5
+2020-04-12,"Itapissuma",0,0,1,1
+2020-04-12,"Jaboatão dos Guararapes",2,5,10,67
+2020-04-12,"Moreno",0,0,0,2
+2020-04-12,"Olinda",0,6,15,72
+2020-04-12,"Paulista",0,0,7,47
+2020-04-12,"Pombos",0,0,0,1
+2020-04-12,"Recife",3,37,71,557
+2020-04-12,"São Lourenço da Mata",2,9,3,31
+2020-04-12,"Vitória de Santo Antão",1,1,1,5
+2020-04-13,"Abreu e Lima",0,0,3,13
+2020-04-13,"Araçoiaba",0,0,2,2
+2020-04-13,"Cabo de Santo Agostinho",0,5,0,15
+2020-04-13,"Camaragibe",0,4,4,37
+2020-04-13,"Chã Grande",0,0,0,1
+2020-04-13,"Fernando de Noronha",0,0,0,24
+2020-04-13,"Glória do Goitá",0,0,0,1
+2020-04-13,"Igarassu",0,1,0,3
+2020-04-13,"Ipojuca",0,0,0,5
+2020-04-13,"Itapissuma",0,0,1,2
+2020-04-13,"Jaboatão dos Guararapes",1,6,12,79
+2020-04-13,"Moreno",0,0,2,4
+2020-04-13,"Olinda",1,7,19,91
+2020-04-13,"Paulista",2,2,20,67
+2020-04-13,"Pombos",1,1,1,2
+2020-04-13,"Recife",9,46,115,672
+2020-04-13,"São Lourenço da Mata",0,9,2,33
+2020-04-13,"Vitória de Santo Antão",0,1,1,6
+2020-04-14,"Abreu e Lima",0,0,2,15
+2020-04-14,"Araçoiaba",0,0,0,2
+2020-04-14,"Cabo de Santo Agostinho",2,7,4,19
+2020-04-14,"Camaragibe",1,5,8,45
+2020-04-14,"Chã Grande",0,0,0,1
+2020-04-14,"Chã de Alegria",0,0,1,1
+2020-04-14,"Fernando de Noronha",0,0,0,24
+2020-04-14,"Glória do Goitá",0,0,0,1
+2020-04-14,"Igarassu",0,1,2,5
+2020-04-14,"Ilha de Itamaracá",0,0,2,2
+2020-04-14,"Ipojuca",0,0,0,5
+2020-04-14,"Itapissuma",0,0,0,2
+2020-04-14,"Jaboatão dos Guararapes",1,7,15,94
+2020-04-14,"Moreno",1,1,1,5
+2020-04-14,"Olinda",1,8,11,102
+2020-04-14,"Paulista",0,2,8,75
+2020-04-14,"Pombos",0,1,0,2
+2020-04-14,"Recife",4,50,61,733
+2020-04-14,"São Lourenço da Mata",1,10,10,43
+2020-04-14,"Vitória de Santo Antão",0,1,1,7
+2020-04-15,"Abreu e Lima",0,0,0,15
+2020-04-15,"Araçoiaba",0,0,0,2
+2020-04-15,"Cabo de Santo Agostinho",1,8,-1,18
+2020-04-15,"Camaragibe",1,6,10,55
+2020-04-15,"Chã Grande",0,0,1,2
+2020-04-15,"Chã de Alegria",0,0,0,1
+2020-04-15,"Fernando de Noronha",0,0,0,24
+2020-04-15,"Glória do Goitá",0,0,1,2
+2020-04-15,"Igarassu",1,2,3,8
+2020-04-15,"Ilha de Itamaracá",0,0,1,3
+2020-04-15,"Ipojuca",1,1,2,7
+2020-04-15,"Itapissuma",0,0,0,2
+2020-04-15,"Jaboatão dos Guararapes",3,10,9,103
+2020-04-15,"Moreno",0,1,1,6
+2020-04-15,"Olinda",3,11,20,122
+2020-04-15,"Paulista",2,4,8,83
+2020-04-15,"Pombos",0,1,0,2
+2020-04-15,"Recife",12,62,124,857
+2020-04-15,"São Lourenço da Mata",1,11,3,46
+2020-04-15,"Vitória de Santo Antão",0,1,3,10
+2020-04-16,"Abreu e Lima",0,0,2,17
+2020-04-16,"Araçoiaba",0,0,0,2
+2020-04-16,"Cabo de Santo Agostinho",1,9,1,19
+2020-04-16,"Camaragibe",0,6,8,63
+2020-04-16,"Chã Grande",0,0,1,3
+2020-04-16,"Chã de Alegria",0,0,0,1
+2020-04-16,"Fernando de Noronha",0,0,0,24
+2020-04-16,"Glória do Goitá",0,0,0,2
+2020-04-16,"Igarassu",0,2,5,13
+2020-04-16,"Ilha de Itamaracá",0,0,1,4
+2020-04-16,"Ipojuca",0,1,0,7
+2020-04-16,"Itapissuma",0,0,0,2
+2020-04-16,"Jaboatão dos Guararapes",1,11,18,121
+2020-04-16,"Moreno",1,2,0,6
+2020-04-16,"Olinda",1,12,25,147
+2020-04-16,"Paulista",0,4,15,98
+2020-04-16,"Pombos",0,1,0,2
+2020-04-16,"Recife",8,70,101,958
+2020-04-16,"São Lourenço da Mata",1,12,6,52
+2020-04-16,"Vitória de Santo Antão",1,2,1,11
+2020-04-17,"Abreu e Lima",0,0,1,18
+2020-04-17,"Araçoiaba",0,0,0,2
+2020-04-17,"Cabo de Santo Agostinho",1,10,2,21
+2020-04-17,"Camaragibe",1,7,17,80
+2020-04-17,"Chã Grande",0,0,0,3
+2020-04-17,"Chã de Alegria",0,0,1,2
+2020-04-17,"Fernando de Noronha",0,0,0,24
+2020-04-17,"Glória do Goitá",0,0,0,2
+2020-04-17,"Igarassu",1,3,2,15
+2020-04-17,"Ilha de Itamaracá",0,0,0,4
+2020-04-17,"Ipojuca",0,1,0,7
+2020-04-17,"Itapissuma",0,0,0,2
+2020-04-17,"Jaboatão dos Guararapes",3,14,18,139
+2020-04-17,"Moreno",0,2,0,6
+2020-04-17,"Olinda",1,13,38,185
+2020-04-17,"Paulista",0,4,24,122
+2020-04-17,"Pombos",0,1,2,4
+2020-04-17,"Recife",15,85,178,1136
+2020-04-17,"São Lourenço da Mata",1,13,9,61
+2020-04-17,"Vitória de Santo Antão",2,4,4,15
+2020-04-18,"Abreu e Lima",0,0,3,21
+2020-04-18,"Araçoiaba",0,0,0,2
+2020-04-18,"Cabo de Santo Agostinho",1,11,1,22
+2020-04-18,"Camaragibe",0,7,7,87
+2020-04-18,"Chã Grande",0,0,0,3
+2020-04-18,"Chã de Alegria",0,0,0,2
+2020-04-18,"Fernando de Noronha",0,0,2,26
+2020-04-18,"Glória do Goitá",0,0,0,2
+2020-04-18,"Igarassu",0,3,1,16
+2020-04-18,"Ilha de Itamaracá",0,0,0,4
+2020-04-18,"Ipojuca",0,1,0,7
+2020-04-18,"Itapissuma",0,0,0,2
+2020-04-18,"Jaboatão dos Guararapes",1,15,20,159
+2020-04-18,"Moreno",0,2,1,7
+2020-04-18,"Olinda",1,14,13,198
+2020-04-18,"Paulista",1,5,8,130
+2020-04-18,"Pombos",0,1,0,4
+2020-04-18,"Recife",9,94,119,1255
+2020-04-18,"São Lourenço da Mata",0,13,3,64
+2020-04-18,"Vitória de Santo Antão",0,4,5,20
+2020-04-19,"Abreu e Lima",0,0,6,27
+2020-04-19,"Araçoiaba",0,0,0,2
+2020-04-19,"Cabo de Santo Agostinho",0,11,5,27
+2020-04-19,"Camaragibe",0,7,6,93
+2020-04-19,"Chã Grande",0,0,0,3
+2020-04-19,"Chã de Alegria",0,0,0,2
+2020-04-19,"Fernando de Noronha",0,0,1,27
+2020-04-19,"Glória do Goitá",0,0,0,2
+2020-04-19,"Igarassu",1,4,2,18
+2020-04-19,"Ilha de Itamaracá",0,0,0,4
+2020-04-19,"Ipojuca",0,1,3,10
+2020-04-19,"Itapissuma",0,0,0,2
+2020-04-19,"Jaboatão dos Guararapes",1,16,30,189
+2020-04-19,"Moreno",0,2,3,10
+2020-04-19,"Olinda",2,16,15,213
+2020-04-19,"Paulista",0,5,13,143
+2020-04-19,"Pombos",0,1,2,6
+2020-04-19,"Recife",6,100,144,1399
+2020-04-19,"São Lourenço da Mata",1,14,4,68
+2020-04-19,"Vitória de Santo Antão",0,4,2,22
+2020-04-20,"Abreu e Lima",0,0,2,29
+2020-04-20,"Araçoiaba",0,0,0,2
+2020-04-20,"Cabo de Santo Agostinho",0,11,3,30
+2020-04-20,"Camaragibe",1,8,12,105
+2020-04-20,"Chã Grande",0,0,0,3
+2020-04-20,"Chã de Alegria",0,0,0,2
+2020-04-20,"Fernando de Noronha",0,0,0,27
+2020-04-20,"Glória do Goitá",0,0,1,3
+2020-04-20,"Igarassu",1,5,5,23
+2020-04-20,"Ilha de Itamaracá",0,0,0,4
+2020-04-20,"Ipojuca",0,1,0,10
+2020-04-20,"Itapissuma",0,0,0,2
+2020-04-20,"Jaboatão dos Guararapes",2,18,15,204
+2020-04-20,"Moreno",0,2,0,10
+2020-04-20,"Olinda",3,19,20,233
+2020-04-20,"Paulista",1,6,10,153
+2020-04-20,"Pombos",0,1,0,6
+2020-04-20,"Recife",7,107,153,1552
+2020-04-20,"São Lourenço da Mata",0,14,0,68
+2020-04-20,"Vitória de Santo Antão",0,4,3,25
+2020-04-21,"Abreu e Lima",0,0,0,29
+2020-04-21,"Araçoiaba",0,0,0,2
+2020-04-21,"Cabo de Santo Agostinho",1,12,2,32
+2020-04-21,"Camaragibe",2,10,5,110
+2020-04-21,"Chã Grande",0,0,0,3
+2020-04-21,"Chã de Alegria",0,0,0,2
+2020-04-21,"Fernando de Noronha",0,0,2,29
+2020-04-21,"Glória do Goitá",1,1,0,3
+2020-04-21,"Igarassu",0,5,1,24
+2020-04-21,"Ilha de Itamaracá",0,0,1,5
+2020-04-21,"Ipojuca",1,2,1,11
+2020-04-21,"Itapissuma",0,0,0,2
+2020-04-21,"Jaboatão dos Guararapes",4,22,14,218
+2020-04-21,"Moreno",0,2,2,12
+2020-04-21,"Olinda",4,23,20,253
+2020-04-21,"Paulista",1,7,11,164
+2020-04-21,"Pombos",0,1,0,6
+2020-04-21,"Recife",7,114,135,1687
+2020-04-21,"São Lourenço da Mata",4,18,5,73
+2020-04-21,"Vitória de Santo Antão",1,5,1,26
+2020-04-22,"Abreu e Lima",1,1,2,31
+2020-04-22,"Araçoiaba",0,0,1,3
+2020-04-22,"Cabo de Santo Agostinho",0,12,8,40
+2020-04-22,"Camaragibe",1,11,7,117
+2020-04-22,"Chã Grande",0,0,0,3
+2020-04-22,"Chã de Alegria",0,0,1,3
+2020-04-22,"Fernando de Noronha",0,0,-1,28
+2020-04-22,"Glória do Goitá",0,1,1,4
+2020-04-22,"Igarassu",0,5,3,27
+2020-04-22,"Ilha de Itamaracá",0,0,0,5
+2020-04-22,"Ipojuca",0,2,2,13
+2020-04-22,"Itapissuma",0,0,1,3
+2020-04-22,"Jaboatão dos Guararapes",1,23,35,253
+2020-04-22,"Moreno",0,2,2,14
+2020-04-22,"Olinda",2,25,40,293
+2020-04-22,"Paulista",4,11,20,184
+2020-04-22,"Pombos",0,1,2,8
+2020-04-22,"Recife",10,124,217,1904
+2020-04-22,"São Lourenço da Mata",0,18,14,87
+2020-04-22,"Vitória de Santo Antão",1,6,4,30
+2020-04-23,"Abreu e Lima",0,1,5,36
+2020-04-23,"Araçoiaba",0,0,0,3
+2020-04-23,"Cabo de Santo Agostinho",0,12,3,43
+2020-04-23,"Camaragibe",3,14,7,124
+2020-04-23,"Chã Grande",0,0,6,9
+2020-04-23,"Chã de Alegria",0,0,1,4
+2020-04-23,"Fernando de Noronha",0,0,0,28
+2020-04-23,"Glória do Goitá",1,2,2,6
+2020-04-23,"Igarassu",0,5,4,31
+2020-04-23,"Ilha de Itamaracá",0,0,1,6
+2020-04-23,"Ipojuca",1,3,1,14
+2020-04-23,"Itapissuma",0,0,0,3
+2020-04-23,"Jaboatão dos Guararapes",4,27,29,282
+2020-04-23,"Moreno",0,2,5,19
+2020-04-23,"Olinda",0,25,31,324
+2020-04-23,"Paulista",0,11,24,208
+2020-04-23,"Pombos",0,1,0,8
+2020-04-23,"Recife",14,138,158,2062
+2020-04-23,"São Lourenço da Mata",2,20,7,94
+2020-04-23,"Vitória de Santo Antão",1,7,6,36
+2020-04-24,"Abreu e Lima",0,1,-5,31
+2020-04-24,"Araçoiaba",0,0,-1,2
+2020-04-24,"Cabo de Santo Agostinho",0,12,-10,33
+2020-04-24,"Camaragibe",0,14,-6,118
+2020-04-24,"Chã Grande",0,0,-5,4
+2020-04-24,"Chã de Alegria",0,0,0,4
+2020-04-24,"Fernando de Noronha",0,0,0,28
+2020-04-24,"Glória do Goitá",1,3,0,6
+2020-04-24,"Igarassu",2,7,-2,29
+2020-04-24,"Ilha de Itamaracá",0,0,-1,5
+2020-04-24,"Ipojuca",0,3,0,14
+2020-04-24,"Itapissuma",0,0,-1,2
+2020-04-24,"Jaboatão dos Guararapes",8,35,-21,261
+2020-04-24,"Moreno",0,2,-8,11
+2020-04-24,"Olinda",3,28,-43,281
+2020-04-24,"Paulista",3,14,-15,193
+2020-04-24,"Pombos",0,1,-1,7
+2020-04-24,"Recife",14,152,-415,1647
+2020-04-24,"São Lourenço da Mata",0,20,-5,89
+2020-04-24,"Vitória de Santo Antão",0,7,-1,35
+2020-04-25,"Abreu e Lima",1,2,8,39
+2020-04-25,"Araçoiaba",0,0,0,2
+2020-04-25,"Cabo de Santo Agostinho",0,12,3,36
+2020-04-25,"Camaragibe",0,14,18,136
+2020-04-25,"Chã Grande",0,0,0,4
+2020-04-25,"Chã de Alegria",0,0,0,4
+2020-04-25,"Fernando de Noronha",0,0,0,28
+2020-04-25,"Glória do Goitá",0,3,0,6
+2020-04-25,"Igarassu",1,8,3,32
+2020-04-25,"Ilha de Itamaracá",0,0,0,5
+2020-04-25,"Ipojuca",0,3,6,20
+2020-04-25,"Itapissuma",0,0,0,2
+2020-04-25,"Jaboatão dos Guararapes",6,41,39,300
+2020-04-25,"Moreno",0,2,2,13
+2020-04-25,"Olinda",2,30,12,293
+2020-04-25,"Paulista",4,18,17,210
+2020-04-25,"Pombos",0,1,1,8
+2020-04-25,"Recife",12,164,129,1776
+2020-04-25,"São Lourenço da Mata",2,22,8,97
+2020-04-25,"Vitória de Santo Antão",2,9,4,39
+2020-04-26,"Abreu e Lima",0,2,10,49
+2020-04-26,"Araçoiaba",0,0,1,3
+2020-04-26,"Cabo de Santo Agostinho",-1,11,18,54
+2020-04-26,"Camaragibe",0,14,38,174
+2020-04-26,"Chã Grande",0,0,8,12
+2020-04-26,"Chã de Alegria",0,0,1,5
+2020-04-26,"Fernando de Noronha",0,0,0,28
+2020-04-26,"Glória do Goitá",0,3,3,9
+2020-04-26,"Igarassu",0,8,13,45
+2020-04-26,"Ilha de Itamaracá",0,0,2,7
+2020-04-26,"Ipojuca",0,3,0,20
+2020-04-26,"Itapissuma",0,0,2,4
+2020-04-26,"Jaboatão dos Guararapes",7,48,110,410
+2020-04-26,"Moreno",-1,1,14,27
+2020-04-26,"Olinda",2,32,140,433
+2020-04-26,"Paulista",2,20,101,311
+2020-04-26,"Pombos",1,2,10,18
+2020-04-26,"Recife",18,182,946,2722
+2020-04-26,"São Lourenço da Mata",1,23,21,118
+2020-04-26,"Vitória de Santo Antão",1,10,24,63
+2020-04-27,"Abreu e Lima",0,2,5,54
+2020-04-27,"Araçoiaba",1,1,2,5
+2020-04-27,"Cabo de Santo Agostinho",1,12,12,66
+2020-04-27,"Camaragibe",3,17,16,190
+2020-04-27,"Chã Grande",0,0,5,17
+2020-04-27,"Chã de Alegria",1,1,2,7
+2020-04-27,"Fernando de Noronha",0,0,0,28
+2020-04-27,"Glória do Goitá",0,3,0,9
+2020-04-27,"Igarassu",0,8,1,46
+2020-04-27,"Ilha de Itamaracá",0,0,1,8
+2020-04-27,"Ipojuca",0,3,0,20
+2020-04-27,"Itapissuma",0,0,1,5
+2020-04-27,"Jaboatão dos Guararapes",4,52,46,456
+2020-04-27,"Moreno",0,1,2,29
+2020-04-27,"Olinda",3,35,43,476
+2020-04-27,"Paulista",1,21,26,337
+2020-04-27,"Pombos",0,2,0,18
+2020-04-27,"Recife",13,195,249,2971
+2020-04-27,"São Lourenço da Mata",0,23,7,125
+2020-04-27,"Vitória de Santo Antão",1,11,3,66
+2020-04-28,"Abreu e Lima",2,4,8,62
+2020-04-28,"Araçoiaba",0,1,0,5
+2020-04-28,"Cabo de Santo Agostinho",1,13,5,71
+2020-04-28,"Camaragibe",0,17,11,201
+2020-04-28,"Chã Grande",0,0,0,17
+2020-04-28,"Chã de Alegria",0,1,1,8
+2020-04-28,"Fernando de Noronha",0,0,0,28
+2020-04-28,"Glória do Goitá",0,3,0,9
+2020-04-28,"Igarassu",1,9,8,54
+2020-04-28,"Ilha de Itamaracá",0,0,0,8
+2020-04-28,"Ipojuca",0,3,2,22
+2020-04-28,"Itapissuma",1,1,0,5
+2020-04-28,"Jaboatão dos Guararapes",4,56,33,489
+2020-04-28,"Moreno",0,1,1,30
+2020-04-28,"Olinda",7,42,39,515
+2020-04-28,"Paulista",5,26,31,368
+2020-04-28,"Pombos",0,2,0,18
+2020-04-28,"Recife",24,219,187,3158
+2020-04-28,"São Lourenço da Mata",1,24,8,133
+2020-04-28,"Vitória de Santo Antão",1,12,4,70
+2020-04-29,"Abreu e Lima",0,4,5,67
+2020-04-29,"Araçoiaba",0,1,0,5
+2020-04-29,"Cabo de Santo Agostinho",2,15,5,76
+2020-04-29,"Camaragibe",1,18,12,213
+2020-04-29,"Chã Grande",0,0,1,18
+2020-04-29,"Chã de Alegria",0,1,2,10
+2020-04-29,"Fernando de Noronha",0,0,0,28
+2020-04-29,"Glória do Goitá",1,4,2,11
+2020-04-29,"Igarassu",0,9,4,58
+2020-04-29,"Ilha de Itamaracá",0,0,0,8
+2020-04-29,"Ipojuca",0,3,1,23
+2020-04-29,"Itapissuma",0,1,0,5
+2020-04-29,"Jaboatão dos Guararapes",3,59,43,532
+2020-04-29,"Moreno",0,1,2,32
+2020-04-29,"Olinda",0,42,36,551
+2020-04-29,"Paulista",0,26,27,395
+2020-04-29,"Pombos",0,2,5,23
+2020-04-29,"Recife",17,236,265,3423
+2020-04-29,"São Lourenço da Mata",1,25,9,142
+2020-04-29,"Vitória de Santo Antão",0,12,8,78
+2020-04-30,"Abreu e Lima",0,4,5,72
+2020-04-30,"Araçoiaba",0,1,0,5
+2020-04-30,"Cabo de Santo Agostinho",0,15,5,81
+2020-04-30,"Camaragibe",0,18,18,231
+2020-04-30,"Chã Grande",0,0,0,18
+2020-04-30,"Chã de Alegria",0,1,1,11
+2020-04-30,"Fernando de Noronha",0,0,0,28
+2020-04-30,"Glória do Goitá",0,4,3,14
+2020-04-30,"Igarassu",1,10,9,67
+2020-04-30,"Ilha de Itamaracá",0,0,1,9
+2020-04-30,"Ipojuca",0,3,3,26
+2020-04-30,"Itapissuma",1,2,2,7
+2020-04-30,"Jaboatão dos Guararapes",2,61,60,592
+2020-04-30,"Moreno",0,1,3,35
+2020-04-30,"Olinda",1,43,66,617
+2020-04-30,"Paulista",2,28,50,445
+2020-04-30,"Pombos",0,2,2,25
+2020-04-30,"Recife",14,250,357,3780
+2020-04-30,"São Lourenço da Mata",3,28,21,163
+2020-04-30,"Vitória de Santo Antão",1,13,14,92
+2020-05-01,"Abreu e Lima",0,4,5,77
+2020-05-01,"Araçoiaba",1,2,1,6
+2020-05-01,"Cabo de Santo Agostinho",1,16,17,98
+2020-05-01,"Camaragibe",2,20,18,249
+2020-05-01,"Chã Grande",0,0,1,19
+2020-05-01,"Chã de Alegria",0,1,0,11
+2020-05-01,"Fernando de Noronha",0,0,0,28
+2020-05-01,"Glória do Goitá",0,4,1,15
+2020-05-01,"Igarassu",0,10,9,76
+2020-05-01,"Ilha de Itamaracá",0,0,0,9
+2020-05-01,"Ipojuca",0,3,1,27
+2020-05-01,"Itapissuma",0,2,0,7
+2020-05-01,"Jaboatão dos Guararapes",5,66,35,627
+2020-05-01,"Moreno",0,1,0,35
+2020-05-01,"Olinda",8,51,47,664
+2020-05-01,"Paulista",1,29,39,484
+2020-05-01,"Pombos",0,2,1,26
+2020-05-01,"Recife",7,257,241,4021
+2020-05-01,"São Lourenço da Mata",1,29,4,167
+2020-05-01,"Vitória de Santo Antão",1,14,5,97
+2020-05-02,"Abreu e Lima",0,4,6,83
+2020-05-02,"Araçoiaba",0,2,2,8
+2020-05-02,"Cabo de Santo Agostinho",1,17,11,109
+2020-05-02,"Camaragibe",1,21,28,277
+2020-05-02,"Chã Grande",0,0,0,19
+2020-05-02,"Chã de Alegria",0,1,1,12
+2020-05-02,"Fernando de Noronha",0,0,0,28
+2020-05-02,"Glória do Goitá",0,4,2,17
+2020-05-02,"Igarassu",0,10,13,89
+2020-05-02,"Ilha de Itamaracá",0,0,4,13
+2020-05-02,"Ipojuca",0,3,2,29
+2020-05-02,"Itapissuma",0,2,0,7
+2020-05-02,"Jaboatão dos Guararapes",1,67,71,698
+2020-05-02,"Moreno",0,1,3,38
+2020-05-02,"Olinda",2,53,79,743
+2020-05-02,"Paulista",1,30,43,527
+2020-05-02,"Pombos",0,2,7,33
+2020-05-02,"Recife",10,267,432,4453
+2020-05-02,"São Lourenço da Mata",2,31,7,174
+2020-05-02,"Vitória de Santo Antão",0,14,1,98
+2020-05-03,"Abreu e Lima",0,4,4,87
+2020-05-03,"Araçoiaba",0,2,0,8
+2020-05-03,"Cabo de Santo Agostinho",2,19,23,132
+2020-05-03,"Camaragibe",-1,20,15,292
+2020-05-03,"Chã Grande",1,1,1,20
+2020-05-03,"Chã de Alegria",0,1,0,12
+2020-05-03,"Fernando de Noronha",0,0,0,28
+2020-05-03,"Glória do Goitá",0,4,0,17
+2020-05-03,"Igarassu",0,10,8,97
+2020-05-03,"Ilha de Itamaracá",0,0,2,15
+2020-05-03,"Ipojuca",1,4,2,31
+2020-05-03,"Itapissuma",0,2,1,8
+2020-05-03,"Jaboatão dos Guararapes",5,72,38,736
+2020-05-03,"Moreno",0,1,2,40
+2020-05-03,"Olinda",3,56,59,802
+2020-05-03,"Paulista",2,32,37,564
+2020-05-03,"Pombos",0,2,0,33
+2020-05-03,"Recife",6,273,249,4702
+2020-05-03,"São Lourenço da Mata",0,31,8,182
+2020-05-03,"Vitória de Santo Antão",0,14,6,104
+2020-05-04,"Abreu e Lima",0,4,0,87
+2020-05-04,"Araçoiaba",0,2,1,9
+2020-05-04,"Cabo de Santo Agostinho",0,19,1,133
+2020-05-04,"Camaragibe",2,22,5,297
+2020-05-04,"Chã Grande",0,1,0,20
+2020-05-04,"Chã de Alegria",0,1,0,12
+2020-05-04,"Fernando de Noronha",0,0,0,28
+2020-05-04,"Glória do Goitá",0,4,0,17
+2020-05-04,"Igarassu",0,10,5,102
+2020-05-04,"Ilha de Itamaracá",0,0,0,15
+2020-05-04,"Ipojuca",0,4,4,35
+2020-05-04,"Itapissuma",0,2,1,9
+2020-05-04,"Jaboatão dos Guararapes",4,76,17,753
+2020-05-04,"Moreno",2,3,2,42
+2020-05-04,"Olinda",1,57,28,830
+2020-05-04,"Paulista",2,34,21,585
+2020-05-04,"Pombos",0,2,0,33
+2020-05-04,"Recife",22,295,105,4807
+2020-05-04,"São Lourenço da Mata",-1,30,1,183
+2020-05-04,"Vitória de Santo Antão",1,15,1,105
+2020-05-05,"Abreu e Lima",0,4,0,87
+2020-05-05,"Araçoiaba",0,2,0,9
+2020-05-05,"Cabo de Santo Agostinho",0,19,0,133
+2020-05-05,"Camaragibe",0,22,0,297
+2020-05-05,"Chã Grande",0,1,0,20
+2020-05-05,"Chã de Alegria",0,1,0,12
+2020-05-05,"Fernando de Noronha",0,0,0,28
+2020-05-05,"Glória do Goitá",0,4,0,17
+2020-05-05,"Igarassu",0,10,0,102
+2020-05-05,"Ilha de Itamaracá",0,0,0,15
+2020-05-05,"Ipojuca",0,4,0,35
+2020-05-05,"Itapissuma",0,2,0,9
+2020-05-05,"Jaboatão dos Guararapes",0,76,0,753
+2020-05-05,"Moreno",0,3,0,42
+2020-05-05,"Olinda",0,57,0,830
+2020-05-05,"Paulista",0,34,0,585
+2020-05-05,"Pombos",0,2,0,33
+2020-05-05,"Recife",0,295,0,4807
+2020-05-05,"São Lourenço da Mata",0,30,0,183
+2020-05-05,"Vitória de Santo Antão",0,15,0,105
+2020-05-06,"Abreu e Lima",0,4,0,87
+2020-05-06,"Araçoiaba",0,2,0,9
+2020-05-06,"Cabo de Santo Agostinho",0,19,0,133
+2020-05-06,"Camaragibe",0,22,0,297
+2020-05-06,"Chã Grande",0,1,0,20
+2020-05-06,"Chã de Alegria",0,1,0,12
+2020-05-06,"Fernando de Noronha",0,0,0,28
+2020-05-06,"Glória do Goitá",0,4,0,17
+2020-05-06,"Igarassu",0,10,0,102
+2020-05-06,"Ilha de Itamaracá",0,0,0,15
+2020-05-06,"Ipojuca",0,4,0,35
+2020-05-06,"Itapissuma",0,2,0,9
+2020-05-06,"Jaboatão dos Guararapes",0,76,0,753
+2020-05-06,"Moreno",0,3,0,42
+2020-05-06,"Olinda",0,57,0,830
+2020-05-06,"Paulista",0,34,0,585
+2020-05-06,"Pombos",0,2,0,33
+2020-05-06,"Recife",0,295,0,4807
+2020-05-06,"São Lourenço da Mata",0,30,0,183
+2020-05-06,"Vitória de Santo Antão",0,15,0,105
+2020-05-07,"Abreu e Lima",0,4,27,114
+2020-05-07,"Araçoiaba",0,2,0,9
+2020-05-07,"Cabo de Santo Agostinho",10,29,38,171
+2020-05-07,"Camaragibe",4,26,51,348
+2020-05-07,"Chã Grande",0,1,12,32
+2020-05-07,"Chã de Alegria",0,1,4,16
+2020-05-07,"Fernando de Noronha",0,0,0,28
+2020-05-07,"Glória do Goitá",4,8,3,20
+2020-05-07,"Igarassu",2,12,0,102
+2020-05-07,"Ilha de Itamaracá",0,0,3,18
+2020-05-07,"Ipojuca",1,5,9,44
+2020-05-07,"Itapissuma",2,4,15,24
+2020-05-07,"Jaboatão dos Guararapes",18,94,226,979
+2020-05-07,"Moreno",0,3,6,48
+2020-05-07,"Olinda",12,69,184,1014
+2020-05-07,"Paulista",7,41,123,708
+2020-05-07,"Pombos",0,2,4,37
+2020-05-07,"Recife",59,354,968,5775
+2020-05-07,"São Lourenço da Mata",2,32,28,211
+2020-05-07,"Vitória de Santo Antão",4,19,31,136
+2020-05-08,"Abreu e Lima",0,4,0,114
+2020-05-08,"Araçoiaba",0,2,0,9
+2020-05-08,"Cabo de Santo Agostinho",0,29,0,171
+2020-05-08,"Camaragibe",0,26,0,348
+2020-05-08,"Chã Grande",0,1,0,32
+2020-05-08,"Chã de Alegria",0,1,0,16
+2020-05-08,"Fernando de Noronha",0,0,0,28
+2020-05-08,"Glória do Goitá",0,8,0,20
+2020-05-08,"Igarassu",0,12,0,102
+2020-05-08,"Ilha de Itamaracá",0,0,0,18
+2020-05-08,"Ipojuca",0,5,0,44
+2020-05-08,"Itapissuma",0,4,0,24
+2020-05-08,"Jaboatão dos Guararapes",0,94,0,979
+2020-05-08,"Moreno",0,3,0,48
+2020-05-08,"Olinda",0,69,0,1014
+2020-05-08,"Paulista",0,41,0,708
+2020-05-08,"Pombos",0,2,0,37
+2020-05-08,"Recife",0,354,0,5775
+2020-05-08,"São Lourenço da Mata",0,32,0,211
+2020-05-08,"Vitória de Santo Antão",0,19,0,136
+2020-05-09,"Abreu e Lima",1,5,15,129
+2020-05-09,"Araçoiaba",0,2,1,10
+2020-05-09,"Cabo de Santo Agostinho",8,37,38,209
+2020-05-09,"Camaragibe",2,28,56,404
+2020-05-09,"Chã Grande",2,3,1,33
+2020-05-09,"Chã de Alegria",0,1,9,25
+2020-05-09,"Fernando de Noronha",0,0,0,28
+2020-05-09,"Glória do Goitá",1,9,3,23
+2020-05-09,"Igarassu",4,16,19,121
+2020-05-09,"Ilha de Itamaracá",0,0,3,21
+2020-05-09,"Ipojuca",1,6,17,61
+2020-05-09,"Itapissuma",0,4,1,25
+2020-05-09,"Jaboatão dos Guararapes",15,109,171,1150
+2020-05-09,"Moreno",2,5,3,51
+2020-05-09,"Olinda",8,77,149,1163
+2020-05-09,"Paulista",13,54,91,799
+2020-05-09,"Pombos",1,3,12,49
+2020-05-09,"Recife",31,385,806,6581
+2020-05-09,"São Lourenço da Mata",1,33,24,235
+2020-05-09,"Vitória de Santo Antão",6,25,24,160
+2020-05-10,"Abreu e Lima",2,7,2,131
+2020-05-10,"Araçoiaba",0,2,0,10
+2020-05-10,"Cabo de Santo Agostinho",0,37,12,221
+2020-05-10,"Camaragibe",0,28,16,420
+2020-05-10,"Chã Grande",0,3,2,35
+2020-05-10,"Chã de Alegria",0,1,0,25
+2020-05-10,"Fernando de Noronha",0,0,0,28
+2020-05-10,"Glória do Goitá",1,10,3,26
+2020-05-10,"Igarassu",2,18,9,130
+2020-05-10,"Ilha de Itamaracá",0,0,0,21
+2020-05-10,"Ipojuca",1,7,7,68
+2020-05-10,"Itapissuma",1,5,1,26
+2020-05-10,"Jaboatão dos Guararapes",8,117,79,1229
+2020-05-10,"Moreno",0,5,5,56
+2020-05-10,"Olinda",6,83,59,1222
+2020-05-10,"Paulista",1,55,58,857
+2020-05-10,"Pombos",1,4,11,60
+2020-05-10,"Recife",30,415,403,6984
+2020-05-10,"São Lourenço da Mata",0,33,11,246
+2020-05-10,"Vitória de Santo Antão",2,27,7,167
+2020-05-11,"Abreu e Lima",1,8,5,136
+2020-05-11,"Araçoiaba",0,2,0,10
+2020-05-11,"Cabo de Santo Agostinho",3,40,9,230
+2020-05-11,"Camaragibe",1,29,11,431
+2020-05-11,"Chã Grande",0,3,0,35
+2020-05-11,"Chã de Alegria",0,1,0,25
+2020-05-11,"Fernando de Noronha",0,0,0,28
+2020-05-11,"Glória do Goitá",0,10,1,27
+2020-05-11,"Igarassu",0,18,3,133
+2020-05-11,"Ilha de Itamaracá",0,0,0,21
+2020-05-11,"Ipojuca",0,7,6,74
+2020-05-11,"Itapissuma",0,5,0,26
+2020-05-11,"Jaboatão dos Guararapes",2,119,45,1274
+2020-05-11,"Moreno",0,5,4,60
+2020-05-11,"Olinda",8,91,31,1253
+2020-05-11,"Paulista",2,57,33,890
+2020-05-11,"Pombos",2,6,4,64
+2020-05-11,"Recife",10,425,240,7224
+2020-05-11,"São Lourenço da Mata",0,33,3,249
+2020-05-11,"Vitória de Santo Antão",0,27,6,173
+2020-05-12,"Abreu e Lima",3,11,8,144
+2020-05-12,"Araçoiaba",0,2,0,10
+2020-05-12,"Cabo de Santo Agostinho",0,40,8,238
+2020-05-12,"Camaragibe",2,31,19,450
+2020-05-12,"Chã Grande",0,3,0,35
+2020-05-12,"Chã de Alegria",0,1,0,25
+2020-05-12,"Fernando de Noronha",0,0,0,28
+2020-05-12,"Glória do Goitá",0,10,0,27
+2020-05-12,"Igarassu",0,18,5,138
+2020-05-12,"Ilha de Itamaracá",0,0,2,23
+2020-05-12,"Ipojuca",0,7,5,79
+2020-05-12,"Itapissuma",0,5,2,28
+2020-05-12,"Jaboatão dos Guararapes",13,132,55,1329
+2020-05-12,"Moreno",0,5,4,64
+2020-05-12,"Olinda",2,93,47,1300
+2020-05-12,"Paulista",5,62,31,921
+2020-05-12,"Pombos",0,6,6,70
+2020-05-12,"Recife",25,450,253,7477
+2020-05-12,"São Lourenço da Mata",1,34,9,258
+2020-05-12,"Vitória de Santo Antão",1,28,6,179
+2020-05-13,"Abreu e Lima",2,13,9,153
+2020-05-13,"Araçoiaba",0,2,0,10
+2020-05-13,"Cabo de Santo Agostinho",2,42,6,244
+2020-05-13,"Camaragibe",1,32,13,463
+2020-05-13,"Chã Grande",0,3,2,37
+2020-05-13,"Chã de Alegria",0,1,0,25
+2020-05-13,"Fernando de Noronha",0,0,0,28
+2020-05-13,"Glória do Goitá",0,10,3,30
+2020-05-13,"Igarassu",4,22,11,149
+2020-05-13,"Ilha de Itamaracá",0,0,3,26
+2020-05-13,"Ipojuca",1,8,6,85
+2020-05-13,"Itapissuma",0,5,1,29
+2020-05-13,"Jaboatão dos Guararapes",7,139,58,1387
+2020-05-13,"Moreno",0,5,6,70
+2020-05-13,"Olinda",2,95,41,1341
+2020-05-13,"Paulista",2,64,28,949
+2020-05-13,"Pombos",0,6,3,73
+2020-05-13,"Recife",29,479,280,7757
+2020-05-13,"São Lourenço da Mata",2,36,15,273
+2020-05-13,"Vitória de Santo Antão",0,28,11,190
+2020-05-14,"Abreu e Lima",1,14,9,162
+2020-05-14,"Araçoiaba",0,2,1,11
+2020-05-14,"Cabo de Santo Agostinho",3,45,35,279
+2020-05-14,"Camaragibe",0,32,14,477
+2020-05-14,"Chã Grande",0,3,0,37
+2020-05-14,"Chã de Alegria",0,1,0,25
+2020-05-14,"Fernando de Noronha",0,0,0,28
+2020-05-14,"Glória do Goitá",0,10,0,30
+2020-05-14,"Igarassu",0,22,6,155
+2020-05-14,"Ilha de Itamaracá",0,0,1,27
+2020-05-14,"Ipojuca",2,10,7,92
+2020-05-14,"Itapissuma",1,6,1,30
+2020-05-14,"Jaboatão dos Guararapes",10,149,100,1487
+2020-05-14,"Moreno",2,7,7,77
+2020-05-14,"Olinda",2,97,43,1384
+2020-05-14,"Paulista",1,65,34,983
+2020-05-14,"Pombos",0,6,5,78
+2020-05-14,"Recife",28,507,339,8096
+2020-05-14,"São Lourenço da Mata",1,37,5,278
+2020-05-14,"Vitória de Santo Antão",5,33,15,205
+2020-05-15,"Abreu e Lima",1,15,6,168
+2020-05-15,"Araçoiaba",0,2,0,11
+2020-05-15,"Cabo de Santo Agostinho",5,50,17,296
+2020-05-15,"Camaragibe",0,32,21,498
+2020-05-15,"Chã Grande",0,3,4,41
+2020-05-15,"Chã de Alegria",0,1,0,25
+2020-05-15,"Fernando de Noronha",0,0,0,28
+2020-05-15,"Glória do Goitá",0,10,2,32
+2020-05-15,"Igarassu",3,25,6,161
+2020-05-15,"Ilha de Itamaracá",0,0,1,28
+2020-05-15,"Ipojuca",1,11,11,103
+2020-05-15,"Itapissuma",0,6,1,31
+2020-05-15,"Jaboatão dos Guararapes",8,157,56,1543
+2020-05-15,"Moreno",2,9,8,85
+2020-05-15,"Olinda",4,101,61,1445
+2020-05-15,"Paulista",6,71,46,1029
+2020-05-15,"Pombos",1,7,0,78
+2020-05-15,"Recife",31,538,256,8352
+2020-05-15,"São Lourenço da Mata",1,38,7,285
+2020-05-15,"Vitória de Santo Antão",1,34,21,226
+2020-05-16,"Abreu e Lima",0,15,24,192
+2020-05-16,"Araçoiaba",0,2,2,13
+2020-05-16,"Cabo de Santo Agostinho",1,51,36,332
+2020-05-16,"Camaragibe",5,37,71,569
+2020-05-16,"Chã Grande",0,3,3,44
+2020-05-16,"Chã de Alegria",1,2,1,26
+2020-05-16,"Fernando de Noronha",0,0,0,28
+2020-05-16,"Glória do Goitá",0,10,9,41
+2020-05-16,"Igarassu",2,27,18,179
+2020-05-16,"Ilha de Itamaracá",0,0,0,28
+2020-05-16,"Ipojuca",0,11,14,117
+2020-05-16,"Itapissuma",1,7,25,56
+2020-05-16,"Jaboatão dos Guararapes",8,165,209,1752
+2020-05-16,"Moreno",3,12,11,96
+2020-05-16,"Olinda",3,104,121,1566
+2020-05-16,"Paulista",0,71,91,1120
+2020-05-16,"Pombos",1,8,21,99
+2020-05-16,"Recife",35,573,1061,9413
+2020-05-16,"São Lourenço da Mata",1,39,19,304
+2020-05-16,"Vitória de Santo Antão",4,38,53,279
+2020-05-17,"Abreu e Lima",0,15,9,201
+2020-05-17,"Araçoiaba",0,2,1,14
+2020-05-17,"Cabo de Santo Agostinho",3,54,23,355
+2020-05-17,"Camaragibe",1,38,24,593
+2020-05-17,"Chã Grande",1,4,4,48
+2020-05-17,"Chã de Alegria",0,2,12,38
+2020-05-17,"Fernando de Noronha",0,0,0,28
+2020-05-17,"Glória do Goitá",0,10,1,42
+2020-05-17,"Igarassu",0,27,9,188
+2020-05-17,"Ilha de Itamaracá",1,1,2,30
+2020-05-17,"Ipojuca",1,12,7,124
+2020-05-17,"Itapissuma",0,7,1,57
+2020-05-17,"Jaboatão dos Guararapes",5,170,122,1874
+2020-05-17,"Moreno",0,12,2,98
+2020-05-17,"Olinda",1,105,80,1646
+2020-05-17,"Paulista",2,73,57,1177
+2020-05-17,"Pombos",0,8,3,102
+2020-05-17,"Recife",23,596,359,9772
+2020-05-17,"São Lourenço da Mata",0,39,16,320
+2020-05-17,"Vitória de Santo Antão",0,38,39,318
+2020-05-18,"Abreu e Lima",4,19,8,209
+2020-05-18,"Araçoiaba",0,2,0,14
+2020-05-18,"Cabo de Santo Agostinho",6,60,20,375
+2020-05-18,"Camaragibe",3,41,15,608
+2020-05-18,"Chã Grande",1,5,5,53
+2020-05-18,"Chã de Alegria",0,2,1,39
+2020-05-18,"Fernando de Noronha",0,0,0,28
+2020-05-18,"Glória do Goitá",0,10,1,43
+2020-05-18,"Igarassu",0,27,10,198
+2020-05-18,"Ilha de Itamaracá",0,1,0,30
+2020-05-18,"Ipojuca",1,13,8,132
+2020-05-18,"Itapissuma",1,8,1,58
+2020-05-18,"Jaboatão dos Guararapes",13,183,76,1950
+2020-05-18,"Moreno",1,13,6,104
+2020-05-18,"Olinda",9,114,70,1716
+2020-05-18,"Paulista",6,79,37,1214
+2020-05-18,"Pombos",1,9,3,105
+2020-05-18,"Recife",49,645,275,10047
+2020-05-18,"São Lourenço da Mata",2,41,8,328
+2020-05-18,"Vitória de Santo Antão",3,41,8,326
+2020-05-19,"Abreu e Lima",1,20,7,216
+2020-05-19,"Araçoiaba",0,2,1,15
+2020-05-19,"Cabo de Santo Agostinho",0,60,13,388
+2020-05-19,"Camaragibe",0,41,31,639
+2020-05-19,"Chã Grande",0,5,7,60
+2020-05-19,"Chã de Alegria",1,3,2,41
+2020-05-19,"Fernando de Noronha",0,0,0,28
+2020-05-19,"Glória do Goitá",0,10,2,45
+2020-05-19,"Igarassu",0,27,7,205
+2020-05-19,"Ilha de Itamaracá",0,1,1,31
+2020-05-19,"Ipojuca",1,14,5,137
+2020-05-19,"Itapissuma",2,10,2,60
+2020-05-19,"Jaboatão dos Guararapes",11,194,88,2038
+2020-05-19,"Moreno",1,14,11,115
+2020-05-19,"Olinda",11,125,91,1807
+2020-05-19,"Paulista",9,88,67,1281
+2020-05-19,"Pombos",0,9,16,121
+2020-05-19,"Recife",37,682,514,10561
+2020-05-19,"São Lourenço da Mata",4,45,12,340
+2020-05-19,"Vitória de Santo Antão",1,42,18,344
+2020-05-20,"Abreu e Lima",1,21,16,232
+2020-05-20,"Araçoiaba",0,2,2,17
+2020-05-20,"Cabo de Santo Agostinho",3,63,23,411
+2020-05-20,"Camaragibe",3,44,30,669
+2020-05-20,"Chã Grande",0,5,2,62
+2020-05-20,"Chã de Alegria",0,3,3,44
+2020-05-20,"Fernando de Noronha",0,0,0,28
+2020-05-20,"Glória do Goitá",1,11,5,50
+2020-05-20,"Igarassu",0,27,4,209
+2020-05-20,"Ilha de Itamaracá",0,1,4,35
+2020-05-20,"Ipojuca",2,16,12,149
+2020-05-20,"Itapissuma",0,10,3,63
+2020-05-20,"Jaboatão dos Guararapes",7,201,129,2167
+2020-05-20,"Moreno",1,15,5,120
+2020-05-20,"Olinda",7,132,95,1902
+2020-05-20,"Paulista",4,92,64,1345
+2020-05-20,"Pombos",2,11,4,125
+2020-05-20,"Recife",33,715,493,11054
+2020-05-20,"São Lourenço da Mata",2,47,12,352
+2020-05-20,"Vitória de Santo Antão",0,42,41,385
+2020-05-21,"Abreu e Lima",0,21,13,245
+2020-05-21,"Araçoiaba",1,3,3,20
+2020-05-21,"Cabo de Santo Agostinho",5,68,20,431
+2020-05-21,"Camaragibe",0,44,28,697
+2020-05-21,"Chã Grande",0,5,0,62
+2020-05-21,"Chã de Alegria",0,3,0,44
+2020-05-21,"Fernando de Noronha",0,0,0,28
+2020-05-21,"Glória do Goitá",1,12,5,55
+2020-05-21,"Igarassu",0,27,10,219
+2020-05-21,"Ilha de Itamaracá",1,2,5,40
+2020-05-21,"Ipojuca",1,17,8,157
+2020-05-21,"Itapissuma",1,11,7,70
+2020-05-21,"Jaboatão dos Guararapes",18,219,115,2282
+2020-05-21,"Moreno",0,15,10,130
+2020-05-21,"Olinda",4,136,94,1996
+2020-05-21,"Paulista",2,94,72,1417
+2020-05-21,"Pombos",1,12,12,137
+2020-05-21,"Recife",32,747,530,11584
+2020-05-21,"São Lourenço da Mata",0,47,13,365
+2020-05-21,"Vitória de Santo Antão",5,47,9,394
+2020-05-22,"Abreu e Lima",2,23,14,259
+2020-05-22,"Araçoiaba",0,3,6,26
+2020-05-22,"Cabo de Santo Agostinho",2,70,38,469
+2020-05-22,"Camaragibe",8,52,50,747
+2020-05-22,"Chã Grande",0,5,2,64
+2020-05-22,"Chã de Alegria",0,3,0,44
+2020-05-22,"Fernando de Noronha",0,0,14,42
+2020-05-22,"Glória do Goitá",0,12,3,58
+2020-05-22,"Igarassu",3,30,11,230
+2020-05-22,"Ilha de Itamaracá",0,2,0,40
+2020-05-22,"Ipojuca",1,18,4,161
+2020-05-22,"Itapissuma",1,12,1,71
+2020-05-22,"Jaboatão dos Guararapes",11,230,139,2421
+2020-05-22,"Moreno",1,16,6,136
+2020-05-22,"Olinda",5,141,120,2116
+2020-05-22,"Paulista",5,99,87,1504
+2020-05-22,"Pombos",0,12,2,139
+2020-05-22,"Recife",56,803,939,12523
+2020-05-22,"São Lourenço da Mata",2,49,28,393
+2020-05-22,"Vitória de Santo Antão",1,48,33,427
+2020-05-23,"Abreu e Lima",1,24,6,265
+2020-05-23,"Araçoiaba",0,3,0,26
+2020-05-23,"Cabo de Santo Agostinho",0,70,20,489
+2020-05-23,"Camaragibe",3,55,24,771
+2020-05-23,"Chã Grande",0,5,1,65
+2020-05-23,"Chã de Alegria",0,3,0,44
+2020-05-23,"Fernando de Noronha",0,0,0,42
+2020-05-23,"Glória do Goitá",1,13,1,59
+2020-05-23,"Igarassu",2,32,7,237
+2020-05-23,"Ilha de Itamaracá",0,2,1,41
+2020-05-23,"Ipojuca",0,18,2,163
+2020-05-23,"Itapissuma",0,12,0,71
+2020-05-23,"Jaboatão dos Guararapes",10,240,76,2497
+2020-05-23,"Moreno",2,18,8,144
+2020-05-23,"Olinda",3,144,54,2170
+2020-05-23,"Paulista",7,106,40,1544
+2020-05-23,"Pombos",0,12,9,148
+2020-05-23,"Recife",32,835,401,12924
+2020-05-23,"São Lourenço da Mata",3,52,8,401
+2020-05-23,"Vitória de Santo Antão",3,51,15,442
+2020-05-24,"Abreu e Lima",0,24,6,271
+2020-05-24,"Araçoiaba",0,3,0,26
+2020-05-24,"Cabo de Santo Agostinho",2,72,6,495
+2020-05-24,"Camaragibe",1,56,20,791
+2020-05-24,"Chã Grande",0,5,0,65
+2020-05-24,"Chã de Alegria",0,3,4,48
+2020-05-24,"Fernando de Noronha",0,0,0,42
+2020-05-24,"Glória do Goitá",0,13,2,61
+2020-05-24,"Igarassu",2,34,9,246
+2020-05-24,"Ilha de Itamaracá",0,2,2,43
+2020-05-24,"Ipojuca",2,20,7,170
+2020-05-24,"Itapissuma",0,12,0,71
+2020-05-24,"Jaboatão dos Guararapes",7,247,97,2594
+2020-05-24,"Moreno",0,18,13,157
+2020-05-24,"Olinda",3,147,56,2226
+2020-05-24,"Paulista",3,109,43,1587
+2020-05-24,"Pombos",0,12,16,164
+2020-05-24,"Recife",16,851,373,13297
+2020-05-24,"São Lourenço da Mata",1,53,4,405
+2020-05-24,"Vitória de Santo Antão",0,51,12,454
+2020-05-25,"Abreu e Lima",2,26,9,280
+2020-05-25,"Araçoiaba",0,3,0,26
+2020-05-25,"Cabo de Santo Agostinho",3,75,14,509
+2020-05-25,"Camaragibe",0,56,3,794
+2020-05-25,"Chã Grande",0,5,3,68
+2020-05-25,"Chã de Alegria",0,3,6,54
+2020-05-25,"Fernando de Noronha",0,0,0,42
+2020-05-25,"Glória do Goitá",0,13,0,61
+2020-05-25,"Igarassu",0,34,2,248
+2020-05-25,"Ilha de Itamaracá",0,2,0,43
+2020-05-25,"Ipojuca",2,22,12,182
+2020-05-25,"Itapissuma",0,12,3,74
+2020-05-25,"Jaboatão dos Guararapes",3,250,57,2651
+2020-05-25,"Moreno",0,18,4,161
+2020-05-25,"Olinda",3,150,38,2264
+2020-05-25,"Paulista",4,113,28,1615
+2020-05-25,"Pombos",0,12,4,168
+2020-05-25,"Recife",14,865,252,13549
+2020-05-25,"São Lourenço da Mata",0,53,5,410
+2020-05-25,"Vitória de Santo Antão",4,55,9,463
+2020-05-26,"Abreu e Lima",1,27,5,285
+2020-05-26,"Araçoiaba",0,3,1,27
+2020-05-26,"Cabo de Santo Agostinho",3,78,12,521
+2020-05-26,"Camaragibe",0,56,12,806
+2020-05-26,"Chã Grande",0,5,3,71
+2020-05-26,"Chã de Alegria",0,3,0,54
+2020-05-26,"Fernando de Noronha",0,0,0,42
+2020-05-26,"Glória do Goitá",0,13,3,64
+2020-05-26,"Igarassu",0,34,1,249
+2020-05-26,"Ilha de Itamaracá",0,2,0,43
+2020-05-26,"Ipojuca",0,22,0,182
+2020-05-26,"Itapissuma",0,12,5,79
+2020-05-26,"Jaboatão dos Guararapes",12,262,46,2697
+2020-05-26,"Moreno",2,20,3,164
+2020-05-26,"Olinda",1,151,41,2305
+2020-05-26,"Paulista",3,116,29,1644
+2020-05-26,"Pombos",0,12,1,169
+2020-05-26,"Recife",37,902,163,13712
+2020-05-26,"São Lourenço da Mata",0,53,5,415
+2020-05-26,"Vitória de Santo Antão",2,57,15,478
+2020-05-27,"Abreu e Lima",3,30,2,287
+2020-05-27,"Araçoiaba",0,3,2,29
+2020-05-27,"Cabo de Santo Agostinho",2,80,23,544
+2020-05-27,"Camaragibe",2,58,15,821
+2020-05-27,"Chã Grande",0,5,1,72
+2020-05-27,"Chã de Alegria",0,3,0,54
+2020-05-27,"Fernando de Noronha",0,0,0,42
+2020-05-27,"Glória do Goitá",0,13,3,67
+2020-05-27,"Igarassu",3,37,6,255
+2020-05-27,"Ilha de Itamaracá",0,2,1,44
+2020-05-27,"Ipojuca",1,23,7,189
+2020-05-27,"Itapissuma",0,12,3,82
+2020-05-27,"Jaboatão dos Guararapes",16,278,84,2781
+2020-05-27,"Moreno",1,21,6,170
+2020-05-27,"Olinda",10,161,46,2351
+2020-05-27,"Paulista",11,127,44,1688
+2020-05-27,"Pombos",0,12,7,176
+2020-05-27,"Recife",65,967,374,14086
+2020-05-27,"São Lourenço da Mata",2,55,6,421
+2020-05-27,"Vitória de Santo Antão",1,58,18,496
+2020-05-28,"Abreu e Lima",5,35,9,296
+2020-05-28,"Araçoiaba",0,3,0,29
+2020-05-28,"Cabo de Santo Agostinho",3,83,10,554
+2020-05-28,"Camaragibe",1,59,13,834
+2020-05-28,"Chã Grande",0,5,2,74
+2020-05-28,"Chã de Alegria",0,3,0,54
+2020-05-28,"Fernando de Noronha",0,0,0,42
+2020-05-28,"Glória do Goitá",0,13,3,70
+2020-05-28,"Igarassu",3,40,4,259
+2020-05-28,"Ilha de Itamaracá",1,3,3,47
+2020-05-28,"Ipojuca",1,24,3,192
+2020-05-28,"Itapissuma",0,12,4,86
+2020-05-28,"Jaboatão dos Guararapes",14,292,80,2861
+2020-05-28,"Moreno",0,21,4,174
+2020-05-28,"Olinda",2,163,62,2413
+2020-05-28,"Paulista",4,131,49,1737
+2020-05-28,"Pombos",0,12,7,183
+2020-05-28,"Recife",37,1004,279,14365
+2020-05-28,"São Lourenço da Mata",0,55,5,426
+2020-05-28,"Vitória de Santo Antão",2,60,11,507
+2020-05-29,"Abreu e Lima",3,38,17,313
+2020-05-29,"Araçoiaba",0,3,1,30
+2020-05-29,"Cabo de Santo Agostinho",3,86,51,605
+2020-05-29,"Camaragibe",3,62,33,867
+2020-05-29,"Chã Grande",0,5,2,76
+2020-05-29,"Chã de Alegria",0,3,3,57
+2020-05-29,"Fernando de Noronha",0,0,0,42
+2020-05-29,"Glória do Goitá",0,13,2,72
+2020-05-29,"Igarassu",4,44,14,273
+2020-05-29,"Ilha de Itamaracá",0,3,5,52
+2020-05-29,"Ipojuca",1,25,9,201
+2020-05-29,"Itapissuma",0,12,34,120
+2020-05-29,"Jaboatão dos Guararapes",8,300,132,2993
+2020-05-29,"Moreno",1,22,6,180
+2020-05-29,"Olinda",4,167,94,2507
+2020-05-29,"Paulista",9,140,70,1807
+2020-05-29,"Pombos",0,12,3,186
+2020-05-29,"Recife",36,1040,467,14832
+2020-05-29,"São Lourenço da Mata",1,56,12,438
+2020-05-29,"Vitória de Santo Antão",2,62,13,520
+2020-05-30,"Abreu e Lima",0,38,6,319
+2020-05-30,"Araçoiaba",0,3,3,33
+2020-05-30,"Cabo de Santo Agostinho",6,92,24,629
+2020-05-30,"Camaragibe",4,66,28,895
+2020-05-30,"Chã Grande",0,5,1,77
+2020-05-30,"Chã de Alegria",1,4,7,64
+2020-05-30,"Fernando de Noronha",0,0,0,42
+2020-05-30,"Glória do Goitá",1,14,5,77
+2020-05-30,"Igarassu",2,46,8,281
+2020-05-30,"Ilha de Itamaracá",0,3,9,61
+2020-05-30,"Ipojuca",2,27,13,214
+2020-05-30,"Itapissuma",0,12,0,120
+2020-05-30,"Jaboatão dos Guararapes",8,308,95,3088
+2020-05-30,"Moreno",0,22,7,187
+2020-05-30,"Olinda",2,169,66,2573
+2020-05-30,"Paulista",6,146,40,1847
+2020-05-30,"Pombos",0,12,3,189
+2020-05-30,"Recife",24,1064,333,15165
+2020-05-30,"São Lourenço da Mata",0,56,15,453
+2020-05-30,"Vitória de Santo Antão",2,64,26,546
+2020-05-31,"Abreu e Lima",2,40,10,329
+2020-05-31,"Araçoiaba",1,4,1,34
+2020-05-31,"Cabo de Santo Agostinho",3,95,19,648
+2020-05-31,"Camaragibe",0,66,14,909
+2020-05-31,"Chã Grande",0,5,6,83
+2020-05-31,"Chã de Alegria",0,4,3,67
+2020-05-31,"Fernando de Noronha",0,0,0,42
+2020-05-31,"Glória do Goitá",2,16,0,77
+2020-05-31,"Igarassu",2,48,5,286
+2020-05-31,"Ilha de Itamaracá",0,3,5,66
+2020-05-31,"Ipojuca",4,31,21,235
+2020-05-31,"Itapissuma",4,16,31,151
+2020-05-31,"Jaboatão dos Guararapes",10,318,102,3190
+2020-05-31,"Moreno",2,24,10,197
+2020-05-31,"Olinda",1,170,45,2618
+2020-05-31,"Paulista",3,149,38,1885
+2020-05-31,"Pombos",0,12,6,195
+2020-05-31,"Recife",17,1081,309,15474
+2020-05-31,"São Lourenço da Mata",1,57,9,462
+2020-05-31,"Vitória de Santo Antão",1,65,13,559
+2020-06-01,"Abreu e Lima",1,41,3,332
+2020-06-01,"Araçoiaba",0,4,0,34
+2020-06-01,"Cabo de Santo Agostinho",2,97,6,654
+2020-06-01,"Camaragibe",1,67,10,919
+2020-06-01,"Chã Grande",0,5,0,83
+2020-06-01,"Chã de Alegria",0,4,5,72
+2020-06-01,"Fernando de Noronha",0,0,0,42
+2020-06-01,"Glória do Goitá",0,16,0,77
+2020-06-01,"Igarassu",0,48,3,289
+2020-06-01,"Ilha de Itamaracá",0,3,2,68
+2020-06-01,"Ipojuca",3,34,6,241
+2020-06-01,"Itapissuma",1,17,1,152
+2020-06-01,"Jaboatão dos Guararapes",4,322,30,3220
+2020-06-01,"Moreno",1,25,7,204
+2020-06-01,"Olinda",1,171,43,2661
+2020-06-01,"Paulista",0,149,33,1918
+2020-06-01,"Pombos",0,12,4,199
+2020-06-01,"Recife",16,1097,91,15565
+2020-06-01,"São Lourenço da Mata",1,58,3,465
+2020-06-01,"Vitória de Santo Antão",2,67,4,563
+2020-06-02,"Abreu e Lima",0,41,6,338
+2020-06-02,"Araçoiaba",0,4,3,37
+2020-06-02,"Cabo de Santo Agostinho",1,98,8,662
+2020-06-02,"Camaragibe",7,74,23,942
+2020-06-02,"Chã Grande",0,5,2,85
+2020-06-02,"Chã de Alegria",0,4,1,73
+2020-06-02,"Fernando de Noronha",0,0,0,42
+2020-06-02,"Glória do Goitá",0,16,1,78
+2020-06-02,"Igarassu",0,48,6,295
+2020-06-02,"Ilha de Itamaracá",0,3,3,71
+2020-06-02,"Ipojuca",5,39,8,249
+2020-06-02,"Itapissuma",0,17,2,154
+2020-06-02,"Jaboatão dos Guararapes",10,332,47,3267
+2020-06-02,"Moreno",4,29,5,209
+2020-06-02,"Olinda",4,175,35,2696
+2020-06-02,"Paulista",3,152,33,1951
+2020-06-02,"Pombos",0,12,0,199
+2020-06-02,"Recife",3,1100,184,15749
+2020-06-02,"São Lourenço da Mata",-1,57,7,472
+2020-06-02,"Vitória de Santo Antão",0,67,3,566
+2020-06-03,"Abreu e Lima",4,45,9,347
+2020-06-03,"Araçoiaba",0,4,0,37
+2020-06-03,"Cabo de Santo Agostinho",2,100,13,675
+2020-06-03,"Camaragibe",1,75,13,955
+2020-06-03,"Chã Grande",0,5,2,87
+2020-06-03,"Chã de Alegria",0,4,1,74
+2020-06-03,"Fernando de Noronha",0,0,0,42
+2020-06-03,"Glória do Goitá",0,16,3,81
+2020-06-03,"Igarassu",4,52,10,305
+2020-06-03,"Ilha de Itamaracá",0,3,4,75
+2020-06-03,"Ipojuca",2,41,13,262
+2020-06-03,"Itapissuma",0,17,2,156
+2020-06-03,"Jaboatão dos Guararapes",12,344,85,3352
+2020-06-03,"Moreno",0,29,2,211
+2020-06-03,"Olinda",4,179,80,2776
+2020-06-03,"Paulista",3,155,35,1986
+2020-06-03,"Pombos",0,12,0,199
+2020-06-03,"Recife",20,1120,228,15977
+2020-06-03,"São Lourenço da Mata",2,59,1,473
+2020-06-03,"Vitória de Santo Antão",1,68,10,576
+2020-06-04,"Abreu e Lima",2,47,8,355
+2020-06-04,"Araçoiaba",2,6,3,40
+2020-06-04,"Cabo de Santo Agostinho",7,107,28,703
+2020-06-04,"Camaragibe",1,76,15,970
+2020-06-04,"Chã Grande",0,5,3,90
+2020-06-04,"Chã de Alegria",0,4,0,74
+2020-06-04,"Fernando de Noronha",0,0,0,42
+2020-06-04,"Glória do Goitá",0,16,2,83
+2020-06-04,"Igarassu",1,53,18,323
+2020-06-04,"Ilha de Itamaracá",0,3,0,75
+2020-06-04,"Ipojuca",2,43,10,272
+2020-06-04,"Itapissuma",0,17,1,157
+2020-06-04,"Jaboatão dos Guararapes",16,360,82,3434
+2020-06-04,"Moreno",0,29,3,214
+2020-06-04,"Olinda",2,181,40,2816
+2020-06-04,"Paulista",2,157,40,2026
+2020-06-04,"Pombos",0,12,1,200
+2020-06-04,"Recife",57,1177,273,16250
+2020-06-04,"São Lourenço da Mata",1,60,8,481
+2020-06-04,"Vitória de Santo Antão",2,70,7,583
+2020-06-05,"Abreu e Lima",0,47,6,361
+2020-06-05,"Araçoiaba",0,6,1,41
+2020-06-05,"Cabo de Santo Agostinho",0,107,6,709
+2020-06-05,"Camaragibe",2,78,7,977
+2020-06-05,"Chã Grande",2,7,5,95
+2020-06-05,"Chã de Alegria",0,4,2,76
+2020-06-05,"Fernando de Noronha",0,0,0,42
+2020-06-05,"Glória do Goitá",0,16,5,88
+2020-06-05,"Igarassu",0,53,11,334
+2020-06-05,"Ilha de Itamaracá",0,3,2,77
+2020-06-05,"Ipojuca",2,45,6,278
+2020-06-05,"Itapissuma",0,17,1,158
+2020-06-05,"Jaboatão dos Guararapes",3,363,99,3533
+2020-06-05,"Moreno",1,30,3,217
+2020-06-05,"Olinda",-1,180,45,2861
+2020-06-05,"Paulista",3,160,40,2066
+2020-06-05,"Pombos",0,12,10,210
+2020-06-05,"Recife",30,1207,270,16520
+2020-06-05,"São Lourenço da Mata",2,62,6,487
+2020-06-05,"Vitória de Santo Antão",1,71,13,596
+2020-06-06,"Abreu e Lima",0,47,11,372
+2020-06-06,"Araçoiaba",0,6,1,42
+2020-06-06,"Cabo de Santo Agostinho",2,109,6,715
+2020-06-06,"Camaragibe",-1,77,12,989
+2020-06-06,"Chã Grande",0,7,0,95
+2020-06-06,"Chã de Alegria",0,4,5,81
+2020-06-06,"Fernando de Noronha",0,0,0,42
+2020-06-06,"Glória do Goitá",0,16,2,90
+2020-06-06,"Igarassu",2,55,7,341
+2020-06-06,"Ilha de Itamaracá",0,3,0,77
+2020-06-06,"Ipojuca",1,46,13,291
+2020-06-06,"Itapissuma",1,18,3,161
+2020-06-06,"Jaboatão dos Guararapes",2,365,55,3588
+2020-06-06,"Moreno",0,30,2,219
+2020-06-06,"Olinda",4,184,40,2901
+2020-06-06,"Paulista",4,164,26,2092
+2020-06-06,"Pombos",0,12,4,214
+2020-06-06,"Recife",28,1235,175,16695
+2020-06-06,"São Lourenço da Mata",0,62,2,489
+2020-06-06,"Vitória de Santo Antão",0,71,9,605
+2020-06-07,"Abreu e Lima",1,48,9,381
+2020-06-07,"Araçoiaba",1,7,2,44
+2020-06-07,"Cabo de Santo Agostinho",2,111,22,737
+2020-06-07,"Camaragibe",1,78,19,1008
+2020-06-07,"Chã Grande",0,7,8,103
+2020-06-07,"Chã de Alegria",0,4,1,82
+2020-06-07,"Fernando de Noronha",0,0,0,42
+2020-06-07,"Glória do Goitá",0,16,4,94
+2020-06-07,"Igarassu",0,55,9,350
+2020-06-07,"Ilha de Itamaracá",0,3,1,78
+2020-06-07,"Ipojuca",1,47,17,308
+2020-06-07,"Itapissuma",0,18,0,161
+2020-06-07,"Jaboatão dos Guararapes",4,369,95,3683
+2020-06-07,"Moreno",0,30,3,222
+2020-06-07,"Olinda",0,184,35,2936
+2020-06-07,"Paulista",2,166,30,2122
+2020-06-07,"Pombos",0,12,5,219
+2020-06-07,"Recife",7,1242,214,16909
+2020-06-07,"São Lourenço da Mata",0,62,2,491
+2020-06-07,"Vitória de Santo Antão",0,71,13,618
+2020-06-08,"Abreu e Lima",0,48,3,384
+2020-06-08,"Araçoiaba",0,7,1,45
+2020-06-08,"Cabo de Santo Agostinho",0,111,9,746
+2020-06-08,"Camaragibe",1,79,23,1031
+2020-06-08,"Chã Grande",0,7,1,104
+2020-06-08,"Chã de Alegria",0,4,0,82
+2020-06-08,"Fernando de Noronha",0,0,0,42
+2020-06-08,"Glória do Goitá",0,16,1,95
+2020-06-08,"Igarassu",1,56,2,352
+2020-06-08,"Ilha de Itamaracá",0,3,3,81
+2020-06-08,"Ipojuca",1,48,1,309
+2020-06-08,"Itapissuma",0,18,1,162
+2020-06-08,"Jaboatão dos Guararapes",1,370,32,3715
+2020-06-08,"Moreno",1,31,4,226
+2020-06-08,"Olinda",2,186,34,2970
+2020-06-08,"Paulista",0,166,17,2139
+2020-06-08,"Pombos",3,15,5,224
+2020-06-08,"Recife",28,1270,128,17037
+2020-06-08,"São Lourenço da Mata",0,62,4,495
+2020-06-08,"Vitória de Santo Antão",0,71,2,620
+2020-06-09,"Abreu e Lima",3,51,4,388
+2020-06-09,"Araçoiaba",0,7,0,45
+2020-06-09,"Cabo de Santo Agostinho",2,113,3,749
+2020-06-09,"Camaragibe",2,81,2,1033
+2020-06-09,"Chã Grande",0,7,0,104
+2020-06-09,"Chã de Alegria",0,4,0,82
+2020-06-09,"Fernando de Noronha",0,0,0,42
+2020-06-09,"Glória do Goitá",0,16,0,95
+2020-06-09,"Igarassu",-1,55,-1,351
+2020-06-09,"Ilha de Itamaracá",0,3,6,87
+2020-06-09,"Ipojuca",0,48,4,313
+2020-06-09,"Itapissuma",0,18,1,163
+2020-06-09,"Jaboatão dos Guararapes",12,382,8,3723
+2020-06-09,"Moreno",0,31,1,227
+2020-06-09,"Olinda",4,190,13,2983
+2020-06-09,"Paulista",0,166,15,2154
+2020-06-09,"Pombos",0,15,-1,223
+2020-06-09,"Recife",45,1315,96,17133
+2020-06-09,"São Lourenço da Mata",0,62,2,497
+2020-06-09,"Vitória de Santo Antão",2,73,3,623
+2020-06-10,"Abreu e Lima",0,51,6,394
+2020-06-10,"Araçoiaba",0,7,2,47
+2020-06-10,"Cabo de Santo Agostinho",1,114,5,754
+2020-06-10,"Camaragibe",2,83,17,1050
+2020-06-10,"Chã Grande",0,7,0,104
+2020-06-10,"Chã de Alegria",0,4,2,84
+2020-06-10,"Fernando de Noronha",0,0,31,73
+2020-06-10,"Glória do Goitá",0,16,7,102
+2020-06-10,"Igarassu",1,56,3,354
+2020-06-10,"Ilha de Itamaracá",0,3,6,93
+2020-06-10,"Ipojuca",0,48,3,316
+2020-06-10,"Itapissuma",0,18,7,170
+2020-06-10,"Jaboatão dos Guararapes",9,391,54,3777
+2020-06-10,"Moreno",0,31,2,229
+2020-06-10,"Olinda",3,193,23,3006
+2020-06-10,"Paulista",3,169,21,2175
+2020-06-10,"Pombos",0,15,17,240
+2020-06-10,"Recife",46,1361,244,17377
+2020-06-10,"São Lourenço da Mata",1,63,5,502
+2020-06-10,"Vitória de Santo Antão",0,73,13,636
+2020-06-11,"Abreu e Lima",0,51,8,402
+2020-06-11,"Araçoiaba",0,7,0,47
+2020-06-11,"Cabo de Santo Agostinho",4,118,12,766
+2020-06-11,"Camaragibe",2,85,13,1063
+2020-06-11,"Chã Grande",0,7,8,112
+2020-06-11,"Chã de Alegria",0,4,0,84
+2020-06-11,"Fernando de Noronha",0,0,0,73
+2020-06-11,"Glória do Goitá",1,17,0,102
+2020-06-11,"Igarassu",0,56,8,362
+2020-06-11,"Ilha de Itamaracá",0,3,0,93
+2020-06-11,"Ipojuca",5,53,6,322
+2020-06-11,"Itapissuma",0,18,1,171
+2020-06-11,"Jaboatão dos Guararapes",7,398,93,3870
+2020-06-11,"Moreno",1,32,1,230
+2020-06-11,"Olinda",1,194,38,3044
+2020-06-11,"Paulista",2,171,56,2231
+2020-06-11,"Pombos",0,15,2,242
+2020-06-11,"Recife",41,1402,308,17685
+2020-06-11,"São Lourenço da Mata",0,63,9,511
+2020-06-11,"Vitória de Santo Antão",13,86,10,646
+2020-06-12,"Abreu e Lima",0,51,7,409
+2020-06-12,"Araçoiaba",0,7,2,49
+2020-06-12,"Cabo de Santo Agostinho",0,118,8,774
+2020-06-12,"Camaragibe",0,85,16,1079
+2020-06-12,"Chã Grande",0,7,0,112
+2020-06-12,"Chã de Alegria",0,4,1,85
+2020-06-12,"Fernando de Noronha",0,0,0,73
+2020-06-12,"Glória do Goitá",0,17,3,105
+2020-06-12,"Igarassu",1,57,10,372
+2020-06-12,"Ilha de Itamaracá",0,3,1,94
+2020-06-12,"Ipojuca",0,53,1,323
+2020-06-12,"Itapissuma",0,18,9,180
+2020-06-12,"Jaboatão dos Guararapes",3,401,49,3919
+2020-06-12,"Moreno",-2,30,5,235
+2020-06-12,"Olinda",1,195,28,3072
+2020-06-12,"Paulista",2,173,21,2252
+2020-06-12,"Pombos",0,15,4,246
+2020-06-12,"Recife",37,1439,181,17866
+2020-06-12,"São Lourenço da Mata",0,63,6,517
+2020-06-12,"Vitória de Santo Antão",1,87,19,665
+2020-06-13,"Abreu e Lima",0,51,6,415
+2020-06-13,"Araçoiaba",0,7,1,50
+2020-06-13,"Cabo de Santo Agostinho",5,123,30,804
+2020-06-13,"Camaragibe",0,85,22,1101
+2020-06-13,"Chã Grande",0,7,1,113
+2020-06-13,"Chã de Alegria",0,4,3,88
+2020-06-13,"Fernando de Noronha",0,0,0,73
+2020-06-13,"Glória do Goitá",0,17,2,107
+2020-06-13,"Igarassu",1,58,7,379
+2020-06-13,"Ilha de Itamaracá",0,3,3,97
+2020-06-13,"Ipojuca",0,53,13,336
+2020-06-13,"Itapissuma",0,18,1,181
+2020-06-13,"Jaboatão dos Guararapes",8,409,43,3962
+2020-06-13,"Moreno",0,30,2,237
+2020-06-13,"Olinda",4,199,27,3099
+2020-06-13,"Paulista",2,175,49,2301
+2020-06-13,"Pombos",0,15,7,253
+2020-06-13,"Recife",45,1484,236,18102
+2020-06-13,"São Lourenço da Mata",0,63,4,521
+2020-06-13,"Vitória de Santo Antão",-1,86,18,683
+2020-06-14,"Abreu e Lima",0,51,3,418
+2020-06-14,"Araçoiaba",0,7,0,50
+2020-06-14,"Cabo de Santo Agostinho",-1,122,5,809
+2020-06-14,"Camaragibe",0,85,8,1109
+2020-06-14,"Chã Grande",0,7,0,113
+2020-06-14,"Chã de Alegria",0,4,0,88
+2020-06-14,"Fernando de Noronha",0,0,1,74
+2020-06-14,"Glória do Goitá",0,17,0,107
+2020-06-14,"Igarassu",1,59,4,383
+2020-06-14,"Ilha de Itamaracá",0,3,1,98
+2020-06-14,"Ipojuca",0,53,4,340
+2020-06-14,"Itapissuma",0,18,0,181
+2020-06-14,"Jaboatão dos Guararapes",6,415,28,3990
+2020-06-14,"Moreno",0,30,0,237
+2020-06-14,"Olinda",0,199,26,3125
+2020-06-14,"Paulista",1,176,15,2316
+2020-06-14,"Pombos",0,15,4,257
+2020-06-14,"Recife",45,1529,151,18253
+2020-06-14,"São Lourenço da Mata",0,63,3,524
+2020-06-14,"Vitória de Santo Antão",1,87,13,696
+2020-06-15,"Abreu e Lima",1,52,3,421
+2020-06-15,"Araçoiaba",1,8,0,50
+2020-06-15,"Cabo de Santo Agostinho",1,123,5,814
+2020-06-15,"Camaragibe",0,85,3,1112
+2020-06-15,"Chã Grande",0,7,1,114
+2020-06-15,"Chã de Alegria",0,4,0,88
+2020-06-15,"Fernando de Noronha",0,0,0,74
+2020-06-15,"Glória do Goitá",0,17,0,107
+2020-06-15,"Igarassu",0,59,0,383
+2020-06-15,"Ilha de Itamaracá",0,3,6,104
+2020-06-15,"Ipojuca",0,53,1,341
+2020-06-15,"Itapissuma",0,18,0,181
+2020-06-15,"Jaboatão dos Guararapes",3,418,15,4005
+2020-06-15,"Moreno",0,30,1,238
+2020-06-15,"Olinda",4,203,14,3139
+2020-06-15,"Paulista",0,176,15,2331
+2020-06-15,"Pombos",0,15,0,257
+2020-06-15,"Recife",9,1538,80,18333
+2020-06-15,"São Lourenço da Mata",0,63,0,524
+2020-06-15,"Vitória de Santo Antão",1,88,2,698
+2020-06-16,"Abreu e Lima",0,52,8,429
+2020-06-16,"Araçoiaba",0,8,1,51
+2020-06-16,"Cabo de Santo Agostinho",2,125,19,833
+2020-06-16,"Camaragibe",0,85,22,1134
+2020-06-16,"Chã Grande",0,7,1,115
+2020-06-16,"Chã de Alegria",0,4,17,105
+2020-06-16,"Fernando de Noronha",0,0,0,74
+2020-06-16,"Glória do Goitá",0,17,3,110
+2020-06-16,"Igarassu",0,59,8,391
+2020-06-16,"Ilha de Itamaracá",0,3,0,104
+2020-06-16,"Ipojuca",2,55,21,362
+2020-06-16,"Itapissuma",0,18,1,182
+2020-06-16,"Jaboatão dos Guararapes",12,430,41,4046
+2020-06-16,"Moreno",0,30,5,243
+2020-06-16,"Olinda",3,206,37,3176
+2020-06-16,"Paulista",0,176,25,2356
+2020-06-16,"Pombos",0,15,1,258
+2020-06-16,"Recife",25,1563,182,18515
+2020-06-16,"São Lourenço da Mata",1,64,6,530
+2020-06-16,"Vitória de Santo Antão",0,88,33,731
+2020-06-17,"Abreu e Lima",0,52,1,430
+2020-06-17,"Araçoiaba",0,8,1,52
+2020-06-17,"Cabo de Santo Agostinho",0,125,10,843
+2020-06-17,"Camaragibe",1,86,11,1145
+2020-06-17,"Chã Grande",1,8,11,126
+2020-06-17,"Chã de Alegria",0,4,3,108
+2020-06-17,"Fernando de Noronha",0,0,0,74
+2020-06-17,"Glória do Goitá",1,18,3,113
+2020-06-17,"Igarassu",-1,58,0,391
+2020-06-17,"Ilha de Itamaracá",0,3,0,104
+2020-06-17,"Ipojuca",1,56,4,366
+2020-06-17,"Itapissuma",2,20,2,184
+2020-06-17,"Jaboatão dos Guararapes",1,431,64,4110
+2020-06-17,"Moreno",1,31,3,246
+2020-06-17,"Olinda",-1,205,39,3215
+2020-06-17,"Paulista",3,179,18,2374
+2020-06-17,"Pombos",0,15,4,262
+2020-06-17,"Recife",21,1584,247,18762
+2020-06-17,"São Lourenço da Mata",1,65,6,536
+2020-06-17,"Vitória de Santo Antão",0,88,42,773
+2020-06-18,"Abreu e Lima",0,52,5,435
+2020-06-18,"Araçoiaba",0,8,1,53
+2020-06-18,"Cabo de Santo Agostinho",1,126,16,859
+2020-06-18,"Camaragibe",0,86,12,1157
+2020-06-18,"Chã Grande",1,9,8,134
+2020-06-18,"Chã de Alegria",0,4,1,109
+2020-06-18,"Fernando de Noronha",0,0,0,74
+2020-06-18,"Glória do Goitá",0,18,6,119
+2020-06-18,"Igarassu",0,58,3,394
+2020-06-18,"Ilha de Itamaracá",0,3,0,104
+2020-06-18,"Ipojuca",1,57,5,371
+2020-06-18,"Itapissuma",0,20,2,186
+2020-06-18,"Jaboatão dos Guararapes",12,443,138,4248
+2020-06-18,"Moreno",0,31,4,250
+2020-06-18,"Olinda",1,206,60,3275
+2020-06-18,"Paulista",2,181,27,2401
+2020-06-18,"Pombos",0,15,6,268
+2020-06-18,"Recife",10,1594,229,18991
+2020-06-18,"São Lourenço da Mata",0,65,15,551
+2020-06-18,"Vitória de Santo Antão",0,88,27,800
+2020-06-19,"Abreu e Lima",0,52,6,441
+2020-06-19,"Araçoiaba",0,8,0,53
+2020-06-19,"Cabo de Santo Agostinho",0,126,9,868
+2020-06-19,"Camaragibe",0,86,11,1168
+2020-06-19,"Chã Grande",0,9,1,135
+2020-06-19,"Chã de Alegria",0,4,6,115
+2020-06-19,"Fernando de Noronha",0,0,0,74
+2020-06-19,"Glória do Goitá",0,18,4,123
+2020-06-19,"Igarassu",0,58,8,402
+2020-06-19,"Ilha de Itamaracá",0,3,0,104
+2020-06-19,"Ipojuca",3,60,4,375
+2020-06-19,"Itapissuma",0,20,0,186
+2020-06-19,"Jaboatão dos Guararapes",3,446,55,4303
+2020-06-19,"Moreno",0,31,2,252
+2020-06-19,"Olinda",1,207,74,3349
+2020-06-19,"Paulista",1,182,19,2420
+2020-06-19,"Pombos",0,15,9,277
+2020-06-19,"Recife",14,1608,201,19192
+2020-06-19,"São Lourenço da Mata",0,65,5,556
+2020-06-19,"Vitória de Santo Antão",1,89,13,813
+2020-06-20,"Abreu e Lima",1,53,2,443
+2020-06-20,"Araçoiaba",0,8,-1,52
+2020-06-20,"Cabo de Santo Agostinho",5,131,2,870
+2020-06-20,"Camaragibe",0,86,14,1182
+2020-06-20,"Chã Grande",1,10,8,143
+2020-06-20,"Chã de Alegria",0,4,1,116
+2020-06-20,"Fernando de Noronha",0,0,0,74
+2020-06-20,"Glória do Goitá",0,18,8,131
+2020-06-20,"Igarassu",0,58,6,408
+2020-06-20,"Ilha de Itamaracá",0,3,1,105
+2020-06-20,"Ipojuca",0,60,15,390
+2020-06-20,"Itapissuma",0,20,13,199
+2020-06-20,"Jaboatão dos Guararapes",3,449,97,4400
+2020-06-20,"Moreno",0,31,4,256
+2020-06-20,"Olinda",1,208,98,3447
+2020-06-20,"Paulista",0,182,28,2448
+2020-06-20,"Pombos",0,15,13,290
+2020-06-20,"Recife",7,1615,187,19379
+2020-06-20,"São Lourenço da Mata",0,65,6,562
+2020-06-20,"Vitória de Santo Antão",15,104,27,840
+2020-06-21,"Abreu e Lima",0,53,6,449
+2020-06-21,"Araçoiaba",0,8,2,54
+2020-06-21,"Cabo de Santo Agostinho",1,132,9,879
+2020-06-21,"Camaragibe",1,87,9,1191
+2020-06-21,"Chã Grande",0,10,7,150
+2020-06-21,"Chã de Alegria",0,4,1,117
+2020-06-21,"Fernando de Noronha",0,0,0,74
+2020-06-21,"Glória do Goitá",0,18,7,138
+2020-06-21,"Igarassu",1,59,5,413
+2020-06-21,"Ilha de Itamaracá",0,3,2,107
+2020-06-21,"Ipojuca",0,60,4,394
+2020-06-21,"Itapissuma",0,20,4,203
+2020-06-21,"Jaboatão dos Guararapes",6,455,49,4449
+2020-06-21,"Moreno",0,31,2,258
+2020-06-21,"Olinda",0,208,36,3483
+2020-06-21,"Paulista",0,182,23,2471
+2020-06-21,"Pombos",0,15,0,290
+2020-06-21,"Recife",48,1663,234,19613
+2020-06-21,"São Lourenço da Mata",1,66,6,568
+2020-06-21,"Vitória de Santo Antão",0,104,5,845
+2020-06-22,"Abreu e Lima",0,53,5,454
+2020-06-22,"Araçoiaba",0,8,0,54
+2020-06-22,"Cabo de Santo Agostinho",0,132,5,884
+2020-06-22,"Camaragibe",2,89,8,1199
+2020-06-22,"Chã Grande",1,11,7,157
+2020-06-22,"Chã de Alegria",0,4,4,121
+2020-06-22,"Fernando de Noronha",0,0,0,74
+2020-06-22,"Glória do Goitá",0,18,2,140
+2020-06-22,"Igarassu",1,60,1,414
+2020-06-22,"Ilha de Itamaracá",0,3,0,107
+2020-06-22,"Ipojuca",0,60,5,399
+2020-06-22,"Itapissuma",0,20,0,203
+2020-06-22,"Jaboatão dos Guararapes",2,457,10,4459
+2020-06-22,"Moreno",0,31,1,259
+2020-06-22,"Olinda",0,208,10,3493
+2020-06-22,"Paulista",1,183,15,2486
+2020-06-22,"Pombos",0,15,8,298
+2020-06-22,"Recife",-1,1662,66,19679
+2020-06-22,"São Lourenço da Mata",0,66,3,571
+2020-06-22,"Vitória de Santo Antão",1,105,7,852
+2020-06-23,"Abreu e Lima",0,53,0,454
+2020-06-23,"Araçoiaba",0,8,1,55
+2020-06-23,"Cabo de Santo Agostinho",1,133,2,886
+2020-06-23,"Camaragibe",0,89,1,1200
+2020-06-23,"Chã Grande",0,11,0,157
+2020-06-23,"Chã de Alegria",0,4,4,125
+2020-06-23,"Fernando de Noronha",0,0,3,77
+2020-06-23,"Glória do Goitá",0,18,1,141
+2020-06-23,"Igarassu",0,60,1,415
+2020-06-23,"Ilha de Itamaracá",0,3,1,108
+2020-06-23,"Ipojuca",1,61,3,402
+2020-06-23,"Itapissuma",0,20,1,204
+2020-06-23,"Jaboatão dos Guararapes",17,474,16,4475
+2020-06-23,"Moreno",0,31,2,261
+2020-06-23,"Olinda",3,211,18,3511
+2020-06-23,"Paulista",4,187,12,2498
+2020-06-23,"Pombos",1,16,2,300
+2020-06-23,"Recife",23,1685,39,19718
+2020-06-23,"São Lourenço da Mata",1,67,1,572
+2020-06-23,"Vitória de Santo Antão",0,105,0,852
+2020-06-24,"Abreu e Lima",2,55,4,458
+2020-06-24,"Araçoiaba",0,8,1,56
+2020-06-24,"Cabo de Santo Agostinho",0,133,11,897
+2020-06-24,"Camaragibe",0,89,10,1210
+2020-06-24,"Chã Grande",0,11,1,158
+2020-06-24,"Chã de Alegria",0,4,2,127
+2020-06-24,"Fernando de Noronha",0,0,0,77
+2020-06-24,"Glória do Goitá",0,18,1,142
+2020-06-24,"Igarassu",0,60,4,419
+2020-06-24,"Ilha de Itamaracá",0,3,2,110
+2020-06-24,"Ipojuca",0,61,10,412
+2020-06-24,"Itapissuma",1,21,0,204
+2020-06-24,"Jaboatão dos Guararapes",10,484,50,4525
+2020-06-24,"Moreno",0,31,0,261
+2020-06-24,"Olinda",0,211,70,3581
+2020-06-24,"Paulista",4,191,19,2517
+2020-06-24,"Pombos",1,17,0,300
+2020-06-24,"Recife",34,1719,257,19975
+2020-06-24,"São Lourenço da Mata",0,67,3,575
+2020-06-24,"Vitória de Santo Antão",0,105,2,854
+2020-06-25,"Abreu e Lima",0,55,4,462
+2020-06-25,"Araçoiaba",0,8,0,56
+2020-06-25,"Cabo de Santo Agostinho",0,133,6,903
+2020-06-25,"Camaragibe",1,90,9,1219
+2020-06-25,"Chã Grande",0,11,4,162
+2020-06-25,"Chã de Alegria",0,4,1,128
+2020-06-25,"Fernando de Noronha",0,0,7,84
+2020-06-25,"Glória do Goitá",0,18,1,143
+2020-06-25,"Igarassu",2,62,6,425
+2020-06-25,"Ilha de Itamaracá",0,3,2,112
+2020-06-25,"Ipojuca",0,61,14,426
+2020-06-25,"Itapissuma",0,21,0,204
+2020-06-25,"Jaboatão dos Guararapes",14,498,128,4653
+2020-06-25,"Moreno",0,31,4,265
+2020-06-25,"Olinda",1,212,22,3603
+2020-06-25,"Paulista",4,195,21,2538
+2020-06-25,"Pombos",0,17,5,305
+2020-06-25,"Recife",24,1743,190,20165
+2020-06-25,"São Lourenço da Mata",0,67,2,577
+2020-06-25,"Vitória de Santo Antão",0,105,23,877
+2020-06-26,"Abreu e Lima",0,55,2,464
+2020-06-26,"Araçoiaba",0,8,0,56
+2020-06-26,"Cabo de Santo Agostinho",13,146,2,905
+2020-06-26,"Camaragibe",5,95,6,1225
+2020-06-26,"Chã Grande",0,11,5,167
+2020-06-26,"Chã de Alegria",0,4,1,129
+2020-06-26,"Fernando de Noronha",0,0,1,85
+2020-06-26,"Glória do Goitá",0,18,0,143
+2020-06-26,"Igarassu",1,63,1,426
+2020-06-26,"Ilha de Itamaracá",0,3,1,113
+2020-06-26,"Ipojuca",0,61,-1,425
+2020-06-26,"Itapissuma",0,21,0,204
+2020-06-26,"Jaboatão dos Guararapes",24,522,15,4668
+2020-06-26,"Moreno",2,33,1,266
+2020-06-26,"Olinda",6,218,28,3631
+2020-06-26,"Paulista",2,197,23,2561
+2020-06-26,"Pombos",0,17,0,305
+2020-06-26,"Recife",38,1781,110,20275
+2020-06-26,"São Lourenço da Mata",0,67,0,577
+2020-06-26,"Vitória de Santo Antão",2,107,9,886
+2020-06-27,"Abreu e Lima",1,56,10,474
+2020-06-27,"Araçoiaba",0,8,2,58
+2020-06-27,"Cabo de Santo Agostinho",15,161,8,913
+2020-06-27,"Camaragibe",1,96,14,1239
+2020-06-27,"Chã Grande",0,11,0,167
+2020-06-27,"Chã de Alegria",0,4,0,129
+2020-06-27,"Fernando de Noronha",0,0,0,85
+2020-06-27,"Glória do Goitá",0,18,3,146
+2020-06-27,"Igarassu",0,63,3,429
+2020-06-27,"Ilha de Itamaracá",0,3,2,115
+2020-06-27,"Ipojuca",3,64,5,430
+2020-06-27,"Itapissuma",0,21,4,208
+2020-06-27,"Jaboatão dos Guararapes",13,535,72,4740
+2020-06-27,"Moreno",0,33,4,270
+2020-06-27,"Olinda",4,222,93,3724
+2020-06-27,"Paulista",1,198,30,2591
+2020-06-27,"Pombos",0,17,28,333
+2020-06-27,"Recife",22,1803,166,20441
+2020-06-27,"São Lourenço da Mata",0,67,6,583
+2020-06-27,"Vitória de Santo Antão",1,108,37,923
+2020-06-28,"Abreu e Lima",0,56,3,477
+2020-06-28,"Araçoiaba",0,8,0,58
+2020-06-28,"Cabo de Santo Agostinho",0,161,4,917
+2020-06-28,"Camaragibe",0,96,13,1252
+2020-06-28,"Chã Grande",0,11,6,173
+2020-06-28,"Chã de Alegria",1,5,4,133
+2020-06-28,"Fernando de Noronha",0,0,0,85
+2020-06-28,"Glória do Goitá",0,18,2,148
+2020-06-28,"Igarassu",0,63,4,433
+2020-06-28,"Ilha de Itamaracá",0,3,5,120
+2020-06-28,"Ipojuca",2,66,13,443
+2020-06-28,"Itapissuma",0,21,0,208
+2020-06-28,"Jaboatão dos Guararapes",10,545,65,4805
+2020-06-28,"Moreno",0,33,1,271
+2020-06-28,"Olinda",0,222,38,3762
+2020-06-28,"Paulista",0,198,25,2616
+2020-06-28,"Pombos",0,17,14,347
+2020-06-28,"Recife",4,1807,137,20578
+2020-06-28,"São Lourenço da Mata",0,67,3,586
+2020-06-28,"Vitória de Santo Antão",0,108,6,929
+2020-06-29,"Abreu e Lima",0,56,1,478
+2020-06-29,"Araçoiaba",0,8,1,59
+2020-06-29,"Cabo de Santo Agostinho",0,161,2,919
+2020-06-29,"Camaragibe",1,97,3,1255
+2020-06-29,"Chã Grande",0,11,0,173
+2020-06-29,"Chã de Alegria",0,5,3,136
+2020-06-29,"Fernando de Noronha",0,0,0,85
+2020-06-29,"Glória do Goitá",0,18,4,152
+2020-06-29,"Igarassu",0,63,1,434
+2020-06-29,"Ilha de Itamaracá",0,3,1,121
+2020-06-29,"Ipojuca",0,66,9,452
+2020-06-29,"Itapissuma",1,22,0,208
+2020-06-29,"Jaboatão dos Guararapes",12,557,10,4815
+2020-06-29,"Moreno",0,33,0,271
+2020-06-29,"Olinda",1,223,7,3769
+2020-06-29,"Paulista",1,199,7,2623
+2020-06-29,"Pombos",0,17,1,348
+2020-06-29,"Recife",9,1816,78,20656
+2020-06-29,"São Lourenço da Mata",0,67,3,589
+2020-06-29,"Vitória de Santo Antão",0,108,13,942
+2020-06-30,"Abreu e Lima",-1,55,-1,477
+2020-06-30,"Araçoiaba",0,8,1,60
+2020-06-30,"Cabo de Santo Agostinho",0,161,3,922
+2020-06-30,"Camaragibe",0,97,1,1256
+2020-06-30,"Chã Grande",0,11,0,173
+2020-06-30,"Chã de Alegria",0,5,0,136
+2020-06-30,"Fernando de Noronha",0,0,0,85
+2020-06-30,"Glória do Goitá",0,18,2,154
+2020-06-30,"Igarassu",1,64,1,435
+2020-06-30,"Ilha de Itamaracá",0,3,1,122
+2020-06-30,"Ipojuca",0,66,0,452
+2020-06-30,"Itapissuma",0,22,0,208
+2020-06-30,"Jaboatão dos Guararapes",10,567,16,4831
+2020-06-30,"Moreno",1,34,4,275
+2020-06-30,"Olinda",2,225,12,3781
+2020-06-30,"Paulista",3,202,11,2634
+2020-06-30,"Pombos",1,18,8,356
+2020-06-30,"Recife",9,1825,73,20729
+2020-06-30,"São Lourenço da Mata",3,70,5,594
+2020-06-30,"Vitória de Santo Antão",0,108,1,943
+2020-07-01,"Abreu e Lima",0,55,4,481
+2020-07-01,"Araçoiaba",0,8,2,62
+2020-07-01,"Cabo de Santo Agostinho",0,161,1,923
+2020-07-01,"Camaragibe",0,97,3,1259
+2020-07-01,"Chã Grande",0,11,0,173
+2020-07-01,"Chã de Alegria",0,5,2,138
+2020-07-01,"Fernando de Noronha",0,0,0,85
+2020-07-01,"Glória do Goitá",0,18,3,157
+2020-07-01,"Igarassu",0,64,4,439
+2020-07-01,"Ilha de Itamaracá",3,6,4,126
+2020-07-01,"Ipojuca",1,67,5,457
+2020-07-01,"Itapissuma",0,22,0,208
+2020-07-01,"Jaboatão dos Guararapes",7,574,59,4890
+2020-07-01,"Moreno",0,34,2,277
+2020-07-01,"Olinda",1,226,30,3811
+2020-07-01,"Paulista",0,202,9,2643
+2020-07-01,"Pombos",1,19,2,358
+2020-07-01,"Recife",26,1851,166,20895
+2020-07-01,"São Lourenço da Mata",0,70,2,596
+2020-07-01,"Vitória de Santo Antão",0,108,10,953
+2020-07-02,"Abreu e Lima",0,55,5,486
+2020-07-02,"Araçoiaba",0,8,1,63
+2020-07-02,"Cabo de Santo Agostinho",3,164,23,946
+2020-07-02,"Camaragibe",0,97,27,1286
+2020-07-02,"Chã Grande",0,11,2,175
+2020-07-02,"Chã de Alegria",0,5,5,143
+2020-07-02,"Fernando de Noronha",0,0,1,86
+2020-07-02,"Glória do Goitá",1,19,1,158
+2020-07-02,"Igarassu",0,64,5,444
+2020-07-02,"Ilha de Itamaracá",0,6,2,128
+2020-07-02,"Ipojuca",3,70,5,462
+2020-07-02,"Itapissuma",2,24,1,209
+2020-07-02,"Jaboatão dos Guararapes",12,586,115,5005
+2020-07-02,"Moreno",0,34,1,278
+2020-07-02,"Olinda",3,229,50,3861
+2020-07-02,"Paulista",0,202,29,2672
+2020-07-02,"Pombos",0,19,1,359
+2020-07-02,"Recife",21,1872,208,21103
+2020-07-02,"São Lourenço da Mata",3,73,8,604
+2020-07-02,"Vitória de Santo Antão",0,108,34,987
+2020-07-03,"Abreu e Lima",4,59,5,491
+2020-07-03,"Araçoiaba",0,8,0,63
+2020-07-03,"Cabo de Santo Agostinho",1,165,6,952
+2020-07-03,"Camaragibe",0,97,9,1295
+2020-07-03,"Chã Grande",1,12,2,177
+2020-07-03,"Chã de Alegria",0,5,1,144
+2020-07-03,"Fernando de Noronha",0,0,0,86
+2020-07-03,"Glória do Goitá",1,20,6,164
+2020-07-03,"Igarassu",1,65,7,451
+2020-07-03,"Ilha de Itamaracá",0,6,1,129
+2020-07-03,"Ipojuca",3,73,11,473
+2020-07-03,"Itapissuma",0,24,0,209
+2020-07-03,"Jaboatão dos Guararapes",13,599,24,5029
+2020-07-03,"Moreno",0,34,0,278
+2020-07-03,"Olinda",2,231,55,3916
+2020-07-03,"Paulista",2,204,16,2688
+2020-07-03,"Pombos",1,20,0,359
+2020-07-03,"Recife",11,1883,152,21255
+2020-07-03,"São Lourenço da Mata",0,73,3,607
+2020-07-03,"Vitória de Santo Antão",2,110,3,990
+2020-07-04,"Abreu e Lima",1,60,7,498
+2020-07-04,"Araçoiaba",0,8,0,63
+2020-07-04,"Cabo de Santo Agostinho",-1,164,65,1017
+2020-07-04,"Camaragibe",0,97,4,1299
+2020-07-04,"Chã Grande",-1,11,2,179
+2020-07-04,"Chã de Alegria",1,6,1,145
+2020-07-04,"Fernando de Noronha",0,0,0,86
+2020-07-04,"Glória do Goitá",0,20,2,166
+2020-07-04,"Igarassu",0,65,4,455
+2020-07-04,"Ilha de Itamaracá",0,6,8,137
+2020-07-04,"Ipojuca",3,76,6,479
+2020-07-04,"Itapissuma",0,24,1,210
+2020-07-04,"Jaboatão dos Guararapes",6,605,65,5094
+2020-07-04,"Moreno",1,35,1,279
+2020-07-04,"Olinda",0,231,21,3937
+2020-07-04,"Paulista",0,204,10,2698
+2020-07-04,"Pombos",1,21,22,381
+2020-07-04,"Recife",9,1892,145,21400
+2020-07-04,"São Lourenço da Mata",1,74,6,613
+2020-07-04,"Vitória de Santo Antão",0,110,0,990
+2020-07-05,"Abreu e Lima",0,60,5,503
+2020-07-05,"Araçoiaba",0,8,0,63
+2020-07-05,"Cabo de Santo Agostinho",0,164,36,1053
+2020-07-05,"Camaragibe",0,97,13,1312
+2020-07-05,"Chã Grande",0,11,4,183
+2020-07-05,"Chã de Alegria",0,6,3,148
+2020-07-05,"Fernando de Noronha",0,0,1,87
+2020-07-05,"Glória do Goitá",0,20,0,166
+2020-07-05,"Igarassu",1,66,1,456
+2020-07-05,"Ilha de Itamaracá",0,6,8,145
+2020-07-05,"Ipojuca",0,76,15,494
+2020-07-05,"Itapissuma",0,24,2,212
+2020-07-05,"Jaboatão dos Guararapes",3,608,86,5180
+2020-07-05,"Moreno",0,35,2,281
+2020-07-05,"Olinda",0,231,33,3970
+2020-07-05,"Paulista",0,204,18,2716
+2020-07-05,"Pombos",0,21,22,403
+2020-07-05,"Recife",6,1898,283,21683
+2020-07-05,"São Lourenço da Mata",0,74,5,618
+2020-07-05,"Vitória de Santo Antão",1,111,53,1043
+2020-07-06,"Abreu e Lima",1,61,4,507
+2020-07-06,"Araçoiaba",0,8,0,63
+2020-07-06,"Cabo de Santo Agostinho",0,164,4,1057
+2020-07-06,"Camaragibe",0,97,4,1316
+2020-07-06,"Chã Grande",0,11,4,187
+2020-07-06,"Chã de Alegria",0,6,2,150
+2020-07-06,"Fernando de Noronha",0,0,0,87
+2020-07-06,"Glória do Goitá",0,20,6,172
+2020-07-06,"Igarassu",1,67,5,461
+2020-07-06,"Ilha de Itamaracá",0,6,5,150
+2020-07-06,"Ipojuca",0,76,4,498
+2020-07-06,"Itapissuma",0,24,0,212
+2020-07-06,"Jaboatão dos Guararapes",1,609,21,5201
+2020-07-06,"Moreno",0,35,2,283
+2020-07-06,"Olinda",2,233,18,3988
+2020-07-06,"Paulista",1,205,8,2724
+2020-07-06,"Pombos",0,21,4,407
+2020-07-06,"Recife",-1,1897,56,21739
+2020-07-06,"São Lourenço da Mata",0,74,1,619
+2020-07-06,"Vitória de Santo Antão",0,111,47,1090
+2020-07-07,"Abreu e Lima",2,63,6,513
+2020-07-07,"Araçoiaba",0,8,0,63
+2020-07-07,"Cabo de Santo Agostinho",2,166,5,1062
+2020-07-07,"Camaragibe",2,99,11,1327
+2020-07-07,"Chã Grande",0,11,0,187
+2020-07-07,"Chã de Alegria",0,6,3,153
+2020-07-07,"Fernando de Noronha",0,0,0,87
+2020-07-07,"Glória do Goitá",0,20,0,172
+2020-07-07,"Igarassu",0,67,4,465
+2020-07-07,"Ilha de Itamaracá",0,6,5,155
+2020-07-07,"Ipojuca",1,77,4,502
+2020-07-07,"Itapissuma",1,25,2,214
+2020-07-07,"Jaboatão dos Guararapes",2,611,19,5220
+2020-07-07,"Moreno",0,35,0,283
+2020-07-07,"Olinda",1,234,23,4011
+2020-07-07,"Paulista",0,205,21,2745
+2020-07-07,"Pombos",0,21,6,413
+2020-07-07,"Recife",27,1924,100,21839
+2020-07-07,"São Lourenço da Mata",2,76,3,622
+2020-07-07,"Vitória de Santo Antão",1,112,5,1095
+2020-07-08,"Abreu e Lima",2,65,9,522
+2020-07-08,"Araçoiaba",0,8,1,64
+2020-07-08,"Cabo de Santo Agostinho",3,169,42,1104
+2020-07-08,"Camaragibe",6,105,16,1343
+2020-07-08,"Chã Grande",0,11,0,187
+2020-07-08,"Chã de Alegria",0,6,2,155
+2020-07-08,"Fernando de Noronha",0,0,3,90
+2020-07-08,"Glória do Goitá",0,20,1,173
+2020-07-08,"Igarassu",2,69,7,472
+2020-07-08,"Ilha de Itamaracá",0,6,4,159
+2020-07-08,"Ipojuca",3,80,11,513
+2020-07-08,"Itapissuma",1,26,3,217
+2020-07-08,"Jaboatão dos Guararapes",7,618,62,5282
+2020-07-08,"Moreno",0,35,2,285
+2020-07-08,"Olinda",10,244,54,4065
+2020-07-08,"Paulista",5,210,30,2775
+2020-07-08,"Pombos",0,21,1,414
+2020-07-08,"Recife",3,1927,253,22092
+2020-07-08,"São Lourenço da Mata",3,79,8,630
+2020-07-08,"Vitória de Santo Antão",4,116,13,1108
+2020-07-09,"Abreu e Lima",0,65,1,523
+2020-07-09,"Araçoiaba",0,8,1,65
+2020-07-09,"Cabo de Santo Agostinho",2,171,30,1134
+2020-07-09,"Camaragibe",5,110,7,1350
+2020-07-09,"Chã Grande",0,11,0,187
+2020-07-09,"Chã de Alegria",0,6,1,156
+2020-07-09,"Fernando de Noronha",0,0,3,93
+2020-07-09,"Glória do Goitá",0,20,2,175
+2020-07-09,"Igarassu",1,70,1,473
+2020-07-09,"Ilha de Itamaracá",0,6,0,159
+2020-07-09,"Ipojuca",0,80,12,525
+2020-07-09,"Itapissuma",0,26,0,217
+2020-07-09,"Jaboatão dos Guararapes",11,629,59,5341
+2020-07-09,"Moreno",0,35,3,288
+2020-07-09,"Olinda",10,254,19,4084
+2020-07-09,"Paulista",5,215,19,2794
+2020-07-09,"Pombos",0,21,1,415
+2020-07-09,"Recife",19,1946,206,22298
+2020-07-09,"São Lourenço da Mata",1,80,4,634
+2020-07-09,"Vitória de Santo Antão",0,116,6,1114
+2020-07-10,"Abreu e Lima",0,65,4,527
+2020-07-10,"Araçoiaba",0,8,2,67
+2020-07-10,"Cabo de Santo Agostinho",2,173,11,1145
+2020-07-10,"Camaragibe",3,113,17,1367
+2020-07-10,"Chã Grande",0,11,2,189
+2020-07-10,"Chã de Alegria",1,7,2,158
+2020-07-10,"Fernando de Noronha",0,0,0,93
+2020-07-10,"Glória do Goitá",0,20,1,176
+2020-07-10,"Igarassu",2,72,8,481
+2020-07-10,"Ilha de Itamaracá",0,6,10,169
+2020-07-10,"Ipojuca",0,80,23,548
+2020-07-10,"Itapissuma",0,26,1,218
+2020-07-10,"Jaboatão dos Guararapes",6,635,59,5400
+2020-07-10,"Moreno",0,35,4,292
+2020-07-10,"Olinda",5,259,45,4129
+2020-07-10,"Paulista",2,217,23,2817
+2020-07-10,"Pombos",1,22,10,425
+2020-07-10,"Recife",8,1954,215,22513
+2020-07-10,"São Lourenço da Mata",2,82,2,636
+2020-07-10,"Vitória de Santo Antão",1,117,19,1133
+2020-07-11,"Abreu e Lima",0,65,1,528
+2020-07-11,"Araçoiaba",2,10,0,67
+2020-07-11,"Cabo de Santo Agostinho",4,177,6,1151
+2020-07-11,"Camaragibe",3,116,21,1388
+2020-07-11,"Chã Grande",1,12,3,192
+2020-07-11,"Chã de Alegria",0,7,0,158
+2020-07-11,"Fernando de Noronha",0,0,1,94
+2020-07-11,"Glória do Goitá",0,20,0,176
+2020-07-11,"Igarassu",1,73,4,485
+2020-07-11,"Ilha de Itamaracá",1,7,1,170
+2020-07-11,"Ipojuca",1,81,7,555
+2020-07-11,"Itapissuma",1,27,0,218
+2020-07-11,"Jaboatão dos Guararapes",7,642,43,5443
+2020-07-11,"Moreno",0,35,0,292
+2020-07-11,"Olinda",7,266,97,4226
+2020-07-11,"Paulista",2,219,10,2827
+2020-07-11,"Pombos",0,22,11,436
+2020-07-11,"Recife",12,1966,236,22749
+2020-07-11,"São Lourenço da Mata",2,84,2,638
+2020-07-11,"Vitória de Santo Antão",1,118,13,1146
+2020-07-12,"Abreu e Lima",0,65,3,531
+2020-07-12,"Araçoiaba",0,10,1,68
+2020-07-12,"Cabo de Santo Agostinho",3,180,14,1165
+2020-07-12,"Camaragibe",2,118,9,1397
+2020-07-12,"Chã Grande",0,12,4,196
+2020-07-12,"Chã de Alegria",0,7,0,158
+2020-07-12,"Fernando de Noronha",0,0,0,94
+2020-07-12,"Glória do Goitá",0,20,4,180
+2020-07-12,"Igarassu",1,74,6,491
+2020-07-12,"Ilha de Itamaracá",0,7,0,170
+2020-07-12,"Ipojuca",0,81,4,559
+2020-07-12,"Itapissuma",0,27,0,218
+2020-07-12,"Jaboatão dos Guararapes",8,650,45,5488
+2020-07-12,"Moreno",0,35,1,293
+2020-07-12,"Olinda",4,270,50,4276
+2020-07-12,"Paulista",3,222,22,2849
+2020-07-12,"Pombos",0,22,11,447
+2020-07-12,"Recife",2,1968,242,22991
+2020-07-12,"São Lourenço da Mata",0,84,4,642
+2020-07-12,"Vitória de Santo Antão",2,120,7,1153
+2020-07-13,"Abreu e Lima",1,66,4,535
+2020-07-13,"Araçoiaba",0,10,1,69
+2020-07-13,"Cabo de Santo Agostinho",3,183,5,1170
+2020-07-13,"Camaragibe",4,122,5,1402
+2020-07-13,"Chã Grande",0,12,5,201
+2020-07-13,"Chã de Alegria",0,7,3,161
+2020-07-13,"Fernando de Noronha",0,0,0,94
+2020-07-13,"Glória do Goitá",0,20,4,184
+2020-07-13,"Igarassu",2,76,2,493
+2020-07-13,"Ilha de Itamaracá",0,7,0,170
+2020-07-13,"Ipojuca",0,81,1,560
+2020-07-13,"Itapissuma",0,27,1,219
+2020-07-13,"Jaboatão dos Guararapes",9,659,31,5519
+2020-07-13,"Moreno",0,35,0,293
+2020-07-13,"Olinda",6,276,10,4286
+2020-07-13,"Paulista",4,226,12,2861
+2020-07-13,"Pombos",0,22,12,459
+2020-07-13,"Recife",6,1974,83,23074
+2020-07-13,"São Lourenço da Mata",2,86,3,645
+2020-07-13,"Vitória de Santo Antão",0,120,3,1156
+2020-07-14,"Abreu e Lima",0,66,0,535
+2020-07-14,"Araçoiaba",1,11,0,69
+2020-07-14,"Cabo de Santo Agostinho",4,187,2,1172
+2020-07-14,"Camaragibe",3,125,8,1410
+2020-07-14,"Chã Grande",0,12,2,203
+2020-07-14,"Chã de Alegria",0,7,4,165
+2020-07-14,"Fernando de Noronha",0,0,1,95
+2020-07-14,"Glória do Goitá",0,20,2,186
+2020-07-14,"Igarassu",2,78,3,496
+2020-07-14,"Ilha de Itamaracá",0,7,6,176
+2020-07-14,"Ipojuca",0,81,0,560
+2020-07-14,"Itapissuma",0,27,0,219
+2020-07-14,"Jaboatão dos Guararapes",2,661,29,5548
+2020-07-14,"Moreno",0,35,1,294
+2020-07-14,"Olinda",6,282,14,4300
+2020-07-14,"Paulista",2,228,11,2872
+2020-07-14,"Pombos",0,22,15,474
+2020-07-14,"Recife",11,1985,120,23194
+2020-07-14,"São Lourenço da Mata",1,87,0,645
+2020-07-14,"Vitória de Santo Antão",0,120,3,1159
+2020-07-15,"Abreu e Lima",1,67,10,545
+2020-07-15,"Araçoiaba",0,11,0,69
+2020-07-15,"Cabo de Santo Agostinho",0,187,36,1208
+2020-07-15,"Camaragibe",4,129,7,1417
+2020-07-15,"Chã Grande",0,12,3,206
+2020-07-15,"Chã de Alegria",0,7,1,166
+2020-07-15,"Fernando de Noronha",0,0,0,95
+2020-07-15,"Glória do Goitá",0,20,2,188
+2020-07-15,"Igarassu",1,79,11,507
+2020-07-15,"Ilha de Itamaracá",0,7,0,176
+2020-07-15,"Ipojuca",1,82,18,578
+2020-07-15,"Itapissuma",0,27,2,221
+2020-07-15,"Jaboatão dos Guararapes",2,663,69,5617
+2020-07-15,"Moreno",0,35,2,296
+2020-07-15,"Olinda",7,289,54,4354
+2020-07-15,"Paulista",5,233,25,2897
+2020-07-15,"Pombos",0,22,2,476
+2020-07-15,"Recife",12,1997,239,23433
+2020-07-15,"São Lourenço da Mata",1,88,5,650
+2020-07-15,"Vitória de Santo Antão",0,120,4,1163
+2020-07-16,"Abreu e Lima",2,69,9,554
+2020-07-16,"Araçoiaba",0,11,1,70
+2020-07-16,"Cabo de Santo Agostinho",2,189,18,1226
+2020-07-16,"Camaragibe",1,130,20,1437
+2020-07-16,"Chã Grande",1,13,5,211
+2020-07-16,"Chã de Alegria",1,8,0,166
+2020-07-16,"Fernando de Noronha",0,0,0,95
+2020-07-16,"Glória do Goitá",0,20,8,196
+2020-07-16,"Igarassu",0,79,12,519
+2020-07-16,"Ilha de Itamaracá",0,7,2,178
+2020-07-16,"Ipojuca",2,84,5,583
+2020-07-16,"Itapissuma",0,27,0,221
+2020-07-16,"Jaboatão dos Guararapes",2,665,56,5673
+2020-07-16,"Moreno",1,36,4,300
+2020-07-16,"Olinda",9,298,42,4396
+2020-07-16,"Paulista",2,235,34,2931
+2020-07-16,"Pombos",0,22,9,485
+2020-07-16,"Recife",23,2020,179,23612
+2020-07-16,"São Lourenço da Mata",1,89,10,660
+2020-07-16,"Vitória de Santo Antão",0,120,6,1169
+2020-07-17,"Abreu e Lima",0,69,6,560
+2020-07-17,"Araçoiaba",0,11,1,71
+2020-07-17,"Cabo de Santo Agostinho",0,189,21,1247
+2020-07-17,"Camaragibe",0,130,11,1448
+2020-07-17,"Chã Grande",0,13,0,211
+2020-07-17,"Chã de Alegria",0,8,0,166
+2020-07-17,"Fernando de Noronha",0,0,0,95
+2020-07-17,"Glória do Goitá",2,22,3,199
+2020-07-17,"Igarassu",1,80,5,524
+2020-07-17,"Ilha de Itamaracá",0,7,15,193
+2020-07-17,"Ipojuca",0,84,5,588
+2020-07-17,"Itapissuma",0,27,1,222
+2020-07-17,"Jaboatão dos Guararapes",2,667,42,5715
+2020-07-17,"Moreno",0,36,2,302
+2020-07-17,"Olinda",6,304,78,4474
+2020-07-17,"Paulista",0,235,20,2951
+2020-07-17,"Pombos",0,22,9,494
+2020-07-17,"Recife",4,2024,227,23839
+2020-07-17,"São Lourenço da Mata",1,90,7,667
+2020-07-17,"Vitória de Santo Antão",0,120,17,1186
+2020-07-18,"Abreu e Lima",1,70,1,561
+2020-07-18,"Araçoiaba",0,11,0,71
+2020-07-18,"Cabo de Santo Agostinho",2,191,15,1262
+2020-07-18,"Camaragibe",2,132,4,1452
+2020-07-18,"Chã Grande",0,13,1,212
+2020-07-18,"Chã de Alegria",0,8,0,166
+2020-07-18,"Fernando de Noronha",0,0,0,95
+2020-07-18,"Glória do Goitá",0,22,2,201
+2020-07-18,"Igarassu",2,82,1,525
+2020-07-18,"Ilha de Itamaracá",0,7,1,194
+2020-07-18,"Ipojuca",1,85,12,600
+2020-07-18,"Itapissuma",0,27,0,222
+2020-07-18,"Jaboatão dos Guararapes",5,672,36,5751
+2020-07-18,"Moreno",0,36,-1,301
+2020-07-18,"Olinda",7,311,32,4506
+2020-07-18,"Paulista",3,238,20,2971
+2020-07-18,"Pombos",0,22,8,502
+2020-07-18,"Recife",8,2032,130,23969
+2020-07-18,"São Lourenço da Mata",4,94,5,672
+2020-07-18,"Vitória de Santo Antão",0,120,13,1199
+2020-07-19,"Abreu e Lima",3,73,13,574
+2020-07-19,"Araçoiaba",0,11,0,71
+2020-07-19,"Cabo de Santo Agostinho",3,194,16,1278
+2020-07-19,"Camaragibe",3,135,15,1467
+2020-07-19,"Chã Grande",0,13,0,212
+2020-07-19,"Chã de Alegria",0,8,2,168
+2020-07-19,"Fernando de Noronha",0,0,0,95
+2020-07-19,"Glória do Goitá",0,22,0,201
+2020-07-19,"Igarassu",1,83,3,528
+2020-07-19,"Ilha de Itamaracá",0,7,6,200
+2020-07-19,"Ipojuca",0,85,18,618
+2020-07-19,"Itapissuma",0,27,2,224
+2020-07-19,"Jaboatão dos Guararapes",4,676,105,5856
+2020-07-19,"Moreno",0,36,0,301
+2020-07-19,"Olinda",6,317,18,4524
+2020-07-19,"Paulista",6,244,19,2990
+2020-07-19,"Pombos",0,22,14,516
+2020-07-19,"Recife",3,2035,188,24157
+2020-07-19,"São Lourenço da Mata",1,95,1,673
+2020-07-19,"Vitória de Santo Antão",1,121,3,1202
+2020-07-20,"Abreu e Lima",2,75,3,577
+2020-07-20,"Araçoiaba",0,11,0,71
+2020-07-20,"Cabo de Santo Agostinho",2,196,11,1289
+2020-07-20,"Camaragibe",1,136,21,1488
+2020-07-20,"Chã Grande",0,13,3,215
+2020-07-20,"Chã de Alegria",0,8,1,169
+2020-07-20,"Fernando de Noronha",0,0,0,95
+2020-07-20,"Glória do Goitá",1,23,2,203
+2020-07-20,"Igarassu",0,83,6,534
+2020-07-20,"Ilha de Itamaracá",0,7,1,201
+2020-07-20,"Ipojuca",1,86,3,621
+2020-07-20,"Itapissuma",0,27,0,224
+2020-07-20,"Jaboatão dos Guararapes",4,680,40,5896
+2020-07-20,"Moreno",0,36,1,302
+2020-07-20,"Olinda",12,329,24,4548
+2020-07-20,"Paulista",4,248,15,3005
+2020-07-20,"Pombos",0,22,3,519
+2020-07-20,"Recife",1,2036,151,24308
+2020-07-20,"São Lourenço da Mata",1,96,9,682
+2020-07-20,"Vitória de Santo Antão",0,121,10,1212
+2020-07-21,"Abreu e Lima",0,75,1,578
+2020-07-21,"Araçoiaba",0,11,0,71
+2020-07-21,"Cabo de Santo Agostinho",1,197,4,1293
+2020-07-21,"Camaragibe",2,138,10,1498
+2020-07-21,"Chã Grande",0,13,0,215
+2020-07-21,"Chã de Alegria",0,8,0,169
+2020-07-21,"Fernando de Noronha",0,0,0,95
+2020-07-21,"Glória do Goitá",0,23,0,203
+2020-07-21,"Igarassu",0,83,1,535
+2020-07-21,"Ilha de Itamaracá",0,7,4,205
+2020-07-21,"Ipojuca",2,88,1,622
+2020-07-21,"Itapissuma",0,27,5,229
+2020-07-21,"Jaboatão dos Guararapes",4,684,6,5902
+2020-07-21,"Moreno",0,36,0,302
+2020-07-21,"Olinda",5,334,4,4552
+2020-07-21,"Paulista",5,253,4,3009
+2020-07-21,"Pombos",0,22,5,524
+2020-07-21,"Recife",4,2040,58,24366
+2020-07-21,"São Lourenço da Mata",1,97,6,688
+2020-07-21,"Vitória de Santo Antão",1,122,2,1214
+2020-07-22,"Abreu e Lima",1,76,6,584
+2020-07-22,"Araçoiaba",0,11,0,71
+2020-07-22,"Cabo de Santo Agostinho",0,197,9,1302
+2020-07-22,"Camaragibe",0,138,5,1503
+2020-07-22,"Chã Grande",0,13,4,219
+2020-07-22,"Chã de Alegria",0,8,1,170
+2020-07-22,"Fernando de Noronha",0,0,0,95
+2020-07-22,"Glória do Goitá",0,23,4,207
+2020-07-22,"Igarassu",0,83,1,536
+2020-07-22,"Ilha de Itamaracá",1,8,2,207
+2020-07-22,"Ipojuca",0,88,4,626
+2020-07-22,"Itapissuma",0,27,7,236
+2020-07-22,"Jaboatão dos Guararapes",8,692,30,5932
+2020-07-22,"Moreno",0,36,3,305
+2020-07-22,"Olinda",2,336,14,4566
+2020-07-22,"Paulista",2,255,20,3029
+2020-07-22,"Pombos",0,22,9,533
+2020-07-22,"Recife",16,2056,146,24512
+2020-07-22,"São Lourenço da Mata",1,98,-1,687
+2020-07-22,"Vitória de Santo Antão",1,123,8,1222
+2020-07-23,"Abreu e Lima",1,77,8,592
+2020-07-23,"Araçoiaba",0,11,1,72
+2020-07-23,"Cabo de Santo Agostinho",0,197,15,1317
+2020-07-23,"Camaragibe",1,139,21,1524
+2020-07-23,"Chã Grande",0,13,7,226
+2020-07-23,"Chã de Alegria",0,8,0,170
+2020-07-23,"Fernando de Noronha",0,0,2,97
+2020-07-23,"Glória do Goitá",0,23,2,209
+2020-07-23,"Igarassu",0,83,6,542
+2020-07-23,"Ilha de Itamaracá",0,8,6,213
+2020-07-23,"Ipojuca",0,88,26,652
+2020-07-23,"Itapissuma",1,28,0,236
+2020-07-23,"Jaboatão dos Guararapes",5,697,127,6059
+2020-07-23,"Moreno",0,36,5,310
+2020-07-23,"Olinda",5,341,57,4623
+2020-07-23,"Paulista",5,260,36,3065
+2020-07-23,"Pombos",0,22,5,538
+2020-07-23,"Recife",6,2062,353,24865
+2020-07-23,"São Lourenço da Mata",0,98,6,693
+2020-07-23,"Vitória de Santo Antão",1,124,30,1252
+2020-07-24,"Abreu e Lima",0,77,4,596
+2020-07-24,"Araçoiaba",0,11,2,74
+2020-07-24,"Cabo de Santo Agostinho",0,197,34,1351
+2020-07-24,"Camaragibe",1,140,17,1541
+2020-07-24,"Chã Grande",0,13,3,229
+2020-07-24,"Chã de Alegria",0,8,1,171
+2020-07-24,"Fernando de Noronha",0,0,1,98
+2020-07-24,"Glória do Goitá",0,23,3,212
+2020-07-24,"Igarassu",1,84,8,550
+2020-07-24,"Ilha de Itamaracá",0,8,26,239
+2020-07-24,"Ipojuca",0,88,12,664
+2020-07-24,"Itapissuma",0,28,5,241
+2020-07-24,"Jaboatão dos Guararapes",2,699,59,6118
+2020-07-24,"Moreno",0,36,5,315
+2020-07-24,"Olinda",1,342,75,4698
+2020-07-24,"Paulista",0,260,30,3095
+2020-07-24,"Pombos",0,22,3,541
+2020-07-24,"Recife",7,2069,276,25141
+2020-07-24,"São Lourenço da Mata",0,98,4,697
+2020-07-24,"Vitória de Santo Antão",1,125,17,1269
+2020-07-25,"Abreu e Lima",0,77,8,604
+2020-07-25,"Araçoiaba",0,11,5,79
+2020-07-25,"Cabo de Santo Agostinho",1,198,18,1369
+2020-07-25,"Camaragibe",2,142,11,1552
+2020-07-25,"Chã Grande",0,13,0,229
+2020-07-25,"Chã de Alegria",1,9,3,174
+2020-07-25,"Fernando de Noronha",0,0,0,98
+2020-07-25,"Glória do Goitá",0,23,4,216
+2020-07-25,"Igarassu",0,84,8,558
+2020-07-25,"Ilha de Itamaracá",0,8,16,255
+2020-07-25,"Ipojuca",0,88,8,672
+2020-07-25,"Itapissuma",0,28,7,248
+2020-07-25,"Jaboatão dos Guararapes",6,705,63,6181
+2020-07-25,"Moreno",0,36,6,321
+2020-07-25,"Olinda",7,349,37,4735
+2020-07-25,"Paulista",5,265,28,3123
+2020-07-25,"Pombos",0,22,7,548
+2020-07-25,"Recife",10,2079,288,25429
+2020-07-25,"São Lourenço da Mata",2,100,11,708
+2020-07-25,"Vitória de Santo Antão",1,126,15,1284
+2020-07-26,"Abreu e Lima",0,77,5,609
+2020-07-26,"Araçoiaba",0,11,6,85
+2020-07-26,"Cabo de Santo Agostinho",2,200,38,1407
+2020-07-26,"Camaragibe",1,143,14,1566
+2020-07-26,"Chã Grande",0,13,3,232
+2020-07-26,"Chã de Alegria",0,9,1,175
+2020-07-26,"Fernando de Noronha",0,0,2,100
+2020-07-26,"Glória do Goitá",0,23,1,217
+2020-07-26,"Igarassu",2,86,8,566
+2020-07-26,"Ilha de Itamaracá",1,9,9,264
+2020-07-26,"Ipojuca",1,89,27,699
+2020-07-26,"Itapissuma",0,28,2,250
+2020-07-26,"Jaboatão dos Guararapes",7,712,64,6245
+2020-07-26,"Moreno",0,36,3,324
+2020-07-26,"Olinda",3,352,49,4784
+2020-07-26,"Paulista",2,267,18,3141
+2020-07-26,"Pombos",0,22,2,550
+2020-07-26,"Recife",5,2084,311,25740
+2020-07-26,"São Lourenço da Mata",1,101,6,714
+2020-07-26,"Vitória de Santo Antão",0,126,28,1312
+2020-07-27,"Abreu e Lima",0,77,5,614
+2020-07-27,"Araçoiaba",0,11,0,85
+2020-07-27,"Cabo de Santo Agostinho",0,200,6,1413
+2020-07-27,"Camaragibe",0,143,2,1568
+2020-07-27,"Chã Grande",0,13,0,232
+2020-07-27,"Chã de Alegria",0,9,0,175
+2020-07-27,"Fernando de Noronha",0,0,0,100
+2020-07-27,"Glória do Goitá",0,23,1,218
+2020-07-27,"Igarassu",1,87,1,567
+2020-07-27,"Ilha de Itamaracá",0,9,1,265
+2020-07-27,"Ipojuca",0,89,1,700
+2020-07-27,"Itapissuma",0,28,0,250
+2020-07-27,"Jaboatão dos Guararapes",2,714,25,6270
+2020-07-27,"Moreno",0,36,2,326
+2020-07-27,"Olinda",2,354,11,4795
+2020-07-27,"Paulista",1,268,14,3155
+2020-07-27,"Pombos",0,22,0,550
+2020-07-27,"Recife",2,2086,117,25857
+2020-07-27,"São Lourenço da Mata",1,102,0,714
+2020-07-27,"Vitória de Santo Antão",0,126,7,1319
+2020-07-28,"Abreu e Lima",5,82,4,618
+2020-07-28,"Araçoiaba",0,11,0,85
+2020-07-28,"Cabo de Santo Agostinho",1,201,2,1415
+2020-07-28,"Camaragibe",2,145,4,1572
+2020-07-28,"Chã Grande",0,13,1,233
+2020-07-28,"Chã de Alegria",0,9,1,176
+2020-07-28,"Fernando de Noronha",0,0,-1,99
+2020-07-28,"Glória do Goitá",0,23,0,218
+2020-07-28,"Igarassu",2,89,3,570
+2020-07-28,"Ilha de Itamaracá",1,10,2,267
+2020-07-28,"Ipojuca",1,90,1,701
+2020-07-28,"Itapissuma",0,28,3,253
+2020-07-28,"Jaboatão dos Guararapes",4,718,21,6291
+2020-07-28,"Moreno",0,36,0,326
+2020-07-28,"Olinda",6,360,13,4808
+2020-07-28,"Paulista",1,269,13,3168
+2020-07-28,"Pombos",0,22,0,550
+2020-07-28,"Recife",9,2095,154,26011
+2020-07-28,"São Lourenço da Mata",1,103,2,716
+2020-07-28,"Vitória de Santo Antão",0,126,4,1323
+2020-07-29,"Abreu e Lima",2,84,6,624
+2020-07-29,"Araçoiaba",0,11,0,85
+2020-07-29,"Cabo de Santo Agostinho",1,202,20,1435
+2020-07-29,"Camaragibe",0,145,10,1582
+2020-07-29,"Chã Grande",0,13,0,233
+2020-07-29,"Chã de Alegria",0,9,0,176
+2020-07-29,"Fernando de Noronha",0,0,0,99
+2020-07-29,"Glória do Goitá",1,24,3,221
+2020-07-29,"Igarassu",1,90,1,571
+2020-07-29,"Ilha de Itamaracá",0,10,7,274
+2020-07-29,"Ipojuca",0,90,10,711
+2020-07-29,"Itapissuma",0,28,3,256
+2020-07-29,"Jaboatão dos Guararapes",6,724,55,6346
+2020-07-29,"Moreno",0,36,4,330
+2020-07-29,"Olinda",10,370,44,4852
+2020-07-29,"Paulista",2,271,30,3198
+2020-07-29,"Pombos",0,22,2,552
+2020-07-29,"Recife",14,2109,266,26277
+2020-07-29,"São Lourenço da Mata",-1,102,5,721
+2020-07-29,"Vitória de Santo Antão",1,127,11,1334
+2020-07-30,"Abreu e Lima",0,84,3,627
+2020-07-30,"Araçoiaba",0,11,1,86
+2020-07-30,"Cabo de Santo Agostinho",0,202,8,1443
+2020-07-30,"Camaragibe",2,147,16,1598
+2020-07-30,"Chã Grande",0,13,1,234
+2020-07-30,"Chã de Alegria",0,9,1,177
+2020-07-30,"Fernando de Noronha",0,0,0,99
+2020-07-30,"Glória do Goitá",0,24,7,228
+2020-07-30,"Igarassu",0,90,2,573
+2020-07-30,"Ilha de Itamaracá",0,10,1,275
+2020-07-30,"Ipojuca",0,90,4,715
+2020-07-30,"Itapissuma",0,28,0,256
+2020-07-30,"Jaboatão dos Guararapes",1,725,147,6493
+2020-07-30,"Moreno",0,36,3,333
+2020-07-30,"Olinda",6,376,52,4904
+2020-07-30,"Paulista",2,273,23,3221
+2020-07-30,"Pombos",1,23,0,552
+2020-07-30,"Recife",11,2120,203,26480
+2020-07-30,"São Lourenço da Mata",0,102,8,729
+2020-07-30,"Vitória de Santo Antão",0,127,9,1343
+2020-07-31,"Abreu e Lima",1,85,3,630
+2020-07-31,"Araçoiaba",0,11,0,86
+2020-07-31,"Cabo de Santo Agostinho",1,203,6,1449
+2020-07-31,"Camaragibe",1,148,10,1608
+2020-07-31,"Chã Grande",0,13,3,237
+2020-07-31,"Chã de Alegria",0,9,0,177
+2020-07-31,"Fernando de Noronha",0,0,1,100
+2020-07-31,"Glória do Goitá",0,24,1,229
+2020-07-31,"Igarassu",0,90,2,575
+2020-07-31,"Ilha de Itamaracá",0,10,1,276
+2020-07-31,"Ipojuca",0,90,1,716
+2020-07-31,"Itapissuma",0,28,1,257
+2020-07-31,"Jaboatão dos Guararapes",2,727,43,6536
+2020-07-31,"Moreno",0,36,1,334
+2020-07-31,"Olinda",2,378,40,4944
+2020-07-31,"Paulista",0,273,17,3238
+2020-07-31,"Pombos",0,23,15,567
+2020-07-31,"Recife",7,2127,225,26705
+2020-07-31,"São Lourenço da Mata",0,102,7,736
+2020-07-31,"Vitória de Santo Antão",1,128,26,1369
+2020-08-01,"Abreu e Lima",0,85,16,646
+2020-08-01,"Araçoiaba",0,11,0,86
+2020-08-01,"Cabo de Santo Agostinho",2,205,20,1469
+2020-08-01,"Camaragibe",2,150,19,1627
+2020-08-01,"Chã Grande",0,13,1,238
+2020-08-01,"Chã de Alegria",0,9,1,178
+2020-08-01,"Fernando de Noronha",0,0,2,102
+2020-08-01,"Glória do Goitá",0,24,2,231
+2020-08-01,"Igarassu",0,90,0,575
+2020-08-01,"Ilha de Itamaracá",0,10,29,305
+2020-08-01,"Ipojuca",0,90,10,726
+2020-08-01,"Itapissuma",0,28,3,260
+2020-08-01,"Jaboatão dos Guararapes",9,736,63,6599
+2020-08-01,"Moreno",0,36,2,336
+2020-08-01,"Olinda",5,383,61,5005
+2020-08-01,"Paulista",2,275,26,3264
+2020-08-01,"Pombos",1,24,5,572
+2020-08-01,"Recife",1,2128,358,27063
+2020-08-01,"São Lourenço da Mata",0,102,7,743
+2020-08-01,"Vitória de Santo Antão",0,128,33,1402
+2020-08-02,"Abreu e Lima",1,86,10,656
+2020-08-02,"Araçoiaba",0,11,0,86
+2020-08-02,"Cabo de Santo Agostinho",2,207,24,1493
+2020-08-02,"Camaragibe",0,150,13,1640
+2020-08-02,"Chã Grande",0,13,0,238
+2020-08-02,"Chã de Alegria",0,9,2,180
+2020-08-02,"Fernando de Noronha",0,0,0,102
+2020-08-02,"Glória do Goitá",0,24,7,238
+2020-08-02,"Igarassu",0,90,6,581
+2020-08-02,"Ilha de Itamaracá",0,10,15,320
+2020-08-02,"Ipojuca",0,90,1,727
+2020-08-02,"Itapissuma",0,28,27,287
+2020-08-02,"Jaboatão dos Guararapes",3,739,62,6661
+2020-08-02,"Moreno",0,36,3,339
+2020-08-02,"Olinda",1,384,21,5026
+2020-08-02,"Paulista",1,276,21,3285
+2020-08-02,"Pombos",0,24,0,572
+2020-08-02,"Recife",2,2130,179,27242
+2020-08-02,"São Lourenço da Mata",0,102,4,747
+2020-08-02,"Vitória de Santo Antão",2,130,10,1412
+2020-08-03,"Abreu e Lima",1,87,5,661
+2020-08-03,"Araçoiaba",0,11,0,86
+2020-08-03,"Cabo de Santo Agostinho",1,208,0,1493
+2020-08-03,"Camaragibe",2,152,6,1646
+2020-08-03,"Chã Grande",1,14,0,238
+2020-08-03,"Chã de Alegria",0,9,0,180
+2020-08-03,"Fernando de Noronha",0,0,1,103
+2020-08-03,"Glória do Goitá",0,24,3,241
+2020-08-03,"Igarassu",0,90,1,582
+2020-08-03,"Ilha de Itamaracá",0,10,2,322
+2020-08-03,"Ipojuca",0,90,0,727
+2020-08-03,"Itapissuma",0,28,0,287
+2020-08-03,"Jaboatão dos Guararapes",2,741,15,6676
+2020-08-03,"Moreno",0,36,1,340
+2020-08-03,"Olinda",2,386,11,5037
+2020-08-03,"Paulista",3,279,17,3302
+2020-08-03,"Pombos",0,24,3,575
+2020-08-03,"Recife",3,2133,67,27309
+2020-08-03,"São Lourenço da Mata",0,102,4,751
+2020-08-03,"Vitória de Santo Antão",1,131,11,1423
+2020-08-04,"Abreu e Lima",0,87,1,662
+2020-08-04,"Araçoiaba",0,11,0,86
+2020-08-04,"Cabo de Santo Agostinho",2,210,1,1494
+2020-08-04,"Camaragibe",0,152,3,1649
+2020-08-04,"Chã Grande",0,14,0,238
+2020-08-04,"Chã de Alegria",0,9,0,180
+2020-08-04,"Fernando de Noronha",0,0,0,103
+2020-08-04,"Glória do Goitá",0,24,0,241
+2020-08-04,"Igarassu",0,90,4,586
+2020-08-04,"Ilha de Itamaracá",1,11,2,324
+2020-08-04,"Ipojuca",0,90,0,727
+2020-08-04,"Itapissuma",0,28,0,287
+2020-08-04,"Jaboatão dos Guararapes",7,748,10,6686
+2020-08-04,"Moreno",0,36,1,341
+2020-08-04,"Olinda",6,392,6,5043
+2020-08-04,"Paulista",3,282,8,3310
+2020-08-04,"Pombos",0,24,2,577
+2020-08-04,"Recife",9,2142,101,27410
+2020-08-04,"São Lourenço da Mata",0,102,1,752
+2020-08-04,"Vitória de Santo Antão",1,132,7,1430
+2020-08-05,"Abreu e Lima",0,87,11,673
+2020-08-05,"Araçoiaba",0,11,3,89
+2020-08-05,"Cabo de Santo Agostinho",0,210,3,1497
+2020-08-05,"Camaragibe",1,153,20,1669
+2020-08-05,"Chã Grande",0,14,2,240
+2020-08-05,"Chã de Alegria",0,9,0,180
+2020-08-05,"Fernando de Noronha",0,0,0,103
+2020-08-05,"Glória do Goitá",0,24,2,243
+2020-08-05,"Igarassu",0,90,9,595
+2020-08-05,"Ilha de Itamaracá",0,11,1,325
+2020-08-05,"Ipojuca",0,90,0,727
+2020-08-05,"Itapissuma",0,28,3,290
+2020-08-05,"Jaboatão dos Guararapes",2,750,57,6743
+2020-08-05,"Moreno",0,36,0,341
+2020-08-05,"Olinda",7,399,29,5072
+2020-08-05,"Paulista",2,284,17,3327
+2020-08-05,"Pombos",0,24,4,581
+2020-08-05,"Recife",6,2148,218,27628
+2020-08-05,"São Lourenço da Mata",0,102,2,754
+2020-08-05,"Vitória de Santo Antão",0,132,1,1431
+2020-08-06,"Abreu e Lima",0,87,5,678
+2020-08-06,"Araçoiaba",0,11,0,89
+2020-08-06,"Cabo de Santo Agostinho",2,212,12,1509
+2020-08-06,"Camaragibe",0,153,10,1679
+2020-08-06,"Chã Grande",0,14,1,241
+2020-08-06,"Chã de Alegria",0,9,0,180
+2020-08-06,"Fernando de Noronha",0,0,0,103
+2020-08-06,"Glória do Goitá",0,24,2,245
+2020-08-06,"Igarassu",0,90,24,619
+2020-08-06,"Ilha de Itamaracá",0,11,1,326
+2020-08-06,"Ipojuca",0,90,1,728
+2020-08-06,"Itapissuma",0,28,2,292
+2020-08-06,"Jaboatão dos Guararapes",5,755,46,6789
+2020-08-06,"Moreno",0,36,2,343
+2020-08-06,"Olinda",18,417,26,5098
+2020-08-06,"Paulista",1,285,22,3349
+2020-08-06,"Pombos",0,24,2,583
+2020-08-06,"Recife",13,2161,162,27790
+2020-08-06,"São Lourenço da Mata",1,103,5,759
+2020-08-06,"Vitória de Santo Antão",2,134,6,1437
+2020-08-07,"Abreu e Lima",0,87,4,682
+2020-08-07,"Araçoiaba",0,11,1,90
+2020-08-07,"Cabo de Santo Agostinho",0,212,6,1515
+2020-08-07,"Camaragibe",1,154,19,1698
+2020-08-07,"Chã Grande",0,14,3,244
+2020-08-07,"Chã de Alegria",0,9,0,180
+2020-08-07,"Fernando de Noronha",0,0,0,103
+2020-08-07,"Glória do Goitá",0,24,3,248
+2020-08-07,"Igarassu",0,90,4,623
+2020-08-07,"Ilha de Itamaracá",0,11,1,327
+2020-08-07,"Ipojuca",0,90,7,735
+2020-08-07,"Itapissuma",0,28,1,293
+2020-08-07,"Jaboatão dos Guararapes",7,762,54,6843
+2020-08-07,"Moreno",0,36,2,345
+2020-08-07,"Olinda",4,421,27,5125
+2020-08-07,"Paulista",1,286,16,3365
+2020-08-07,"Pombos",1,25,1,584
+2020-08-07,"Recife",10,2171,209,27999
+2020-08-07,"São Lourenço da Mata",0,103,8,767
+2020-08-07,"Vitória de Santo Antão",0,134,2,1439
+2020-08-08,"Abreu e Lima",0,87,4,686
+2020-08-08,"Araçoiaba",0,11,2,92
+2020-08-08,"Cabo de Santo Agostinho",1,213,6,1521
+2020-08-08,"Camaragibe",0,154,14,1712
+2020-08-08,"Chã Grande",0,14,2,246
+2020-08-08,"Chã de Alegria",1,10,2,182
+2020-08-08,"Fernando de Noronha",0,0,0,103
+2020-08-08,"Glória do Goitá",0,24,1,249
+2020-08-08,"Igarassu",0,90,5,628
+2020-08-08,"Ilha de Itamaracá",0,11,2,329
+2020-08-08,"Ipojuca",0,90,2,737
+2020-08-08,"Itapissuma",0,28,13,306
+2020-08-08,"Jaboatão dos Guararapes",2,764,40,6883
+2020-08-08,"Moreno",2,38,1,346
+2020-08-08,"Olinda",14,435,21,5146
+2020-08-08,"Paulista",3,289,24,3389
+2020-08-08,"Pombos",0,25,1,585
+2020-08-08,"Recife",6,2177,185,28184
+2020-08-08,"São Lourenço da Mata",1,104,1,768
+2020-08-08,"Vitória de Santo Antão",0,134,9,1448
+2020-08-09,"Abreu e Lima",0,87,6,692
+2020-08-09,"Araçoiaba",0,11,0,92
+2020-08-09,"Cabo de Santo Agostinho",0,213,11,1532
+2020-08-09,"Camaragibe",1,155,4,1716
+2020-08-09,"Chã Grande",0,14,0,246
+2020-08-09,"Chã de Alegria",-1,9,-1,181
+2020-08-09,"Fernando de Noronha",0,0,0,103
+2020-08-09,"Glória do Goitá",0,24,1,250
+2020-08-09,"Igarassu",0,90,26,654
+2020-08-09,"Ilha de Itamaracá",0,11,1,330
+2020-08-09,"Ipojuca",0,90,10,747
+2020-08-09,"Itapissuma",0,28,3,309
+2020-08-09,"Jaboatão dos Guararapes",0,764,35,6918
+2020-08-09,"Moreno",0,38,1,347
+2020-08-09,"Olinda",1,436,24,5170
+2020-08-09,"Paulista",0,289,15,3404
+2020-08-09,"Pombos",0,25,0,585
+2020-08-09,"Recife",3,2180,144,28328
+2020-08-09,"São Lourenço da Mata",2,106,1,769
+2020-08-09,"Vitória de Santo Antão",0,134,16,1464
+2020-08-10,"Abreu e Lima",0,87,0,692
+2020-08-10,"Araçoiaba",0,11,0,92
+2020-08-10,"Cabo de Santo Agostinho",0,213,2,1534
+2020-08-10,"Camaragibe",0,155,4,1720
+2020-08-10,"Chã Grande",0,14,1,247
+2020-08-10,"Chã de Alegria",0,9,0,181
+2020-08-10,"Fernando de Noronha",0,0,0,103
+2020-08-10,"Glória do Goitá",0,24,0,250
+2020-08-10,"Igarassu",0,90,2,656
+2020-08-10,"Ilha de Itamaracá",0,11,0,330
+2020-08-10,"Ipojuca",0,90,0,747
+2020-08-10,"Itapissuma",0,28,1,310
+2020-08-10,"Jaboatão dos Guararapes",3,767,9,6927
+2020-08-10,"Moreno",0,38,0,347
+2020-08-10,"Olinda",0,436,4,5174
+2020-08-10,"Paulista",0,289,4,3408
+2020-08-10,"Pombos",0,25,0,585
+2020-08-10,"Recife",2,2182,42,28370
+2020-08-10,"São Lourenço da Mata",1,107,0,769
+2020-08-10,"Vitória de Santo Antão",0,134,0,1464
+2020-08-11,"Abreu e Lima",1,88,3,695
+2020-08-11,"Araçoiaba",0,11,3,95
+2020-08-11,"Cabo de Santo Agostinho",0,213,7,1541
+2020-08-11,"Camaragibe",0,155,7,1727
+2020-08-11,"Chã Grande",0,14,1,248
+2020-08-11,"Chã de Alegria",0,9,1,182
+2020-08-11,"Fernando de Noronha",0,0,0,103
+2020-08-11,"Glória do Goitá",0,24,0,250
+2020-08-11,"Igarassu",1,91,0,656
+2020-08-11,"Ilha de Itamaracá",0,11,2,332
+2020-08-11,"Ipojuca",0,90,0,747
+2020-08-11,"Itapissuma",0,28,0,310
+2020-08-11,"Jaboatão dos Guararapes",3,770,24,6951
+2020-08-11,"Moreno",1,39,0,347
+2020-08-11,"Olinda",5,441,4,5178
+2020-08-11,"Paulista",1,290,10,3418
+2020-08-11,"Pombos",0,25,0,585
+2020-08-11,"Recife",3,2185,134,28504
+2020-08-11,"São Lourenço da Mata",0,107,1,770
+2020-08-11,"Vitória de Santo Antão",0,134,2,1466
+2020-08-12,"Abreu e Lima",0,88,13,708
+2020-08-12,"Araçoiaba",0,11,0,95
+2020-08-12,"Cabo de Santo Agostinho",1,214,10,1551
+2020-08-12,"Camaragibe",0,155,8,1735
+2020-08-12,"Chã Grande",0,14,1,249
+2020-08-12,"Chã de Alegria",0,9,0,182
+2020-08-12,"Fernando de Noronha",0,0,0,103
+2020-08-12,"Glória do Goitá",1,25,1,251
+2020-08-12,"Igarassu",0,91,7,663
+2020-08-12,"Ilha de Itamaracá",0,11,2,334
+2020-08-12,"Ipojuca",0,90,7,754
+2020-08-12,"Itapissuma",0,28,3,313
+2020-08-12,"Jaboatão dos Guararapes",1,771,49,7000
+2020-08-12,"Moreno",0,39,2,349
+2020-08-12,"Olinda",6,447,44,5222
+2020-08-12,"Paulista",2,292,20,3438
+2020-08-12,"Pombos",0,25,2,587
+2020-08-12,"Recife",9,2194,254,28758
+2020-08-12,"São Lourenço da Mata",0,107,4,774
+2020-08-12,"Vitória de Santo Antão",0,134,20,1486
+2020-08-13,"Abreu e Lima",2,90,4,712
+2020-08-13,"Araçoiaba",0,11,1,96
+2020-08-13,"Cabo de Santo Agostinho",2,216,8,1559
+2020-08-13,"Camaragibe",0,155,12,1747
+2020-08-13,"Chã Grande",0,14,0,249
+2020-08-13,"Chã de Alegria",0,9,0,182
+2020-08-13,"Fernando de Noronha",0,0,0,103
+2020-08-13,"Glória do Goitá",0,25,3,254
+2020-08-13,"Igarassu",0,91,4,667
+2020-08-13,"Ilha de Itamaracá",1,12,1,335
+2020-08-13,"Ipojuca",0,90,2,756
+2020-08-13,"Itapissuma",0,28,3,316
+2020-08-13,"Jaboatão dos Guararapes",5,776,45,7045
+2020-08-13,"Moreno",0,39,1,350
+2020-08-13,"Olinda",1,448,39,5261
+2020-08-13,"Paulista",0,292,18,3456
+2020-08-13,"Pombos",0,25,3,590
+2020-08-13,"Recife",5,2199,192,28950
+2020-08-13,"São Lourenço da Mata",0,107,6,780
+2020-08-13,"Vitória de Santo Antão",1,135,37,1523
+2020-08-14,"Abreu e Lima",0,90,5,717
+2020-08-14,"Araçoiaba",0,11,1,97
+2020-08-14,"Cabo de Santo Agostinho",2,218,12,1571
+2020-08-14,"Camaragibe",0,155,15,1762
+2020-08-14,"Chã Grande",0,14,7,256
+2020-08-14,"Chã de Alegria",0,9,0,182
+2020-08-14,"Fernando de Noronha",0,0,0,103
+2020-08-14,"Glória do Goitá",0,25,2,256
+2020-08-14,"Igarassu",1,92,4,671
+2020-08-14,"Ilha de Itamaracá",0,12,2,337
+2020-08-14,"Ipojuca",0,90,7,763
+2020-08-14,"Itapissuma",0,28,5,321
+2020-08-14,"Jaboatão dos Guararapes",4,780,49,7094
+2020-08-14,"Moreno",0,39,2,352
+2020-08-14,"Olinda",2,450,27,5288
+2020-08-14,"Paulista",0,292,23,3479
+2020-08-14,"Pombos",0,25,0,590
+2020-08-14,"Recife",5,2204,255,29205
+2020-08-14,"São Lourenço da Mata",-1,106,4,784
+2020-08-14,"Vitória de Santo Antão",0,135,10,1533
+2020-08-15,"Abreu e Lima",0,90,7,724
+2020-08-15,"Araçoiaba",1,12,1,98
+2020-08-15,"Cabo de Santo Agostinho",1,219,17,1588
+2020-08-15,"Camaragibe",1,156,17,1779
+2020-08-15,"Chã Grande",0,14,1,257
+2020-08-15,"Chã de Alegria",0,9,0,182
+2020-08-15,"Fernando de Noronha",0,0,0,103
+2020-08-15,"Glória do Goitá",1,26,0,256
+2020-08-15,"Igarassu",-1,91,9,680
+2020-08-15,"Ilha de Itamaracá",0,12,1,338
+2020-08-15,"Ipojuca",0,90,8,771
+2020-08-15,"Itapissuma",0,28,1,322
+2020-08-15,"Jaboatão dos Guararapes",4,784,44,7138
+2020-08-15,"Moreno",0,39,1,353
+2020-08-15,"Olinda",1,451,29,5317
+2020-08-15,"Paulista",2,294,19,3498
+2020-08-15,"Pombos",0,25,2,592
+2020-08-15,"Recife",10,2214,272,29477
+2020-08-15,"São Lourenço da Mata",0,106,10,794
+2020-08-15,"Vitória de Santo Antão",0,135,3,1536
+2020-08-16,"Abreu e Lima",0,90,2,726
+2020-08-16,"Araçoiaba",0,12,0,98
+2020-08-16,"Cabo de Santo Agostinho",2,221,17,1605
+2020-08-16,"Camaragibe",1,157,5,1784
+2020-08-16,"Chã Grande",0,14,1,258
+2020-08-16,"Chã de Alegria",0,9,0,182
+2020-08-16,"Fernando de Noronha",0,0,0,103
+2020-08-16,"Glória do Goitá",0,26,0,256
+2020-08-16,"Igarassu",1,92,3,683
+2020-08-16,"Ilha de Itamaracá",0,12,1,339
+2020-08-16,"Ipojuca",0,90,10,781
+2020-08-16,"Itapissuma",0,28,2,324
+2020-08-16,"Jaboatão dos Guararapes",3,787,38,7176
+2020-08-16,"Moreno",0,39,1,354
+2020-08-16,"Olinda",0,451,15,5332
+2020-08-16,"Paulista",2,296,5,3503
+2020-08-16,"Pombos",0,25,1,593
+2020-08-16,"Recife",2,2216,184,29661
+2020-08-16,"São Lourenço da Mata",0,106,7,801
+2020-08-16,"Vitória de Santo Antão",3,138,16,1552
+2020-08-17,"Abreu e Lima",1,91,2,728
+2020-08-17,"Araçoiaba",0,12,3,101
+2020-08-17,"Cabo de Santo Agostinho",0,221,1,1606
+2020-08-17,"Camaragibe",1,158,4,1788
+2020-08-17,"Chã Grande",0,14,0,258
+2020-08-17,"Chã de Alegria",0,9,0,182
+2020-08-17,"Fernando de Noronha",0,0,0,103
+2020-08-17,"Glória do Goitá",0,26,0,256
+2020-08-17,"Igarassu",0,92,1,684
+2020-08-17,"Ilha de Itamaracá",0,12,1,340
+2020-08-17,"Ipojuca",0,90,0,781
+2020-08-17,"Itapissuma",0,28,1,325
+2020-08-17,"Jaboatão dos Guararapes",2,789,8,7184
+2020-08-17,"Moreno",0,39,0,354
+2020-08-17,"Olinda",0,451,24,5356
+2020-08-17,"Paulista",1,297,5,3508
+2020-08-17,"Pombos",0,25,0,593
+2020-08-17,"Recife",4,2220,57,29718
+2020-08-17,"São Lourenço da Mata",1,107,4,805
+2020-08-17,"Vitória de Santo Antão",0,138,2,1554
+2020-08-18,"Abreu e Lima",1,92,1,729
+2020-08-18,"Araçoiaba",0,12,2,103
+2020-08-18,"Cabo de Santo Agostinho",2,223,1,1607
+2020-08-18,"Camaragibe",0,158,4,1792
+2020-08-18,"Chã Grande",0,14,0,258
+2020-08-18,"Chã de Alegria",0,9,0,182
+2020-08-18,"Fernando de Noronha",0,0,0,103
+2020-08-18,"Glória do Goitá",0,26,3,259
+2020-08-18,"Igarassu",0,92,6,690
+2020-08-18,"Ilha de Itamaracá",0,12,0,340
+2020-08-18,"Ipojuca",0,90,1,782
+2020-08-18,"Itapissuma",0,28,4,329
+2020-08-18,"Jaboatão dos Guararapes",3,792,15,7199
+2020-08-18,"Moreno",0,39,2,356
+2020-08-18,"Olinda",5,456,19,5375
+2020-08-18,"Paulista",1,298,12,3520
+2020-08-18,"Pombos",0,25,2,595
+2020-08-18,"Recife",10,2230,142,29860
+2020-08-18,"São Lourenço da Mata",0,107,5,810
+2020-08-18,"Vitória de Santo Antão",1,139,2,1556
+2020-08-19,"Abreu e Lima",0,92,4,733
+2020-08-19,"Araçoiaba",0,12,0,103
+2020-08-19,"Cabo de Santo Agostinho",1,224,11,1618
+2020-08-19,"Camaragibe",2,160,7,1799
+2020-08-19,"Chã Grande",0,14,1,259
+2020-08-19,"Chã de Alegria",0,9,0,182
+2020-08-19,"Fernando de Noronha",0,0,0,103
+2020-08-19,"Glória do Goitá",0,26,1,260
+2020-08-19,"Igarassu",0,92,6,696
+2020-08-19,"Ilha de Itamaracá",0,12,0,340
+2020-08-19,"Ipojuca",1,91,1,783
+2020-08-19,"Itapissuma",0,28,0,329
+2020-08-19,"Jaboatão dos Guararapes",1,793,37,7236
+2020-08-19,"Moreno",0,39,0,356
+2020-08-19,"Olinda",1,457,44,5419
+2020-08-19,"Paulista",1,299,18,3538
+2020-08-19,"Pombos",0,25,13,608
+2020-08-19,"Recife",4,2234,190,30050
+2020-08-19,"São Lourenço da Mata",0,107,4,814
+2020-08-19,"Vitória de Santo Antão",0,139,9,1565
+2020-08-20,"Abreu e Lima",0,92,3,736
+2020-08-20,"Araçoiaba",0,12,3,106
+2020-08-20,"Cabo de Santo Agostinho",1,225,7,1625
+2020-08-20,"Camaragibe",0,160,5,1804
+2020-08-20,"Chã Grande",0,14,0,259
+2020-08-20,"Chã de Alegria",1,10,1,183
+2020-08-20,"Fernando de Noronha",0,0,0,103
+2020-08-20,"Glória do Goitá",0,26,0,260
+2020-08-20,"Igarassu",0,92,3,699
+2020-08-20,"Ilha de Itamaracá",0,12,1,341
+2020-08-20,"Ipojuca",0,91,4,787
+2020-08-20,"Itapissuma",0,28,0,329
+2020-08-20,"Jaboatão dos Guararapes",3,796,30,7266
+2020-08-20,"Moreno",0,39,1,357
+2020-08-20,"Olinda",1,458,9,5428
+2020-08-20,"Paulista",-1,298,9,3547
+2020-08-20,"Pombos",0,25,0,608
+2020-08-20,"Recife",0,2234,149,30199
+2020-08-20,"São Lourenço da Mata",0,107,4,818
+2020-08-20,"Vitória de Santo Antão",1,140,3,1568
+2020-08-21,"Abreu e Lima",0,92,3,739
+2020-08-21,"Araçoiaba",0,12,0,106
+2020-08-21,"Cabo de Santo Agostinho",0,225,8,1633
+2020-08-21,"Camaragibe",0,160,9,1813
+2020-08-21,"Chã Grande",0,14,0,259
+2020-08-21,"Chã de Alegria",0,10,0,183
+2020-08-21,"Fernando de Noronha",0,0,0,103
+2020-08-21,"Glória do Goitá",0,26,2,262
+2020-08-21,"Igarassu",1,93,4,703
+2020-08-21,"Ilha de Itamaracá",0,12,0,341
+2020-08-21,"Ipojuca",1,92,17,804
+2020-08-21,"Itapissuma",0,28,0,329
+2020-08-21,"Jaboatão dos Guararapes",4,800,34,7300
+2020-08-21,"Moreno",0,39,3,360
+2020-08-21,"Olinda",0,458,31,5459
+2020-08-21,"Paulista",0,298,15,3562
+2020-08-21,"Pombos",0,25,4,612
+2020-08-21,"Recife",2,2236,236,30435
+2020-08-21,"São Lourenço da Mata",2,109,5,823
+2020-08-21,"Vitória de Santo Antão",0,140,8,1576
+2020-08-22,"Abreu e Lima",0,92,1,740
+2020-08-22,"Araçoiaba",0,12,9,115
+2020-08-22,"Cabo de Santo Agostinho",0,225,4,1637
+2020-08-22,"Camaragibe",1,161,1,1814
+2020-08-22,"Chã Grande",0,14,0,259
+2020-08-22,"Chã de Alegria",0,10,1,184
+2020-08-22,"Fernando de Noronha",0,0,0,103
+2020-08-22,"Glória do Goitá",0,26,2,264
+2020-08-22,"Igarassu",0,93,8,711
+2020-08-22,"Ilha de Itamaracá",0,12,0,341
+2020-08-22,"Ipojuca",0,92,1,805
+2020-08-22,"Itapissuma",0,28,0,329
+2020-08-22,"Jaboatão dos Guararapes",2,802,22,7322
+2020-08-22,"Moreno",0,39,2,362
+2020-08-22,"Olinda",2,460,9,5468
+2020-08-22,"Paulista",0,298,8,3570
+2020-08-22,"Pombos",0,25,0,612
+2020-08-22,"Recife",4,2240,102,30537
+2020-08-22,"São Lourenço da Mata",0,109,2,825
+2020-08-22,"Vitória de Santo Antão",0,140,0,1576
+2020-08-23,"Abreu e Lima",0,92,6,746
+2020-08-23,"Araçoiaba",0,12,0,115
+2020-08-23,"Cabo de Santo Agostinho",1,226,4,1641
+2020-08-23,"Camaragibe",0,161,10,1824
+2020-08-23,"Chã Grande",0,14,1,260
+2020-08-23,"Chã de Alegria",0,10,0,184
+2020-08-23,"Fernando de Noronha",0,0,0,103
+2020-08-23,"Glória do Goitá",0,26,0,264
+2020-08-23,"Igarassu",1,94,3,714
+2020-08-23,"Ilha de Itamaracá",0,12,4,345
+2020-08-23,"Ipojuca",0,92,0,805
+2020-08-23,"Itapissuma",0,28,0,329
+2020-08-23,"Jaboatão dos Guararapes",1,803,32,7354
+2020-08-23,"Moreno",0,39,1,363
+2020-08-23,"Olinda",0,460,29,5497
+2020-08-23,"Paulista",2,300,13,3583
+2020-08-23,"Pombos",0,25,0,612
+2020-08-23,"Recife",4,2244,200,30737
+2020-08-23,"São Lourenço da Mata",0,109,4,829
+2020-08-23,"Vitória de Santo Antão",0,140,8,1584
+2020-08-24,"Abreu e Lima",0,92,2,748
+2020-08-24,"Araçoiaba",0,12,0,115
+2020-08-24,"Cabo de Santo Agostinho",0,226,4,1645
+2020-08-24,"Camaragibe",0,161,1,1825
+2020-08-24,"Chã Grande",0,14,0,260
+2020-08-24,"Chã de Alegria",0,10,0,184
+2020-08-24,"Fernando de Noronha",0,0,0,103
+2020-08-24,"Glória do Goitá",0,26,1,265
+2020-08-24,"Igarassu",0,94,2,716
+2020-08-24,"Ilha de Itamaracá",0,12,1,346
+2020-08-24,"Ipojuca",0,92,0,805
+2020-08-24,"Itapissuma",0,28,0,329
+2020-08-24,"Jaboatão dos Guararapes",1,804,17,7371
+2020-08-24,"Moreno",0,39,2,365
+2020-08-24,"Olinda",0,460,12,5509
+2020-08-24,"Paulista",0,300,8,3591
+2020-08-24,"Pombos",0,25,2,614
+2020-08-24,"Recife",3,2247,51,30788
+2020-08-24,"São Lourenço da Mata",0,109,6,835
+2020-08-24,"Vitória de Santo Antão",0,140,18,1602
+2020-08-25,"Abreu e Lima",0,92,1,749
+2020-08-25,"Araçoiaba",0,12,7,122
+2020-08-25,"Cabo de Santo Agostinho",0,226,6,1651
+2020-08-25,"Camaragibe",0,161,8,1833
+2020-08-25,"Chã Grande",0,14,0,260
+2020-08-25,"Chã de Alegria",0,10,0,184
+2020-08-25,"Fernando de Noronha",0,0,0,103
+2020-08-25,"Glória do Goitá",0,26,0,265
+2020-08-25,"Igarassu",0,94,4,720
+2020-08-25,"Ilha de Itamaracá",0,12,0,346
+2020-08-25,"Ipojuca",0,92,1,806
+2020-08-25,"Itapissuma",0,28,0,329
+2020-08-25,"Jaboatão dos Guararapes",4,808,17,7388
+2020-08-25,"Moreno",1,40,2,367
+2020-08-25,"Olinda",4,464,25,5534
+2020-08-25,"Paulista",1,301,9,3600
+2020-08-25,"Pombos",0,25,3,617
+2020-08-25,"Recife",3,2250,102,30890
+2020-08-25,"São Lourenço da Mata",0,109,2,837
+2020-08-25,"Vitória de Santo Antão",0,140,0,1602
+2020-08-26,"Abreu e Lima",0,92,10,759
+2020-08-26,"Araçoiaba",0,12,1,123
+2020-08-26,"Cabo de Santo Agostinho",1,227,8,1659
+2020-08-26,"Camaragibe",1,162,6,1839
+2020-08-26,"Chã Grande",0,14,2,262
+2020-08-26,"Chã de Alegria",0,10,1,185
+2020-08-26,"Fernando de Noronha",0,0,0,103
+2020-08-26,"Glória do Goitá",0,26,0,265
+2020-08-26,"Igarassu",0,94,3,723
+2020-08-26,"Ilha de Itamaracá",0,12,6,352
+2020-08-26,"Ipojuca",0,92,2,808
+2020-08-26,"Itapissuma",0,28,0,329
+2020-08-26,"Jaboatão dos Guararapes",1,809,35,7423
+2020-08-26,"Moreno",2,42,3,370
+2020-08-26,"Olinda",2,466,16,5550
+2020-08-26,"Paulista",0,301,16,3616
+2020-08-26,"Pombos",0,25,9,626
+2020-08-26,"Recife",11,2261,181,31071
+2020-08-26,"São Lourenço da Mata",0,109,9,846
+2020-08-26,"Vitória de Santo Antão",0,140,11,1613
+2020-08-27,"Abreu e Lima",0,92,5,764
+2020-08-27,"Araçoiaba",0,12,2,125
+2020-08-27,"Cabo de Santo Agostinho",0,227,8,1667
+2020-08-27,"Camaragibe",0,162,6,1845
+2020-08-27,"Chã Grande",0,14,0,262
+2020-08-27,"Chã de Alegria",0,10,-1,184
+2020-08-27,"Fernando de Noronha",0,0,0,103
+2020-08-27,"Glória do Goitá",0,26,3,268
+2020-08-27,"Igarassu",0,94,6,729
+2020-08-27,"Ilha de Itamaracá",0,12,1,353
+2020-08-27,"Ipojuca",0,92,3,811
+2020-08-27,"Itapissuma",0,28,0,329
+2020-08-27,"Jaboatão dos Guararapes",2,811,30,7453
+2020-08-27,"Moreno",1,43,1,371
+2020-08-27,"Olinda",-1,465,23,5573
+2020-08-27,"Paulista",0,301,18,3634
+2020-08-27,"Pombos",0,25,0,626
+2020-08-27,"Recife",7,2268,151,31222
+2020-08-27,"São Lourenço da Mata",0,109,3,849
+2020-08-27,"Vitória de Santo Antão",0,140,2,1615
+2020-08-28,"Abreu e Lima",0,92,5,769
+2020-08-28,"Araçoiaba",1,13,8,133
+2020-08-28,"Cabo de Santo Agostinho",0,227,3,1670
+2020-08-28,"Camaragibe",0,162,11,1856
+2020-08-28,"Chã Grande",0,14,0,262
+2020-08-28,"Chã de Alegria",0,10,0,184
+2020-08-28,"Fernando de Noronha",0,0,0,103
+2020-08-28,"Glória do Goitá",0,26,2,270
+2020-08-28,"Igarassu",0,94,3,732
+2020-08-28,"Ilha de Itamaracá",0,12,1,354
+2020-08-28,"Ipojuca",0,92,0,811
+2020-08-28,"Itapissuma",0,28,0,329
+2020-08-28,"Jaboatão dos Guararapes",5,816,36,7489
+2020-08-28,"Moreno",0,43,2,373
+2020-08-28,"Olinda",1,466,22,5595
+2020-08-28,"Paulista",0,301,8,3642
+2020-08-28,"Pombos",0,25,7,633
+2020-08-28,"Recife",8,2276,168,31390
+2020-08-28,"São Lourenço da Mata",0,109,5,854
+2020-08-28,"Vitória de Santo Antão",0,140,31,1646
+2020-08-29,"Abreu e Lima",0,92,1,770
+2020-08-29,"Araçoiaba",0,13,4,137
+2020-08-29,"Cabo de Santo Agostinho",4,231,13,1683
+2020-08-29,"Camaragibe",0,162,13,1869
+2020-08-29,"Chã Grande",0,14,0,262
+2020-08-29,"Chã de Alegria",0,10,1,185
+2020-08-29,"Fernando de Noronha",0,0,0,103
+2020-08-29,"Glória do Goitá",0,26,-1,269
+2020-08-29,"Igarassu",0,94,1,733
+2020-08-29,"Ilha de Itamaracá",0,12,2,356
+2020-08-29,"Ipojuca",0,92,1,812
+2020-08-29,"Itapissuma",1,29,1,330
+2020-08-29,"Jaboatão dos Guararapes",3,819,53,7542
+2020-08-29,"Moreno",0,43,3,376
+2020-08-29,"Olinda",0,466,16,5611
+2020-08-29,"Paulista",3,304,23,3665
+2020-08-29,"Pombos",0,25,1,634
+2020-08-29,"Recife",6,2282,252,31642
+2020-08-29,"São Lourenço da Mata",0,109,7,861
+2020-08-29,"Vitória de Santo Antão",0,140,0,1646
+2020-08-30,"Abreu e Lima",0,92,3,773
+2020-08-30,"Araçoiaba",0,13,3,140
+2020-08-30,"Cabo de Santo Agostinho",1,232,3,1686
+2020-08-30,"Camaragibe",1,163,12,1881
+2020-08-30,"Chã Grande",0,14,0,262
+2020-08-30,"Chã de Alegria",0,10,0,185
+2020-08-30,"Fernando de Noronha",0,0,0,103
+2020-08-30,"Glória do Goitá",0,26,5,274
+2020-08-30,"Igarassu",0,94,6,739
+2020-08-30,"Ilha de Itamaracá",0,12,3,359
+2020-08-30,"Ipojuca",0,92,2,814
+2020-08-30,"Itapissuma",0,29,0,330
+2020-08-30,"Jaboatão dos Guararapes",1,820,23,7565
+2020-08-30,"Moreno",0,43,1,377
+2020-08-30,"Olinda",1,467,12,5623
+2020-08-30,"Paulista",2,306,16,3681
+2020-08-30,"Pombos",0,25,4,638
+2020-08-30,"Recife",1,2283,128,31770
+2020-08-30,"São Lourenço da Mata",0,109,1,862
+2020-08-30,"Vitória de Santo Antão",0,140,30,1676
+2020-08-31,"Abreu e Lima",1,93,6,779
+2020-08-31,"Araçoiaba",0,13,0,140
+2020-08-31,"Cabo de Santo Agostinho",0,232,3,1689
+2020-08-31,"Camaragibe",0,163,3,1884
+2020-08-31,"Chã Grande",0,14,0,262
+2020-08-31,"Chã de Alegria",0,10,0,185
+2020-08-31,"Fernando de Noronha",0,0,0,103
+2020-08-31,"Glória do Goitá",1,27,1,275
+2020-08-31,"Igarassu",0,94,1,740
+2020-08-31,"Ilha de Itamaracá",0,12,2,361
+2020-08-31,"Ipojuca",0,92,5,819
+2020-08-31,"Itapissuma",0,29,1,331
+2020-08-31,"Jaboatão dos Guararapes",2,822,10,7575
+2020-08-31,"Moreno",0,43,0,377
+2020-08-31,"Olinda",0,467,17,5640
+2020-08-31,"Paulista",0,306,4,3685
+2020-08-31,"Pombos",0,25,0,638
+2020-08-31,"Recife",3,2286,85,31855
+2020-08-31,"São Lourenço da Mata",0,109,6,868
+2020-08-31,"Vitória de Santo Antão",0,140,1,1677
+2020-09-01,"Abreu e Lima",0,93,2,781
+2020-09-01,"Araçoiaba",0,13,2,142
+2020-09-01,"Cabo de Santo Agostinho",0,232,40,1729
+2020-09-01,"Camaragibe",0,163,31,1915
+2020-09-01,"Chã Grande",0,14,-95,167
+2020-09-01,"Chã de Alegria",0,10,-10,175
+2020-09-01,"Fernando de Noronha",0,0,7,110
+2020-09-01,"Glória do Goitá",0,27,-17,258
+2020-09-01,"Igarassu",0,94,20,760
+2020-09-01,"Ilha de Itamaracá",2,14,-26,335
+2020-09-01,"Ipojuca",0,92,-11,808
+2020-09-01,"Itapissuma",0,29,12,343
+2020-09-01,"Jaboatão dos Guararapes",2,824,367,7942
+2020-09-01,"Moreno",0,43,7,384
+2020-09-01,"Olinda",0,467,-295,5345
+2020-09-01,"Paulista",1,307,120,3805
+2020-09-01,"Pombos",0,25,17,655
+2020-09-01,"Recife",4,2290,-712,31143
+2020-09-01,"São Lourenço da Mata",0,109,7,875
+2020-09-01,"Vitória de Santo Antão",0,140,31,1708
+2020-09-02,"Abreu e Lima",0,93,8,789
+2020-09-02,"Araçoiaba",0,13,0,142
+2020-09-02,"Cabo de Santo Agostinho",0,232,12,1741
+2020-09-02,"Camaragibe",2,165,13,1928
+2020-09-02,"Chã Grande",0,14,1,168
+2020-09-02,"Chã de Alegria",0,10,3,178
+2020-09-02,"Fernando de Noronha",0,0,0,110
+2020-09-02,"Glória do Goitá",0,27,-1,257
+2020-09-02,"Igarassu",1,95,3,763
+2020-09-02,"Ilha de Itamaracá",0,14,4,339
+2020-09-02,"Ipojuca",0,92,1,809
+2020-09-02,"Itapissuma",1,30,0,343
+2020-09-02,"Jaboatão dos Guararapes",3,827,43,7985
+2020-09-02,"Moreno",0,43,-1,383
+2020-09-02,"Olinda",1,468,63,5408
+2020-09-02,"Paulista",2,309,32,3837
+2020-09-02,"Pombos",0,25,2,657
+2020-09-02,"Recife",3,2293,158,31301
+2020-09-02,"São Lourenço da Mata",7,116,24,899
+2020-09-02,"Vitória de Santo Antão",2,142,1,1709
+2020-09-03,"Abreu e Lima",0,93,8,797
+2020-09-03,"Araçoiaba",2,15,3,145
+2020-09-03,"Cabo de Santo Agostinho",0,232,8,1749
+2020-09-03,"Camaragibe",0,165,12,1940
+2020-09-03,"Chã Grande",0,14,0,168
+2020-09-03,"Chã de Alegria",0,10,1,179
+2020-09-03,"Fernando de Noronha",0,0,0,110
+2020-09-03,"Glória do Goitá",0,27,3,260
+2020-09-03,"Igarassu",0,95,1,764
+2020-09-03,"Ilha de Itamaracá",0,14,1,340
+2020-09-03,"Ipojuca",0,92,1,810
+2020-09-03,"Itapissuma",0,30,0,343
+2020-09-03,"Jaboatão dos Guararapes",3,830,59,8044
+2020-09-03,"Moreno",0,43,2,385
+2020-09-03,"Olinda",0,468,-14,5394
+2020-09-03,"Paulista",12,321,16,3853
+2020-09-03,"Pombos",0,25,7,664
+2020-09-03,"Recife",3,2296,148,31449
+2020-09-03,"São Lourenço da Mata",0,116,12,911
+2020-09-03,"Vitória de Santo Antão",0,142,16,1725
+2020-09-04,"Abreu e Lima",0,93,2,799
+2020-09-04,"Araçoiaba",0,15,0,145
+2020-09-04,"Cabo de Santo Agostinho",1,233,4,1753
+2020-09-04,"Camaragibe",0,165,2,1942
+2020-09-04,"Chã Grande",0,14,0,168
+2020-09-04,"Chã de Alegria",0,10,-1,178
+2020-09-04,"Fernando de Noronha",0,0,0,110
+2020-09-04,"Glória do Goitá",0,27,2,262
+2020-09-04,"Igarassu",0,95,1,765
+2020-09-04,"Ilha de Itamaracá",0,14,2,342
+2020-09-04,"Ipojuca",0,92,3,813
+2020-09-04,"Itapissuma",0,30,0,343
+2020-09-04,"Jaboatão dos Guararapes",0,830,18,8062
+2020-09-04,"Moreno",0,43,2,387
+2020-09-04,"Olinda",1,469,41,5435
+2020-09-04,"Paulista",5,326,12,3865
+2020-09-04,"Pombos",0,25,1,665
+2020-09-04,"Recife",7,2303,139,31588
+2020-09-04,"São Lourenço da Mata",0,116,7,918
+2020-09-04,"Vitória de Santo Antão",0,142,57,1782
+2020-09-05,"Abreu e Lima",0,93,3,802
+2020-09-05,"Araçoiaba",0,15,2,147
+2020-09-05,"Cabo de Santo Agostinho",1,234,5,1758
+2020-09-05,"Camaragibe",1,166,29,1971
+2020-09-05,"Chã Grande",0,14,2,170
+2020-09-05,"Chã de Alegria",0,10,1,179
+2020-09-05,"Fernando de Noronha",0,0,0,110
+2020-09-05,"Glória do Goitá",0,27,0,262
+2020-09-05,"Igarassu",1,96,-2,763
+2020-09-05,"Ilha de Itamaracá",0,14,0,342
+2020-09-05,"Ipojuca",0,92,10,823
+2020-09-05,"Itapissuma",0,30,3,346
+2020-09-05,"Jaboatão dos Guararapes",1,831,88,8150
+2020-09-05,"Moreno",0,43,4,391
+2020-09-05,"Olinda",1,470,56,5491
+2020-09-05,"Paulista",3,329,25,3890
+2020-09-05,"Pombos",0,25,0,665
+2020-09-05,"Recife",-1,2302,-31,31557
+2020-09-05,"São Lourenço da Mata",0,116,7,925
+2020-09-05,"Vitória de Santo Antão",1,143,7,1789
+2020-09-06,"Abreu e Lima",0,93,0,802
+2020-09-06,"Araçoiaba",0,15,0,147
+2020-09-06,"Cabo de Santo Agostinho",0,234,0,1758
+2020-09-06,"Camaragibe",0,166,0,1971
+2020-09-06,"Chã Grande",0,14,0,170
+2020-09-06,"Chã de Alegria",0,10,0,179
+2020-09-06,"Fernando de Noronha",0,0,0,110
+2020-09-06,"Glória do Goitá",0,27,0,262
+2020-09-06,"Igarassu",0,96,0,763
+2020-09-06,"Ilha de Itamaracá",0,14,0,342
+2020-09-06,"Ipojuca",0,92,0,823
+2020-09-06,"Itapissuma",0,30,0,346
+2020-09-06,"Jaboatão dos Guararapes",0,831,0,8150
+2020-09-06,"Moreno",0,43,0,391
+2020-09-06,"Olinda",0,470,0,5491
+2020-09-06,"Paulista",0,329,0,3890
+2020-09-06,"Pombos",0,25,0,665
+2020-09-06,"Recife",0,2302,0,31557
+2020-09-06,"São Lourenço da Mata",0,116,0,925
+2020-09-06,"Vitória de Santo Antão",0,143,0,1789
+2020-09-07,"Abreu e Lima",0,93,5,807
+2020-09-07,"Araçoiaba",0,15,0,147
+2020-09-07,"Cabo de Santo Agostinho",1,235,8,1766
+2020-09-07,"Camaragibe",4,170,16,1987
+2020-09-07,"Chã Grande",0,14,1,171
+2020-09-07,"Chã de Alegria",0,10,0,179
+2020-09-07,"Fernando de Noronha",0,0,0,110
+2020-09-07,"Glória do Goitá",0,27,4,266
+2020-09-07,"Igarassu",0,96,1,764
+2020-09-07,"Ilha de Itamaracá",0,14,2,344
+2020-09-07,"Ipojuca",0,92,-3,820
+2020-09-07,"Itapissuma",0,30,0,346
+2020-09-07,"Jaboatão dos Guararapes",0,831,11,8161
+2020-09-07,"Moreno",1,44,0,391
+2020-09-07,"Olinda",2,472,-41,5450
+2020-09-07,"Paulista",3,332,18,3908
+2020-09-07,"Pombos",0,25,0,665
+2020-09-07,"Recife",7,2309,70,31627
+2020-09-07,"São Lourenço da Mata",0,116,3,928
+2020-09-07,"Vitória de Santo Antão",0,143,20,1809
+2020-09-08,"Abreu e Lima",2,95,2,809
+2020-09-08,"Araçoiaba",0,15,0,147
+2020-09-08,"Cabo de Santo Agostinho",0,235,0,1766
+2020-09-08,"Camaragibe",0,170,0,1987
+2020-09-08,"Chã Grande",0,14,0,171
+2020-09-08,"Chã de Alegria",0,10,0,179
+2020-09-08,"Fernando de Noronha",0,0,0,110
+2020-09-08,"Glória do Goitá",0,27,0,266
+2020-09-08,"Igarassu",1,97,7,771
+2020-09-08,"Ilha de Itamaracá",0,14,0,344
+2020-09-08,"Ipojuca",0,92,0,820
+2020-09-08,"Itapissuma",0,30,0,346
+2020-09-08,"Jaboatão dos Guararapes",2,833,5,8166
+2020-09-08,"Moreno",0,44,0,391
+2020-09-08,"Olinda",0,472,5,5455
+2020-09-08,"Paulista",0,332,3,3911
+2020-09-08,"Pombos",0,25,0,665
+2020-09-08,"Recife",3,2312,33,31660
+2020-09-08,"São Lourenço da Mata",0,116,0,928
+2020-09-08,"Vitória de Santo Antão",0,143,0,1809
+2020-09-09,"Abreu e Lima",0,95,2,811
+2020-09-09,"Araçoiaba",0,15,0,147
+2020-09-09,"Cabo de Santo Agostinho",1,236,1,1767
+2020-09-09,"Camaragibe",1,171,3,1990
+2020-09-09,"Chã Grande",0,14,1,172
+2020-09-09,"Chã de Alegria",0,10,1,180
+2020-09-09,"Fernando de Noronha",0,0,0,110
+2020-09-09,"Glória do Goitá",1,28,6,272
+2020-09-09,"Igarassu",0,97,3,774
+2020-09-09,"Ilha de Itamaracá",0,14,1,345
+2020-09-09,"Ipojuca",0,92,0,820
+2020-09-09,"Itapissuma",0,30,1,347
+2020-09-09,"Jaboatão dos Guararapes",3,836,64,8230
+2020-09-09,"Moreno",0,44,2,393
+2020-09-09,"Olinda",1,473,44,5499
+2020-09-09,"Paulista",2,334,7,3918
+2020-09-09,"Pombos",0,25,6,671
+2020-09-09,"Recife",4,2316,143,31803
+2020-09-09,"São Lourenço da Mata",0,116,0,928
+2020-09-09,"Vitória de Santo Antão",0,143,21,1830
+2020-09-10,"Abreu e Lima",0,95,1,812
+2020-09-10,"Araçoiaba",0,15,1,148
+2020-09-10,"Cabo de Santo Agostinho",-1,235,13,1780
+2020-09-10,"Camaragibe",0,171,1,1991
+2020-09-10,"Chã Grande",0,14,0,172
+2020-09-10,"Chã de Alegria",0,10,0,180
+2020-09-10,"Fernando de Noronha",0,0,1,111
+2020-09-10,"Glória do Goitá",-1,27,2,274
+2020-09-10,"Igarassu",0,97,2,776
+2020-09-10,"Ilha de Itamaracá",0,14,0,345
+2020-09-10,"Ipojuca",0,92,0,820
+2020-09-10,"Itapissuma",0,30,0,347
+2020-09-10,"Jaboatão dos Guararapes",1,837,36,8266
+2020-09-10,"Moreno",0,44,1,394
+2020-09-10,"Olinda",0,473,61,5560
+2020-09-10,"Paulista",11,345,11,3929
+2020-09-10,"Pombos",0,25,0,671
+2020-09-10,"Recife",4,2320,213,32016
+2020-09-10,"São Lourenço da Mata",1,117,10,938
+2020-09-10,"Vitória de Santo Antão",1,144,24,1854
+2020-09-11,"Abreu e Lima",0,95,7,819
+2020-09-11,"Araçoiaba",0,15,2,150
+2020-09-11,"Cabo de Santo Agostinho",2,237,0,1780
+2020-09-11,"Camaragibe",1,172,3,1994
+2020-09-11,"Chã Grande",0,14,0,172
+2020-09-11,"Chã de Alegria",0,10,0,180
+2020-09-11,"Fernando de Noronha",0,0,1,112
+2020-09-11,"Glória do Goitá",0,27,-1,273
+2020-09-11,"Igarassu",1,98,1,777
+2020-09-11,"Ilha de Itamaracá",0,14,0,345
+2020-09-11,"Ipojuca",0,92,4,824
+2020-09-11,"Itapissuma",0,30,0,347
+2020-09-11,"Jaboatão dos Guararapes",1,838,31,8297
+2020-09-11,"Moreno",0,44,1,395
+2020-09-11,"Olinda",0,473,42,5602
+2020-09-11,"Paulista",-1,344,19,3948
+2020-09-11,"Pombos",0,25,1,672
+2020-09-11,"Recife",4,2324,217,32233
+2020-09-11,"São Lourenço da Mata",0,117,1,939
+2020-09-11,"Vitória de Santo Antão",0,144,1,1855
+2020-09-12,"Abreu e Lima",0,95,3,822
+2020-09-12,"Araçoiaba",0,15,0,150
+2020-09-12,"Cabo de Santo Agostinho",1,238,5,1785
+2020-09-12,"Camaragibe",1,173,4,1998
+2020-09-12,"Chã Grande",0,14,0,172
+2020-09-12,"Chã de Alegria",0,10,0,180
+2020-09-12,"Fernando de Noronha",0,0,3,115
+2020-09-12,"Glória do Goitá",0,27,0,273
+2020-09-12,"Igarassu",0,98,0,777
+2020-09-12,"Ilha de Itamaracá",0,14,0,345
+2020-09-12,"Ipojuca",0,92,1,825
+2020-09-12,"Itapissuma",0,30,0,347
+2020-09-12,"Jaboatão dos Guararapes",1,839,48,8345
+2020-09-12,"Moreno",0,44,1,396
+2020-09-12,"Olinda",2,475,13,5615
+2020-09-12,"Paulista",16,360,11,3959
+2020-09-12,"Pombos",1,26,0,672
+2020-09-12,"Recife",2,2326,136,32369
+2020-09-12,"São Lourenço da Mata",3,120,4,943
+2020-09-12,"Vitória de Santo Antão",0,144,14,1869
+2020-09-13,"Abreu e Lima",0,95,0,822
+2020-09-13,"Araçoiaba",0,15,0,150
+2020-09-13,"Cabo de Santo Agostinho",0,238,1,1786
+2020-09-13,"Camaragibe",0,173,0,1998
+2020-09-13,"Chã Grande",0,14,0,172
+2020-09-13,"Chã de Alegria",0,10,1,181
+2020-09-13,"Fernando de Noronha",0,0,0,115
+2020-09-13,"Glória do Goitá",0,27,0,273
+2020-09-13,"Igarassu",0,98,1,778
+2020-09-13,"Ilha de Itamaracá",0,14,0,345
+2020-09-13,"Ipojuca",0,92,1,826
+2020-09-13,"Itapissuma",0,30,0,347
+2020-09-13,"Jaboatão dos Guararapes",1,840,2,8347
+2020-09-13,"Moreno",0,44,0,396
+2020-09-13,"Olinda",0,475,3,5618
+2020-09-13,"Paulista",3,363,2,3961
+2020-09-13,"Pombos",0,26,1,673
+2020-09-13,"Recife",2,2328,140,32509
+2020-09-13,"São Lourenço da Mata",0,120,1,944
+2020-09-13,"Vitória de Santo Antão",1,145,7,1876
+2020-09-14,"Abreu e Lima",0,95,0,822
+2020-09-14,"Araçoiaba",0,15,0,150
+2020-09-14,"Cabo de Santo Agostinho",0,238,0,1786
+2020-09-14,"Camaragibe",0,173,4,2002
+2020-09-14,"Chã Grande",0,14,0,172
+2020-09-14,"Chã de Alegria",0,10,0,181
+2020-09-14,"Fernando de Noronha",0,0,0,115
+2020-09-14,"Glória do Goitá",0,27,1,274
+2020-09-14,"Igarassu",0,98,0,778
+2020-09-14,"Ilha de Itamaracá",0,14,0,345
+2020-09-14,"Ipojuca",0,92,2,828
+2020-09-14,"Itapissuma",0,30,0,347
+2020-09-14,"Jaboatão dos Guararapes",2,842,3,8350
+2020-09-14,"Moreno",0,44,1,397
+2020-09-14,"Olinda",0,475,3,5621
+2020-09-14,"Paulista",1,364,2,3963
+2020-09-14,"Pombos",0,26,0,673
+2020-09-14,"Recife",0,2328,100,32609
+2020-09-14,"São Lourenço da Mata",0,120,1,945
+2020-09-14,"Vitória de Santo Antão",0,145,4,1880
+2020-09-15,"Abreu e Lima",0,95,5,827
+2020-09-15,"Araçoiaba",1,16,2,152
+2020-09-15,"Cabo de Santo Agostinho",0,238,6,1792
+2020-09-15,"Camaragibe",0,173,16,2018
+2020-09-15,"Chã Grande",0,14,0,172
+2020-09-15,"Chã de Alegria",0,10,0,181
+2020-09-15,"Fernando de Noronha",0,0,0,115
+2020-09-15,"Glória do Goitá",0,27,1,275
+2020-09-15,"Igarassu",0,98,10,788
+2020-09-15,"Ilha de Itamaracá",0,14,6,351
+2020-09-15,"Ipojuca",0,92,-1,827
+2020-09-15,"Itapissuma",0,30,1,348
+2020-09-15,"Jaboatão dos Guararapes",-1,841,73,8423
+2020-09-15,"Moreno",1,45,4,401
+2020-09-15,"Olinda",1,476,108,5729
+2020-09-15,"Paulista",0,364,27,3990
+2020-09-15,"Pombos",0,26,11,684
+2020-09-15,"Recife",10,2338,106,32715
+2020-09-15,"São Lourenço da Mata",0,120,6,951
+2020-09-15,"Vitória de Santo Antão",0,145,2,1882
+2020-09-16,"Abreu e Lima",0,95,0,827
+2020-09-16,"Araçoiaba",0,16,0,152
+2020-09-16,"Cabo de Santo Agostinho",0,238,12,1804
+2020-09-16,"Camaragibe",-1,172,4,2022
+2020-09-16,"Chã Grande",0,14,0,172
+2020-09-16,"Chã de Alegria",0,10,1,182
+2020-09-16,"Fernando de Noronha",0,0,0,115
+2020-09-16,"Glória do Goitá",0,27,8,283
+2020-09-16,"Igarassu",0,98,0,788
+2020-09-16,"Ilha de Itamaracá",0,14,0,351
+2020-09-16,"Ipojuca",0,92,3,830
+2020-09-16,"Itapissuma",0,30,2,350
+2020-09-16,"Jaboatão dos Guararapes",0,841,22,8445
+2020-09-16,"Moreno",0,45,1,402
+2020-09-16,"Olinda",2,478,9,5738
+2020-09-16,"Paulista",0,364,17,4007
+2020-09-16,"Pombos",0,26,1,685
+2020-09-16,"Recife",6,2344,133,32848
+2020-09-16,"São Lourenço da Mata",-1,119,2,953
+2020-09-16,"Vitória de Santo Antão",1,146,9,1891
+2020-09-17,"Abreu e Lima",0,95,2,829
+2020-09-17,"Araçoiaba",0,16,1,153
+2020-09-17,"Cabo de Santo Agostinho",0,238,9,1813
+2020-09-17,"Camaragibe",0,172,6,2028
+2020-09-17,"Chã Grande",0,14,0,172
+2020-09-17,"Chã de Alegria",0,10,0,182
+2020-09-17,"Fernando de Noronha",0,0,0,115
+2020-09-17,"Glória do Goitá",0,27,1,284
+2020-09-17,"Igarassu",0,98,17,805
+2020-09-17,"Ilha de Itamaracá",0,14,0,351
+2020-09-17,"Ipojuca",0,92,0,830
+2020-09-17,"Itapissuma",0,30,0,350
+2020-09-17,"Jaboatão dos Guararapes",-1,840,47,8492
+2020-09-17,"Moreno",0,45,1,403
+2020-09-17,"Olinda",1,479,28,5766
+2020-09-17,"Paulista",2,366,14,4021
+2020-09-17,"Pombos",0,26,1,686
+2020-09-17,"Recife",4,2348,111,32959
+2020-09-17,"São Lourenço da Mata",0,119,10,963
+2020-09-17,"Vitória de Santo Antão",1,147,16,1907
+2020-09-18,"Abreu e Lima",0,95,6,835
+2020-09-18,"Araçoiaba",0,16,1,154
+2020-09-18,"Cabo de Santo Agostinho",1,239,28,1841
+2020-09-18,"Camaragibe",0,172,8,2036
+2020-09-18,"Chã Grande",0,14,0,172
+2020-09-18,"Chã de Alegria",0,10,0,182
+2020-09-18,"Fernando de Noronha",0,0,4,119
+2020-09-18,"Glória do Goitá",0,27,1,285
+2020-09-18,"Igarassu",1,99,2,807
+2020-09-18,"Ilha de Itamaracá",0,14,0,351
+2020-09-18,"Ipojuca",1,93,12,842
+2020-09-18,"Itapissuma",0,30,1,351
+2020-09-18,"Jaboatão dos Guararapes",0,840,48,8540
+2020-09-18,"Moreno",1,46,1,404
+2020-09-18,"Olinda",0,479,83,5849
+2020-09-18,"Paulista",2,368,16,4037
+2020-09-18,"Pombos",0,26,2,688
+2020-09-18,"Recife",1,2349,119,33078
+2020-09-18,"São Lourenço da Mata",0,119,3,966
+2020-09-18,"Vitória de Santo Antão",1,148,10,1917
+2020-09-19,"Abreu e Lima",0,95,5,840
+2020-09-19,"Araçoiaba",0,16,1,155
+2020-09-19,"Cabo de Santo Agostinho",5,244,12,1853
+2020-09-19,"Camaragibe",2,174,1,2037
+2020-09-19,"Chã Grande",0,14,2,174
+2020-09-19,"Chã de Alegria",0,10,0,182
+2020-09-19,"Fernando de Noronha",0,0,0,119
+2020-09-19,"Glória do Goitá",0,27,0,285
+2020-09-19,"Igarassu",1,100,2,809
+2020-09-19,"Ilha de Itamaracá",0,14,3,354
+2020-09-19,"Ipojuca",0,93,4,846
+2020-09-19,"Itapissuma",0,30,0,351
+2020-09-19,"Jaboatão dos Guararapes",0,840,52,8592
+2020-09-19,"Moreno",0,46,5,409
+2020-09-19,"Olinda",1,480,38,5887
+2020-09-19,"Paulista",1,369,5,4042
+2020-09-19,"Pombos",0,26,0,688
+2020-09-19,"Recife",10,2359,120,33198
+2020-09-19,"São Lourenço da Mata",1,120,3,969
+2020-09-19,"Vitória de Santo Antão",0,148,18,1935
+2020-09-20,"Abreu e Lima",0,95,0,840
+2020-09-20,"Araçoiaba",0,16,0,155
+2020-09-20,"Cabo de Santo Agostinho",1,245,0,1853
+2020-09-20,"Camaragibe",0,174,0,2037
+2020-09-20,"Chã Grande",0,14,0,174
+2020-09-20,"Chã de Alegria",0,10,0,182
+2020-09-20,"Fernando de Noronha",0,0,0,119
+2020-09-20,"Glória do Goitá",0,27,0,285
+2020-09-20,"Igarassu",1,101,1,810
+2020-09-20,"Ilha de Itamaracá",0,14,0,354
+2020-09-20,"Ipojuca",0,93,0,846
+2020-09-20,"Itapissuma",0,30,0,351
+2020-09-20,"Jaboatão dos Guararapes",0,840,4,8596
+2020-09-20,"Moreno",0,46,0,409
+2020-09-20,"Olinda",0,480,1,5888
+2020-09-20,"Paulista",0,369,0,4042
+2020-09-20,"Pombos",0,26,0,688
+2020-09-20,"Recife",-2,2357,375,33573
+2020-09-20,"São Lourenço da Mata",0,120,0,969
+2020-09-20,"Vitória de Santo Antão",1,149,0,1935
+2020-09-21,"Abreu e Lima",1,96,2,842
+2020-09-21,"Araçoiaba",0,16,0,155
+2020-09-21,"Cabo de Santo Agostinho",0,245,17,1870
+2020-09-21,"Camaragibe",1,175,1,2038
+2020-09-21,"Chã Grande",0,14,0,174
+2020-09-21,"Chã de Alegria",0,10,0,182
+2020-09-21,"Fernando de Noronha",0,0,0,119
+2020-09-21,"Glória do Goitá",0,27,0,285
+2020-09-21,"Igarassu",0,101,1,811
+2020-09-21,"Ilha de Itamaracá",0,14,0,354
+2020-09-21,"Ipojuca",0,93,0,846
+2020-09-21,"Itapissuma",0,30,0,351
+2020-09-21,"Jaboatão dos Guararapes",1,841,3,8599
+2020-09-21,"Moreno",0,46,1,410
+2020-09-21,"Olinda",-1,479,-1,5887
+2020-09-21,"Paulista",1,370,2,4044
+2020-09-21,"Pombos",0,26,0,688
+2020-09-21,"Recife",1,2358,160,33733
+2020-09-21,"São Lourenço da Mata",0,120,1,970
+2020-09-21,"Vitória de Santo Antão",0,149,7,1942
+2020-09-22,"Abreu e Lima",2,98,0,842
+2020-09-22,"Araçoiaba",1,17,0,155
+2020-09-22,"Cabo de Santo Agostinho",3,248,25,1895
+2020-09-22,"Camaragibe",0,175,23,2061
+2020-09-22,"Chã Grande",0,14,5,179
+2020-09-22,"Chã de Alegria",0,10,-2,180
+2020-09-22,"Fernando de Noronha",0,0,0,119
+2020-09-22,"Glória do Goitá",0,27,0,285
+2020-09-22,"Igarassu",0,101,1,812
+2020-09-22,"Ilha de Itamaracá",0,14,3,357
+2020-09-22,"Ipojuca",0,93,1,847
+2020-09-22,"Itapissuma",0,30,1,352
+2020-09-22,"Jaboatão dos Guararapes",1,842,45,8644
+2020-09-22,"Moreno",0,46,2,412
+2020-09-22,"Olinda",4,483,2,5889
+2020-09-22,"Paulista",6,376,4,4048
+2020-09-22,"Pombos",0,26,-1,687
+2020-09-22,"Recife",2,2360,113,33846
+2020-09-22,"São Lourenço da Mata",0,120,5,975
+2020-09-22,"Vitória de Santo Antão",0,149,15,1957
+2020-09-23,"Abreu e Lima",3,101,1,843
+2020-09-23,"Araçoiaba",0,17,0,155
+2020-09-23,"Cabo de Santo Agostinho",3,251,9,1904
+2020-09-23,"Camaragibe",0,175,5,2066
+2020-09-23,"Chã Grande",0,14,0,179
+2020-09-23,"Chã de Alegria",0,10,0,180
+2020-09-23,"Fernando de Noronha",0,0,0,119
+2020-09-23,"Glória do Goitá",0,27,0,285
+2020-09-23,"Igarassu",8,109,5,817
+2020-09-23,"Ilha de Itamaracá",0,14,1,358
+2020-09-23,"Ipojuca",0,93,1,848
+2020-09-23,"Itapissuma",2,32,3,355
+2020-09-23,"Jaboatão dos Guararapes",-1,841,44,8688
+2020-09-23,"Moreno",0,46,1,413
+2020-09-23,"Olinda",0,483,11,5900
+2020-09-23,"Paulista",2,378,4,4052
+2020-09-23,"Pombos",1,27,1,688
+2020-09-23,"Recife",3,2363,63,33909
+2020-09-23,"São Lourenço da Mata",1,121,13,988
+2020-09-23,"Vitória de Santo Antão",1,150,3,1960
+2020-09-24,"Abreu e Lima",0,101,2,845
+2020-09-24,"Araçoiaba",0,17,0,155
+2020-09-24,"Cabo de Santo Agostinho",-2,249,-2,1902
+2020-09-24,"Camaragibe",1,176,10,2076
+2020-09-24,"Chã Grande",0,14,0,179
+2020-09-24,"Chã de Alegria",0,10,0,180
+2020-09-24,"Fernando de Noronha",0,0,0,119
+2020-09-24,"Glória do Goitá",0,27,0,285
+2020-09-24,"Igarassu",0,109,0,817
+2020-09-24,"Ilha de Itamaracá",0,14,1,359
+2020-09-24,"Ipojuca",-1,92,8,856
+2020-09-24,"Itapissuma",0,32,1,356
+2020-09-24,"Jaboatão dos Guararapes",-1,840,37,8725
+2020-09-24,"Moreno",1,47,6,419
+2020-09-24,"Olinda",-1,482,8,5908
+2020-09-24,"Paulista",2,380,7,4059
+2020-09-24,"Pombos",-1,26,-3,685
+2020-09-24,"Recife",17,2380,90,33999
+2020-09-24,"São Lourenço da Mata",0,121,6,994
+2020-09-24,"Vitória de Santo Antão",1,151,5,1965
+2020-09-25,"Abreu e Lima",0,101,2,847
+2020-09-25,"Araçoiaba",0,17,0,155
+2020-09-25,"Cabo de Santo Agostinho",1,250,11,1913
+2020-09-25,"Camaragibe",0,176,0,2076
+2020-09-25,"Chã Grande",0,14,0,179
+2020-09-25,"Chã de Alegria",0,10,0,180
+2020-09-25,"Fernando de Noronha",0,0,0,119
+2020-09-25,"Glória do Goitá",0,27,0,285
+2020-09-25,"Igarassu",1,110,2,819
+2020-09-25,"Ilha de Itamaracá",0,14,0,359
+2020-09-25,"Ipojuca",0,92,5,861
+2020-09-25,"Itapissuma",0,32,0,356
+2020-09-25,"Jaboatão dos Guararapes",-1,839,34,8759
+2020-09-25,"Moreno",0,47,1,420
+2020-09-25,"Olinda",2,484,5,5913
+2020-09-25,"Paulista",2,382,12,4071
+2020-09-25,"Pombos",0,26,0,685
+2020-09-25,"Recife",0,2380,71,34070
+2020-09-25,"São Lourenço da Mata",0,121,3,997
+2020-09-25,"Vitória de Santo Antão",0,151,5,1970
+2020-09-26,"Abreu e Lima",2,103,4,851
+2020-09-26,"Araçoiaba",0,17,0,155
+2020-09-26,"Cabo de Santo Agostinho",0,250,7,1920
+2020-09-26,"Camaragibe",6,182,0,2076
+2020-09-26,"Chã Grande",0,14,1,180
+2020-09-26,"Chã de Alegria",0,10,0,180
+2020-09-26,"Fernando de Noronha",0,0,0,119
+2020-09-26,"Glória do Goitá",0,27,0,285
+2020-09-26,"Igarassu",2,112,2,821
+2020-09-26,"Ilha de Itamaracá",0,14,0,359
+2020-09-26,"Ipojuca",0,92,6,867
+2020-09-26,"Itapissuma",0,32,0,356
+2020-09-26,"Jaboatão dos Guararapes",-4,835,24,8783
+2020-09-26,"Moreno",1,48,3,423
+2020-09-26,"Olinda",4,488,12,5925
+2020-09-26,"Paulista",1,383,3,4074
+2020-09-26,"Pombos",1,27,1,686
+2020-09-26,"Recife",5,2385,99,34169
+2020-09-26,"São Lourenço da Mata",1,122,2,999
+2020-09-26,"Vitória de Santo Antão",0,151,5,1975
+2020-09-27,"Abreu e Lima",0,103,0,851
+2020-09-27,"Araçoiaba",0,17,0,155
+2020-09-27,"Cabo de Santo Agostinho",1,251,0,1920
+2020-09-27,"Camaragibe",1,183,1,2077
+2020-09-27,"Chã Grande",0,14,0,180
+2020-09-27,"Chã de Alegria",0,10,0,180
+2020-09-27,"Fernando de Noronha",0,0,0,119
+2020-09-27,"Glória do Goitá",0,27,0,285
+2020-09-27,"Igarassu",2,114,1,822
+2020-09-27,"Ilha de Itamaracá",0,14,0,359
+2020-09-27,"Ipojuca",0,92,0,867
+2020-09-27,"Itapissuma",0,32,1,357
+2020-09-27,"Jaboatão dos Guararapes",0,835,2,8785
+2020-09-27,"Moreno",0,48,0,423
+2020-09-27,"Olinda",0,488,2,5927
+2020-09-27,"Paulista",0,383,2,4076
+2020-09-27,"Pombos",1,28,1,687
+2020-09-27,"Recife",0,2385,10,34179
+2020-09-27,"São Lourenço da Mata",1,123,2,1001
+2020-09-27,"Vitória de Santo Antão",1,152,0,1975
+2020-09-28,"Abreu e Lima",0,103,1,852
+2020-09-28,"Araçoiaba",0,17,0,155
+2020-09-28,"Cabo de Santo Agostinho",0,251,1,1921
+2020-09-28,"Camaragibe",0,183,0,2077
+2020-09-28,"Chã Grande",0,14,0,180
+2020-09-28,"Chã de Alegria",0,10,0,180
+2020-09-28,"Fernando de Noronha",0,0,0,119
+2020-09-28,"Glória do Goitá",0,27,1,286
+2020-09-28,"Igarassu",1,115,-1,821
+2020-09-28,"Ilha de Itamaracá",0,14,0,359
+2020-09-28,"Ipojuca",0,92,0,867
+2020-09-28,"Itapissuma",0,32,0,357
+2020-09-28,"Jaboatão dos Guararapes",0,835,5,8790
+2020-09-28,"Moreno",0,48,0,423
+2020-09-28,"Olinda",0,488,5,5932
+2020-09-28,"Paulista",0,383,0,4076
+2020-09-28,"Pombos",0,28,0,687
+2020-09-28,"Recife",0,2385,13,34192
+2020-09-28,"São Lourenço da Mata",0,123,0,1001
+2020-09-28,"Vitória de Santo Antão",0,152,0,1975
+2020-09-29,"Abreu e Lima",0,103,5,857
+2020-09-29,"Araçoiaba",0,17,0,155
+2020-09-29,"Cabo de Santo Agostinho",2,253,23,1944
+2020-09-29,"Camaragibe",0,183,30,2107
+2020-09-29,"Chã Grande",0,14,5,185
+2020-09-29,"Chã de Alegria",0,10,-1,179
+2020-09-29,"Fernando de Noronha",0,0,0,119
+2020-09-29,"Glória do Goitá",0,27,1,287
+2020-09-29,"Igarassu",3,118,2,823
+2020-09-29,"Ilha de Itamaracá",0,14,1,360
+2020-09-29,"Ipojuca",0,92,1,868
+2020-09-29,"Itapissuma",0,32,0,357
+2020-09-29,"Jaboatão dos Guararapes",-1,834,78,8868
+2020-09-29,"Moreno",-1,47,-1,422
+2020-09-29,"Olinda",0,488,37,5969
+2020-09-29,"Paulista",2,385,23,4099
+2020-09-29,"Pombos",0,28,7,694
+2020-09-29,"Recife",4,2389,257,34449
+2020-09-29,"São Lourenço da Mata",2,125,-3,998
+2020-09-29,"Vitória de Santo Antão",0,152,4,1979
+2020-09-30,"Abreu e Lima",4,107,2,859
+2020-09-30,"Araçoiaba",0,17,1,156
+2020-09-30,"Cabo de Santo Agostinho",0,253,12,1956
+2020-09-30,"Camaragibe",0,183,17,2124
+2020-09-30,"Chã Grande",0,14,0,185
+2020-09-30,"Chã de Alegria",0,10,1,180
+2020-09-30,"Fernando de Noronha",0,0,0,119
+2020-09-30,"Glória do Goitá",0,27,1,288
+2020-09-30,"Igarassu",0,118,15,838
+2020-09-30,"Ilha de Itamaracá",0,14,1,361
+2020-09-30,"Ipojuca",0,92,0,868
+2020-09-30,"Itapissuma",0,32,0,357
+2020-09-30,"Jaboatão dos Guararapes",1,835,60,8928
+2020-09-30,"Moreno",0,47,0,422
+2020-09-30,"Olinda",1,489,14,5983
+2020-09-30,"Paulista",2,387,4,4103
+2020-09-30,"Pombos",0,28,0,694
+2020-09-30,"Recife",3,2392,94,34543
+2020-09-30,"São Lourenço da Mata",1,126,0,998
+2020-09-30,"Vitória de Santo Antão",0,152,1,1980
+2020-10-01,"Abreu e Lima",2,109,1,860
+2020-10-01,"Araçoiaba",0,17,1,157
+2020-10-01,"Cabo de Santo Agostinho",0,253,2,1958
+2020-10-01,"Camaragibe",0,183,6,2130
+2020-10-01,"Chã Grande",0,14,0,185
+2020-10-01,"Chã de Alegria",0,10,0,180
+2020-10-01,"Fernando de Noronha",0,0,1,120
+2020-10-01,"Glória do Goitá",0,27,2,290
+2020-10-01,"Igarassu",2,120,1,839
+2020-10-01,"Ilha de Itamaracá",0,14,5,366
+2020-10-01,"Ipojuca",1,93,7,875
+2020-10-01,"Itapissuma",0,32,0,357
+2020-10-01,"Jaboatão dos Guararapes",3,838,57,8985
+2020-10-01,"Moreno",0,47,1,423
+2020-10-01,"Olinda",0,489,15,5998
+2020-10-01,"Paulista",3,390,13,4116
+2020-10-01,"Pombos",0,28,0,694
+2020-10-01,"Recife",2,2394,90,34633
+2020-10-01,"São Lourenço da Mata",1,127,3,1001
+2020-10-01,"Vitória de Santo Antão",1,153,1,1981
+2020-10-02,"Abreu e Lima",0,109,0,860
+2020-10-02,"Araçoiaba",0,17,-1,156
+2020-10-02,"Cabo de Santo Agostinho",0,253,13,1971
+2020-10-02,"Camaragibe",2,185,7,2137
+2020-10-02,"Chã Grande",0,14,1,186
+2020-10-02,"Chã de Alegria",0,10,0,180
+2020-10-02,"Fernando de Noronha",0,0,0,120
+2020-10-02,"Glória do Goitá",0,27,-2,288
+2020-10-02,"Igarassu",0,120,1,840
+2020-10-02,"Ilha de Itamaracá",0,14,0,366
+2020-10-02,"Ipojuca",0,93,4,879
+2020-10-02,"Itapissuma",0,32,0,357
+2020-10-02,"Jaboatão dos Guararapes",0,838,63,9048
+2020-10-02,"Moreno",0,47,2,425
+2020-10-02,"Olinda",0,489,40,6038
+2020-10-02,"Paulista",0,390,7,4123
+2020-10-02,"Pombos",0,28,0,694
+2020-10-02,"Recife",8,2402,102,34735
+2020-10-02,"São Lourenço da Mata",0,127,4,1005
+2020-10-02,"Vitória de Santo Antão",0,153,1,1982
+2020-10-03,"Abreu e Lima",0,109,0,860
+2020-10-03,"Araçoiaba",0,17,0,156
+2020-10-03,"Cabo de Santo Agostinho",0,253,0,1971
+2020-10-03,"Camaragibe",0,185,0,2137
+2020-10-03,"Chã Grande",0,14,0,186
+2020-10-03,"Chã de Alegria",0,10,0,180
+2020-10-03,"Fernando de Noronha",0,0,0,120
+2020-10-03,"Glória do Goitá",0,27,0,288
+2020-10-03,"Igarassu",0,120,0,840
+2020-10-03,"Ilha de Itamaracá",0,14,0,366
+2020-10-03,"Ipojuca",0,93,0,879
+2020-10-03,"Itapissuma",0,32,0,357
+2020-10-03,"Jaboatão dos Guararapes",0,838,0,9048
+2020-10-03,"Moreno",0,47,0,425
+2020-10-03,"Olinda",0,489,0,6038
+2020-10-03,"Paulista",0,390,0,4123
+2020-10-03,"Pombos",0,28,0,694
+2020-10-03,"Recife",0,2402,0,34735
+2020-10-03,"São Lourenço da Mata",0,127,0,1005
+2020-10-03,"Vitória de Santo Antão",0,153,0,1982
